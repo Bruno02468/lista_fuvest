@@ -20,8 +20,8 @@
         <br>
         Agora, de onde você colou essa lista?
         <select id="origem_lista">
-            <option value="txt">Lista em TXT</option>
             <option value="pdf">Lista em PDF</option>
+            <option value="txt">Lista em TXT</option>
         </select><br>
         <br>
         Agora especifique os cursos e carreiras pelos quais você quer procurar.
@@ -29,17 +29,18 @@
         <button onclick="add_procurado();">Adicionar curso/carreira</button>
         <button onclick="remove_procurado();">Remover curso/carreira</button>
         <br>
+        <br>
         <div id="criterios"></div><br>
         <br>
         Se estiver tudo OK, gere a lista no formato que quiser.<br>
         Escolha uma opção e divirta-se!<br>
         <br>
-        Gerar
+        Gerar uma
         <select id="formato">
-            <option value="lista">lista de nomes, um por linha</option>
-            <option value="html">planilha (HTML) numa nova aba</option>
-            <option value="xls">planilha XLS</option>
-        </select>:
+            <option value="lista">lista em texto puro</option>
+            <option value="html">planilha HTML numa nova aba</option>
+            <option value="xls">planilha XLS para download</option>
+        </select> e
         <button onclick="hora_do_show();">manda ver!</button><br>
         <br>
         <br>

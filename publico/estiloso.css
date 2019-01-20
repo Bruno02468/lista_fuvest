@@ -2,6 +2,11 @@ body {
 	text-align: center;
 	font-family: sans-serif;
 }
+
 sup {
 	font-size: 50%;
+}
+
+select {
+    max-width: 20em;
 }
