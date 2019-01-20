@@ -8,4 +8,4 @@ provavelmente tem uma versão live em https://segredos.licoes.com/patifaria/list
 
 código aberto, licença MIT; use livremente, mas me dê atribuição
 
-se tiver gostado, aceito gorjetas via picpay \@bruno.borges
+se tiver gostado, aceito gorjetas via picpay \@borginhos rs
