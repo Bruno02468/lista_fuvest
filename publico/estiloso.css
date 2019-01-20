@@ -3,6 +3,10 @@
 body {
 	text-align: center;
 	font-family: sans-serif;
+    max-width: 36em;
+    margin: 0 auto;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
 }
 
 sup {
