@@ -37,7 +37,7 @@ const criterios = document.getElementById("criterios");
 const tipo_lista = document.getElementById("origem_lista");
 const textarea = document.getElementById("lista");
 const formato = document.getElementById("formato");
-const cachorro = document.getElementById("cachorro");
+const destino = document.getElementById("destino");
 
 // primeiramente, vamos puxar a lista de códigos de curso e carreira.
 var codigos = null;
@@ -219,39 +219,54 @@ function txt(lista) {
     return resultado;
 }
 
-// cria um link virtual para os dados
+// converte os candidados numa lista linda e maravilhosa em CSV
+function csv(lista) {
+    var resultado = "";
+    iterar(lista, function (nome, car, cur, carreira, curso) {
+        resultado += nome + "," + carreira + "," + curso + "\n";
+    });
+    return resultado;
+}
 
-
-// hora do show: gerar os dados pedidos e mostrar pro usuário!
+// hora do show: gera o formato relevante e faz o que o usuário pediu
 function hora_do_show() {
-    var quero = formato.value;
+    // primeiro passo: gerar os dados relevantes
     var matches = procura_matches();
-    if (!matches.length) {
-        cachorro.innerHTML = "";
+    var dados = null;
+    var datatype = null;
+    switch (formato.value) {
+        case "xls":
+            datatype = "data:application/vnd.ms-excel;base64,";
+            dados = btoa(planilha(matches));
+            break;
+        case "html":
+            datatype = "data:text/html,";
+            dados = planilha(matches);
+            break;
+        case "csv":
+            datatype = "data:text/csv,"
+            dados = csv(matches);
+            break;
+        case "txt":
+        default:
+            datatype = "data:text/plain,"
+            dados = txt(matches);
+            break;
     }
-    if (quero === "lista") {
-        // gerar lista em texto puro numa nova guia
-        var dados = encodeURIComponent(txt(matches));
-        var href = "data:text/plain," + dados;
+    // segundo passo: nova guia ou download
+    if (destino.value === "guia") {
+        // nova guia: usar um truque sujo para navegar para dataurl
+        var href = datatype + encodeURIComponent(dados);
         var win = window.open();
         win.document.write("<iframe src=\"" + href  + "\" frameborder=\"0\" "
             + "style=\"border:0; top:0px; left:0px; bottom:0px; right:0px; "
             + "width:100%; height:100%;\" allowfullscreen></iframe>");
-    } else if (quero === "html") {
-        // planilha HTML numa nova guia
-        var dados = encodeURIComponent(planilha(matches));
-        var href = "data:text/html," + dados;
-        var win = window.open();
-        win.document.write("<iframe src=\"" + href  + "\" frameborder=\"0\" "
-            + "style=\"border:0; top:0px; left:0px; bottom:0px; right:0px; "
-            + "width:100%; height:100%;\" allowfullscreen></iframe>");
-    } else if (quero == "xls") {
-        // xls para download
-        var dados = btoa(planilha(matches));
-        var lel = document.createElement("a");
-        var data_type = "data:application/vnd.ms-excel";
-        lel.href = data_type + ";base64," + dados;
-        lel.download = "fuvest_aprovados.xls";
-        lel.click();
+    } else {
+        // download: usar um truque sujo para baixar dados puros
+        var link = document.createElement("a");
+        link.href = datatype + dados;
+        link.download = "fuvest_aprovados." + formato.value;
+        link.click();
     }
+    // é isto.
 }

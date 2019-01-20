@@ -54,14 +54,26 @@
         <br>
         Gerar uma
         <select id="formato">
-            <option value="lista">lista em texto puro</option>
-            <option value="html">planilha HTML numa nova aba</option>
-            <option value="xls">planilha XLS para download</option>
+            <option value="txt">lista em .TXT simples</option>
+            <option value="html">planilha .HTML</option>
+            <option value="xls">planilha .XLS</option>
+            <option value="csv">dados em .CSV</option>
+        </select>
+        <select id="destino">
+            <option value="guia">numa nova guia</option>
+            <option value="dl">para download imediato</option>
         </select> e
         <button onclick="hora_do_show();">manda ver!</button><br>
+        <small><small>
+            Note que nem todos os formatos podem ser visualizados no navegador.<br>
+            Na dúvida, selecione a opção de download mesmo.<br>
+        </small></small>
         <br>
         <br>
         <small><i>
+            Se encontrar qualquer problema ou bug, reporte para
+            <a href="mailto:bruno@paschoalinoto.com">bruno@paschoalinoto.com</a>
+            ou numa issue no repositório abaixo.<br>
             Se esta ferramenta grátis te ajudou, considere agradecer via PicPay,
             meu ID é @borginhos.<br>
             Se você estiver interessado no código, ele é aberto sob a licença
