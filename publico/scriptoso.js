@@ -101,6 +101,7 @@ function inserir_lista(elem) {
         textarea.value = "";
         return;
     }
+    textarea.value = "Espere a lista carregar...";
     var url = "listas/" + elem.value;
     ajat(url, function(txt) {
         textarea.value = txt;
