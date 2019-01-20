@@ -206,7 +206,7 @@ function pesquisa_nomes() {
     }
     var texto = textarea.value;
     do {
-        var match = regex_linha.exec(texto);
+        var match = regex_geral.exec(texto);
         if (!match) continue;
         var nome = match[1];
         var car = match[2];
