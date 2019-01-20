@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Extrator de Nomes Fuvest</title>
+        <link rel="stylesheet" href="estiloso.css">
+    </head>
+    <body>
+        <h1>Extrator de Nomes de Listas da Fuvest</h1>
+        Ouvi dizer que CAs e outras entidades achavam os nomes dos alunos<br>
+        aprovados num dado curso <i>pesquisando na mão um por um</i>.<br>
+        <br>
+        Isso me deu pesadelos. Então fiz esta pequena ferramenta.<br>
+        <br>
+        <br>
+        Primeiro passo: cole uma lista da Fuvest aí:<br>
+        <br>
+        <textarea id="lista"></textarea><br>
+        <br>
+        Agora, de onde você colou essa lista?
+        <select id="origem_lista">
+            <option value="txt">Lista em TXT</option>
+            <option value="pdf">Lista em PDF</option>
+        </select><br>
+        <br>
+        Agora especifique os cursos e carreiras pelos quais você quer procurar.
+        <br>
+        <button onclick="add_procurado();">Adicionar curso/carreira</button>
+        <button onclick="remove_procurado();">Remover curso/carreira</button>
+        <br>
+        <div id="criterios"></div><br>
+        <br>
+        Se estiver tudo OK, gere a lista no formato que quiser.<br>
+        Escolha uma opção e divirta-se!<br>
+        <br>
+        Gerar
+        <select id="formato">
+            <option value="lista">lista de nomes, um por linha</option>
+            <option value="html">planilha (HTML) numa nova aba</option>
+            <option value="xls">planilha XLS</option>
+        </select>:
+        <button onclick="hora_do_show();">manda ver!</button><br>
+        <br>
+        <br>
+        <small><i>
+            Se esta ferramenta grátis te ajudou, considere agradecer via PicPay,
+            meu endereço é @bruno.paschoalinoto.<br>
+            Se você estiver interessado no código, ele é aberto sob a licença
+            MIT, e está
+            <a href="https://github.com/Bruno02468/fuvest_ser_crime_talquei"
+            target="_blank">num repositório do GitHub</a>!<br>
+            <br>
+            Programado por Bruno Borges Paschoalinoto, da Poli (Computação).<br>
+        </i></small>
+        <br>
+        <br>
+        <script src="scriptoso.js"></script>
+    </body>
+</html>
