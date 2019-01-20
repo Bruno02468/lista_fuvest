@@ -308,9 +308,14 @@ function hora_do_show() {
         // nova guia: usar um truque sujo para navegar para dataurl
         var href = datatype + encodeURIComponent(dados);
         var win = window.open();
-        win.document.write("<iframe src=\"" + href  + "\" frameborder=\"0\" "
+        var iframe = "<iframe src=\"" + href  + "\" frameborder=\"0\" "
             + "style=\"border:0; top:0px; left:0px; bottom:0px; right:0px; "
-            + "width:100%; height:100%;\" allowfullscreen></iframe>");
+            + "width:100%; height:100%; font-family: sans-serif;\" "
+            + "allowfullscreen></iframe>";
+        var html_begin = "<html><head><meta charset=\"utf-8\"><title>Pesquisa "
+            + "de Aprovados Fuvest</title><body style=\"overflow: hidden\">";
+        var html_end = "</body></html>"
+        win.document.write(html_begin + iframe + html_end);
     } else {
         // download: usar um truque sujo para baixar dados puros
         var link = document.createElement("a");
