@@ -22,27 +22,25 @@
         Isso me deu pesadelos. Então fiz esta pequena ferramenta.<br>
         <br>
         <br>
-        Primeiro passo: cole uma lista da Fuvest aí:<br>
-        <br>
-        <small><small>
-            (É sério, pode dar "Selecionar tudo → Copiar" na lista de aprovados
-            em PDF
-            <br>
-            mesmo, só copiar e colar aqui, não se assuste se travar um
-            pouco o seu navegador.)
-        </small></small>
+        Selecione alguma das listas que eu tenho prontas:
+        <select id="listas" onchange="inserir_lista(this);">
+            <option value="empty">Escolha uma lista...</option>
+        </select><br>
+        Ou copie e cole diretamente uma lista PDF ou TXT abaixo:
         <br>
         <br>
         <textarea id="lista"></textarea><br>
         <br>
         Agora, onde você arranjou essa lista?
         <select id="origem_lista">
+            <option value="pdf">Selecionei uma das prontas</option>
             <option value="pdf">Lista em PDF</option>
             <option value="txt">Lista em TXT</option>
         </select><br>
         <br>
         Agora especifique os cursos e carreiras pelos quais você quer procurar.
         <br>
+        <small>Você pode adicionar quantos cursos for necessário.<br></small>
         <button onclick="add_procurado();">Adicionar curso/carreira</button>
         <button onclick="remove_procurado();">Remover curso/carreira</button>
         <br>

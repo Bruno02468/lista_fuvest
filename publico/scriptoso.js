@@ -32,24 +32,44 @@ function padspaces(str, n) {
     return str + nspaces(n - str.length);
 }
 
+// função de utilidade: requisita texto
+function ajat(url, callback) {
+    var req = new XMLHttpRequest();
+    req.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+            callback(this.responseText);
+        }
+    };
+    req.open("GET", url, true);
+    req.send();
+}
+
+// função de utilidade: requisita um json
+function ajaj(url, callback) {
+    ajat(url, function(t) {
+        callback(JSON.parse(t));
+    });
+}
+
 // elementos da DOM que eu vou usar com frequência
 const criterios = document.getElementById("criterios");
 const tipo_lista = document.getElementById("origem_lista");
 const textarea = document.getElementById("lista");
 const formato = document.getElementById("formato");
 const destino = document.getElementById("destino");
+const lista_listas = document.getElementById("listas");
 
-// primeiramente, vamos puxar a lista de códigos de curso e carreira.
+// primeiramente, vamos puxar a lista de códigos de curso e carreira
 var codigos = null;
-var ajaj = new XMLHttpRequest();
-ajaj.onreadystatechange = function() {
-if (this.readyState == 4 && this.status == 200) {
-        codigos = JSON.parse(this.responseText);
-        gerar_menu_carreiras();
-    }
-};
-ajaj.open("GET", "codigos.json", true);
-ajaj.send();
+var listas = null;
+ajaj("codigos.json", function(data) {
+    codigos = data;
+    gerar_menu_carreiras();
+    ajaj("listas.json", function(more_data) {
+        listas = more_data;
+        gerar_lista_listas(more_data);
+    });
+});
 
 // segundamente, gerar um menu para lista de carreiras
 // coloquei numa função porque temos que esperar o JSON carregar
@@ -64,6 +84,27 @@ function gerar_menu_carreiras() {
     }
     // sempre começar com um curso
     add_procurado();
+}
+
+// gera a "lista de listas" disponíveis
+function gerar_lista_listas(dados) {
+    for (lista of dados) {
+        lista_listas.innerHTML += make_option(lista.arquivo, lista.chamada
+            + "ª chamada de " + lista.ano);
+    }
+    lista_listas.value = "empty";
+}
+
+// caso o usuário selecione para usar uma das listas pré-selecionadas
+function inserir_lista(elem) {
+    if (elem.value === "empty") {
+        textarea.value = "";
+        return;
+    }
+    var url = "listas/" + elem.value;
+    ajat(url, function(txt) {
+        textarea.value = txt;
+    });
 }
 
 // gera uma lista de cursos para uma dada carreira
@@ -96,11 +137,14 @@ var procurados = 0;
 function add_procurado() {
     procurados++;
     var id_base = "procurado-" + procurados;
-    var seletor = "<div id=\"" + id_base + "\"><select id=\"" + id_base
+    var div = document.createElement("div");
+    div.id = id_base;
+    var seletor = "<select id=\"" + id_base
         + "-car\" onchange=\"update_procurado(" + procurados + ");\">"
         + menu_carreiras + "</select> - <select id=\"" + id_base + "-cur\">"
-        + "</select></div>";
-    criterios.innerHTML += seletor;
+        + "</select>";
+    div.innerHTML = seletor;
+    criterios.appendChild(div);
 }
 
 // remove um curso para ser procurado
@@ -150,24 +194,24 @@ function match_geral(alvo) {
 // procura relações [nome, [carreira, curso]] em listas de aprovados
 function pesquisa_nomes() {
     var modalidade = tipo_lista.value;
-    var regex_linha = null;
+    var regex_geral = null;
     var resultado = [];
     if (modalidade === "pdf") {
-        regex_linha = /(.+) \d+ (\d+)−(\d+)/g;
+        regex_geral = /^(.+) \d+ (\d+)\D(\d+)/gm;
     } else if (modalidade === "txt") {
-        regex_linha = /(.+) +\d+ (\d+)-(\d+)/g;
+        regex_geral = /^(.+) +\d+ (\d+)-(\d+)/gm;
     } else {
         return [];
     }
-    var linhas = textarea.value.split("\n");
-    for (linha of linhas) {
-        var match = regex_linha.exec(linha);
+    var texto = textarea.value;
+    do {
+        var match = regex_linha.exec(texto);
         if (!match) continue;
         var nome = match[1];
         var car = match[2];
         var cur = match[3];
         resultado.push([nome, [car, cur]]);
-    }
+    } while (match);
     return resultado;
 }
 
@@ -230,6 +274,11 @@ function csv(lista) {
 
 // hora do show: gera o formato relevante e faz o que o usuário pediu
 function hora_do_show() {
+    // exigir pelo menos um critério
+    if (todos_criterios().length < 1) {
+        alert("Especifique pelo menos um curso ou carreira!");
+        return;
+    }
     // primeiro passo: gerar os dados relevantes
     var matches = procura_matches();
     var dados = null;
