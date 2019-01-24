@@ -1,42 +1,7 @@
 [
     {
-        "ano": 2018,
+        "ano": 2019,
         "chamada": 1,
-        "arquivo": "2018_1.txt"
-    },
-    {
-        "ano": 2018,
-        "chamada": 2,
-        "arquivo": "2018_2.txt"
-    },
-    {
-        "ano": 2018,
-        "chamada": 3,
-        "arquivo": "2018_3.txt"
-    },
-    {
-        "ano": 2018,
-        "chamada": 4,
-        "arquivo": "2018_4.txt"
-    },
-    {
-        "ano": 2018,
-        "chamada": 5,
-        "arquivo": "2018_5.txt"
-    },
-    {
-        "ano": 2018,
-        "chamada": 6,
-        "arquivo": "2018_6.txt"
-    },
-    {
-        "ano": 2018,
-        "chamada": 7,
-        "arquivo": "2018_7.txt"
-    },
-    {
-        "ano": 2018,
-        "chamada": 8,
-        "arquivo": "2018_8.txt"
+        "arquivo": "2019_1.txt"
     }
 ]

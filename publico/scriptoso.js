@@ -198,7 +198,7 @@ function pesquisa_nomes() {
     var regex_geral = null;
     var resultado = [];
     if (modalidade === "pdf") {
-        regex_geral = /^(.+) \d+ (\d+)\D(\d+)/gm;
+        regex_geral = /^(.+) (?:\d|\.)+ (\d+)\D(\d+)/gm;
     } else if (modalidade === "txt") {
         regex_geral = /^(.+) +\d+ (\d+)-(\d+)/gm;
     } else {

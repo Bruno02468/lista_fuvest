@@ -1,0 +1,1045 @@
+CARREIRA 100
+Administração, Ciências Contábeis,
+Economia, Economia Empresarial e
+Controladoria - Ribeirão Preto
+Curso 01: Administração - Diurno -
+Ribeirão Preto
+Período: Diurno Duração: 10 semestres
+Faculdade de Economia, Administração e Contabilidade
+de Ribeirão Preto - USP
+Curso 02: Administração - Noturno -
+Ribeirão Preto
+Período: Noturno Duração: 10 semestres
+Faculdade de Economia, Administração e Contabilidade
+de Ribeirão Preto - USP
+Curso 03: Ciências Contábeis - Ribeirão
+Preto
+Período: Noturno Duração: 8 semestres
+Faculdade de Economia, Administração e Contabilidade
+de Ribeirão Preto - USP
+Curso 04: Economia - Ribeirão Preto
+Período: Noturno Duração: 10 semestres
+Faculdade de Economia, Administração e Contabilidade
+de Ribeirão Preto - USP
+Curso 05: Economia Empresarial e Controladoria - Ribeirão Preto
+Período: Diurno Duração: 8 semestres
+Faculdade de Economia, Administração e Contabilidade
+de Ribeirão Preto - USP
+CARREIRA 101
+Administração - Piracicaba
+Curso 06: Bacharelado em Administração - Piracicaba
+Período: Diurno Duração: 8 semestres
+Escola Superior de Agricultura “Luiz de Queiroz” -
+Piracicaba - USP
+CARREIRA 105
+Arquitetura - FAU
+Curso 07: Arquitetura e Urbanismo
+Período: Integral Duração: 10 semestres
+Faculdade de Arquitetura e Urbanismo - USP
+CARREIRA 110
+Arquitetura - São Carlos
+Curso 08: Arquitetura e Urbanismo -
+São Carlos
+Período: Integral Duração: 10 semestres
+Instituto de Arquitetura e Urbanismo - São Carlos - USP
+Área de ciências humanas
+CARREIRA 115
+Artes Cênicas
+Prova de Habilidades Específicas
+Curso 09: Artes Cênicas - Bacharelado
+e Licenciatura
+Período: Diurno Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 125
+Artes Visuais
+Prova de Habilidades Específicas
+Curso 10: Artes Visuais - Licenciatura e
+Bacharelado
+Período: Diurno Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 130
+Biblioteconomia
+Curso 11: Biblioteconomia - Matutino
+Período: Matutino Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+Curso 12: Biblioteconomia - Noturno
+Período: Noturno Duração: 10 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 140
+Ciências da Informação e da Documentação - Ribeirão Preto
+Curso 13: Bacharelado em Biblioteconomia e Ciência da Informação - Ribeirão Preto
+Período: Noturno Duração: 8 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 145
+Ciências Sociais
+Curso 14: Ciências Sociais - Vespertino
+Período: Vespertino Duração: 8 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+Curso 15: Ciências Sociais - Noturno
+Período: Noturno Duração: 8 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+CARREIRA 150
+Curso Superior do Audiovisual
+Curso 16: Curso Superior do Audiovisual
+Período: Diurno Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+Área de ciências humanas
+CARREIRA 160
+Direito
+Curso 18: Direito - Matutino
+Período: Matutino Duração: 10 semestres
+Faculdade de Direito - USP
+Curso 19: Direito - Noturno
+Período: Noturno Duração: 10 semestres
+Faculdade de Direito - USP
+Curso 20: Direito - Ribeirão Preto
+Período: Integral Duração: 10 semestres
+Faculdade de Direito de Ribeirão Preto - USP
+CARREIRA 155
+Design
+Curso 17: Design
+Período: Noturno Duração: 10 semestres
+Faculdade de Arquitetura e Urbanismo - USP
+CARREIRA 165
+Economia, Administração, Ciências
+Contábeis e Atuária
+Curso 21: Economia - Diurno
+Período: Diurno Duração: 8 semestres
+Faculdade de Economia, Administração e Contabilidade,
+FEA - USP
+Curso 22: Economia - Noturno
+Período: Noturno Duração: 10 semestres
+Faculdade de Economia, Administração e Contabilidade,
+FEA - USP
+Curso 23: Administração - Diurno
+Período: Diurno Duração: 8 semestres
+Faculdade de Economia, Administração e Contabilidade,
+FEA - USP
+Curso 24: Administração - Noturno
+Período: Noturno Duração: 10 semestres
+Faculdade de Economia, Administração e Contabilidade,
+FEA - USP
+Curso 25: Ciências Contábeis - Diurno
+Período: Diurno Duração: 8 semestres
+Faculdade de Economia, Administração e Contabilidade,
+FEA - USP
+Curso 26: Ciências Contábeis - Noturno
+Período: Noturno Duração: 8 semestres
+Faculdade de Economia, Administração e Contabilidade,
+FEA - USP
+Curso 27: Bacharelado em Ciências
+Atuariais
+Período: Noturno Duração: 8 semestres
+Faculdade de Economia, Administração e Contabilidade,
+FEA - USP
+Área de ciências humanas
+CARREIRA 175
+Economia - Piracicaba
+Curso 28: Ciências Econômicas -
+Piracicaba
+Período: Diurno Duração: 8 semestres
+Escola Superior de Agricultura “Luiz de Queiroz” -
+Piracicaba - USP
+CARREIRA 185
+Editoração
+Curso 29: Editoração
+Período: Matutino Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 190
+Filosofia
+Curso 30: Filosofia - Vespertino
+Período: Vespertino Duração: 8 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+Curso 31: Filosofia - Noturno
+Período: Noturno Duração: 8 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+CARREIRA 195
+Geografia
+Curso 32: Geografia - Diurno
+Período: Diurno Duração: 8 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+Curso 33: Geografia - Noturno
+Período: Noturno Duração: 10 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+CARREIRA 200
+Gestão Ambiental - USP Leste, SP
+Curso 34: Bacharelado em Gestão
+Ambiental - Matutino
+(AC: 30, EP: 9, PPI: 3)
+Período: Matutino Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Curso 35: Bacharelado em Gestão
+Ambiental - Noturno
+Período: Noturno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Área de ciências humanas
+CARREIRA 205
+Gestão Ambiental - Piracicaba
+Curso 36: Bacharelado em Gestão
+Ambiental - Piracicaba
+Período: Noturno Duração: 8 semestres
+Escola Superior de Agricultura “Luiz de Queiroz” -
+Piracicaba - USP
+CARREIRA 210
+Gestão de Políticas Públicas - USP
+Leste, SP
+Curso 37: Gestão de Políticas Públicas -
+Matutino
+Período: Matutino Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Curso 38: Gestão de Políticas Públicas -
+Noturno
+Período: Noturno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+CARREIRA 215
+História
+Curso 39: História - Vespertino
+Período: Vespertino Duração: 8 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+Curso 40: História - Noturno
+Período: Noturno Duração: 8 semestres
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+CARREIRA 220
+Jornalismo
+Curso 41: Bacharelado em Jornalismo -
+Matutino
+Período: Matutino Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+Curso 42: Bacharelado em Jornalismo -
+Noturno
+Período: Noturno Duração: 9 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 225
+Lazer e Turismo - USP Leste, SP
+Curso 43: Bacharelado em Lazer e
+Turismo - Vespertino
+Período: Vespertino Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Curso 44: Bacharelado em Lazer e
+Turismo - Noturno
+Período: Noturno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Área de ciências humanas
+CARREIRA 235
+Licenciatura em Educomunicação
+Curso 47: Licenciatura em Educomunicação
+Período: Noturno Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 230
+Letras
+Curso 45: Letras - Básico - Matutino
+Período: Matutino
+Duração: 8 semestres
+Bacharelado em Letras, Habilitações em: Português;
+Grego; Latim; Alemão; Espanhol; Francês; Inglês; Italiano;
+Árabe; Armênio; Chinês; Japonês; Russo; Coreano;
+Linguística; Português e em Linguística.
+Duração: 10 semestres
+Bacharelado em Letras, Habilitações em: Português e em
+Grego; Português e em Latim; Português e em Alemão;
+Português e em Espanhol; Português e em Francês;
+Português e em Inglês; Português e em Italiano; Português
+e em Árabe; Português e em Armênio; Português e em
+Chinês; Português e em Japonês; Português e em Russo;
+Português e em Coreano.
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+Curso 46: Letras - Básico - Noturno
+Período: Noturno
+Duração: 8 semestres
+Bacharelado em Letras, Habilitações em: Português;
+Grego; Latim; Alemão; Espanhol; Francês; Inglês;
+Italiano; Hebraico; Japonês; Linguística; Português e
+em Linguística.
+Duração: 10 semestres
+Bacharelado em Letras, Habilitações em: Português
+e em Grego; Português e em Latim; Português e em
+Alemão; Português e em Espanhol; Português e em
+Francês; Português e em Inglês; Português e em Italiano;
+Português e em Hebraico; Português e em Japonês.
+Faculdade de Filosofia, Letras e Ciências Humanas - USP
+CARREIRA 240
+Marketing - USP Leste, SP
+Curso 48: Marketing - Matutino
+Período: Matutino Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Curso 49: Marketing - Noturno
+Período: Noturno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Área de ciências humanas
+CARREIRA 245
+Música - ECA
+Prova de Habilidades Específicas
+Curso 50: Licenciatura em Música
+Período: Diurno Duração: 8 a 12 semestres
+Escola de Comunicações e Artes - USP
+Curso 51: Ciclo Básico em Composição
+ou Regência (Bacharelado em Música
+com Habilitação em Composição ou Bacharelado em Música com Habilitação
+em Regência)
+Período: Diurno Duração: 10 a 15 semestres
+(Composição) e 12 a 18 semestres (Regência)
+Escola de Comunicações e Artes - USP
+Curso 52: Bacharelado em Música com
+Habilitação em Canto e Arte Lírica
+Período: Diurno Duração: 8 a 12 semestres
+Escola de Comunicações e Artes - USP
+Curso 53: Bacharelado em Música com
+Habilitação em Instrumento de Cordas
+Dedilhadas (violão ou viola brasileira)
+Período: Diurno Duração: 8 a 12 semestres
+Escola de Comunicações e Artes - USP
+Curso 54: Bacharelado em Música com
+Habilitação em Instrumento Percussão
+Período: Diurno Duração: 8 a 12 semestres
+Escola de Comunicações e Artes - USP
+Curso 55: Bacharelado em Música com
+Habilitação em Instrumento de Teclado
+(piano ou órgão)
+Período: Diurno Duração: 8 a 12 semestres
+Escola de Comunicações e Artes - USP
+Curso 56: Bacharelado em Música com
+Habilitação em Instrumento de Cordas
+(viola, violino ou violoncelo)
+Período: Diurno Duração: 8 a 12 semestres
+Escola de Comunicações e Artes - USP
+Curso 57: Bacharelado em Música com
+Habilitação em Instrumento de Sopro
+(flauta, oboé, clarinete, clarone, fagote,
+trompa, trompete, trombone ou tuba)
+Período: Diurno Duração: 8 a 12 semestres
+Escola de Comunicações e Artes - USP
+* O candidato inscrito no Ciclo Básico em Composição
+ou Regência deverá, no dia da prova de Habilidades
+Específicas, optar entre os cursos: Bacharelado em
+Música com Habilitação em Composição ou Bacharelado
+em Música com Habilitação em Regência.
+* O candidato inscrito em um dos Cursos de Bacharelado
+em Música com Habilitação em Instrumento deverá, no
+dia da prova de Habilidades Específicas, indicar a ênfase
+(instrumento) desejada, com exceção da Habilitação em
+Instrumento Percussão.
+As ênfases (instrumentos) oferecidas constam no
+programa da prova de Habilidades Específicas (ver Seção
+Provas).
+ATENÇÃO: O CANDIDATO PODERÁ SE INSCREVER
+SOMENTE EM UM CURSO DA CARREIRA DE
+MÚSICA - ECA.
+CARREIRA 250
+Música - Ribeirão Preto
+Prova de Habilidades Específicas
+Curso 58: Música - Bacharelado e
+Licenciatura - Ribeirão Preto
+Período: Integral Duração: 8 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 255
+Pedagogia
+Curso 59: Pedagogia - Vespertino
+Período: Vespertino Duração: 8 semestres
+Faculdade de Educação - USP
+Curso 60: Pedagogia - Noturno
+Período: Noturno Duração: 8 semestres
+Faculdade de Educação - USP
+Área de ciências humanas
+CARREIRA 260
+Pedagogia - Ribeirão Preto
+Curso 61: Pedagogia - Ribeirão Preto
+Período: Noturno Duração: 8 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 265
+Publicidade e Propaganda
+Curso 62: Publicidade e Propaganda
+Matutino
+Período: Matutino Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+Curso 63: Publicidade e Propaganda
+Noturno
+Período: Noturno Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 270
+Relações Internacionais
+Curso 64: Bacharelado em Relações
+Internacionais - Diurno
+Período: Diurno Duração: 8 semestres
+Instituto de Relações Internacionais - USP
+Curso 65: Bacharelado em Relações
+Internacionais - Noturno
+Período: Noturno Duração: 8 semestres
+Instituto de Relações Internacionais - USP
+CARREIRA 280
+Têxtil e Moda - USP Leste, SP
+Curso 68: Bacharelado em Têxtil e Moda
+Período: Matutino Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+CARREIRA 275
+Relações Públicas
+Curso 66: Bacharelado em Relações
+Públicas - Matutino
+Período: Matutino Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+Curso 67: Bacharelado em Relações
+Públicas - Noturno
+Período: Noturno Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+CARREIRA 285
+Turismo
+Curso 69: Turismo
+Período: Noturno Duração: 8 semestres
+Escola de Comunicações e Artes - USP
+Área de ciências humanas
+CARREIRA 401
+Ciências Biológicas
+Curso 02: Licenciatura e Bacharelado
+em Ciências Biológicas - Integral
+Período: Integral Duração: 8 a 12 semestres
+Instituto de Biociências - USP
+Curso 03: Licenciatura e Bacharelado
+em Ciências Biológicas - Noturno
+Período: Noturno Duração: 12 a 18 semestres
+Instituto de Biociências - USP
+CARREIRA 410
+Ciências Biológicas - Ribeirão Preto
+Curso 05: Bacharelado e Licenciatura
+em Ciências Biológicas - Ribeirão Preto
+Período: Integral Duração: 10 semestres para o Bacharelado e 8 semestres para a Licenciatura
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 405
+Ciências Biológicas - Piracicaba
+Curso 04: Licenciatura e Bacharelado
+em Ciências Biológicas - Piracicaba
+Período: Noturno Duração: 10 semestres
+Escola Superior de Agricultura “Luiz de Queiroz” -
+Piracicaba - USP
+* O curso terá aulas de campo aos sábados, no período
+diurno, e um estágio no 10º semestre.
+CARREIRA 415
+Ciências Biomédicas
+Curso 06: Bacharelado em Ciências
+Biomédicas
+Período: Integral Duração: 8 semestres
+Instituto de Ciências Biomédicas - USP
+CARREIRA 400
+Bacharelado em Biotecnologia -
+USP Leste, SP
+Curso 01: Bacharelado em Biotecnologia
+Período: Diurno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Área de ciências biológicas
+CARREIRA 416
+Ciências Biomédicas - Ribeirão Preto
+Curso 07: Bacharelado em Ciências
+Biomédicas - Ênfases em Ciências Básicas da Saúde e em Biotecnologia em
+Saúde - Ribeirão Preto
+Período: Integral Duração: 8 semestres
+Faculdade de Medicina de Ribeirão Preto - USP
+CARREIRA 425
+Ciências dos Alimentos - Piracicaba
+Curso 08: Bacharelado em Ciências dos
+Alimentos - Piracicaba
+Período: Noturno Duração: 10 semestres
+Escola Superior de Agricultura “Luiz de Queiroz” -
+Piracicaba - USP
+* O curso poderá ter aulas aos sábados, no período diurno.
+CARREIRA 430
+Educação Física e Esporte
+Curso 09: Educação Física e Esporte
+Período: Integral Duração: 8 semestres
+Escola de Educação Física e Esporte - USP
+CARREIRA 435
+Educação Física e Esporte - Ribeirão
+Preto
+Curso 10: Educação Física e Esporte -
+Bacharelado - Ribeirão Preto
+Período: Integral Duração: 8 semestres
+Escola de Educação Física e Esporte de Ribeirão Preto
+USP
+CARREIRA 436
+Educação Física e Saúde - USP Leste, SP
+Curso 11: Bacharelado em Educação
+Física e Saúde
+Período: Diurno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+CARREIRA 440
+Enfermagem
+Curso 12: Enfermagem
+Período: Integral Duração: 8 semestres para os alunos
+que cursarem somente o Bacharelado e 9 semestres para
+os alunos que optarem também pela Licenciatura.
+Escola de Enfermagem - USP
+CARREIRA 445
+Enfermagem - Ribeirão Preto
+Curso 13: Bacharelado em Enfermagem -
+Ribeirão Preto (AC: 48, EP: 10, PPI: 6)
+Período: Integral Duração: 8 semestres
+Escola de Enfermagem de Ribeirão Preto - USP
+Curso 14: Bacharelado e Licenciatura
+em Enfermagem - Ribeirão Preto
+Período: Noturno Duração: 10 semestres
+Escola de Enfermagem de Ribeirão Preto - USP
+* No período vespertino, serão realizadas aulas (teóricas e
+práticas) e estágio curricular, de acordo com programação
+divulgada previamente.
+Área de ciências biológicas
+CARREIRA 470
+Fisioterapia
+Curso 20: Fisioterapia - São Paulo
+Período: Integral Duração: 10 semestres
+Faculdade de Medicina – USP
+CARREIRA 465
+Farmácia - Bioquímica - Ribeirão
+Preto
+Curso 19: Farmácia-Bioquímica - Integral - Ribeirão Preto
+Período: Integral Duração: 10 semestres
+Faculdade de Ciências Farmacêuticas de Ribeirão
+Preto - USP
+CARREIRA 455
+Engenharia Florestal - Piracicaba
+Curso 16: Engenharia Florestal -
+Piracicaba
+Período: Integral Duração: 10 semestres
+Escola Superior de Agricultura “Luiz de Queiroz” -
+Piracicaba - USP
+* Bacharelado, Licenciatura em Ciências Agrárias.
+* O curso terá aulas aos sábados, no período diurno.
+CARREIRA 460
+Farmácia - Bioquímica
+Curso 17: Farmácia-Bioquímica - Integral
+Período: Integral Duração: 10 semestres
+Faculdade de Ciências Farmacêuticas - USP
+Curso 18: Farmácia-Bioquímica - Noturno
+Período: Noturno Duração: 12 semestres
+Faculdade de Ciências Farmacêuticas - USP
+CARREIRA 450
+Engenharia Agronômica - Piracicaba
+Curso 15: Engenharia Agronômica -
+Piracicaba
+Período: Integral Duração: 10 semestres
+Escola Superior de Agricultura “Luiz de Queiroz” -
+Piracicaba - USP
+* Bacharelado, Licenciatura em Ciências Agrárias.
+* O calendário escolar prevê aulas aos sábados.
+CARREIRA 475
+Fisioterapia - Ribeirão Preto
+Curso 21: Fisioterapia - Ribeirão Preto
+Período: Noturno Duração: 10 semestres
+Faculdade de Medicina de Ribeirão Preto – USP
+Área de ciências biológicas
+CARREIRA 490
+Fonoaudiologia - Ribeirão Preto
+Curso 24: Fonoaudiologia - Ribeirão Preto
+Período: Integral Duração: 8 semestres
+Faculdade de Medicina de Ribeirão Preto - USP
+CARREIRA 480
+Fonoaudiologia
+Curso 22: Fonoaudiologia
+Período: Integral Duração: 10 semestres
+Faculdade de Medicina - USP
+CARREIRA 485
+Fonoaudiologia - Bauru
+Curso 23: Fonoaudiologia - Bauru
+Período: Integral Duração: 8 semestres
+Faculdade de Odontologia de Bauru - USP
+CARREIRA 495
+Gerontologia - USP Leste, SP
+Curso 25: Curso de Graduação em
+Gerontologia
+Período: Vespertino Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+CARREIRA 500
+Medicina
+Curso 26: Medicina - USP/São Paulo
+Período: Integral Duração: 12 semestres
+Faculdade de Medicina - USP
+CARREIRA 501
+Medicina - Bauru
+Curso 27: Medicina - USP/Bauru
+Período: Integral Duração: 12 semestres
+Faculdade de Odontologia de Bauru - USP
+Área de ciências biológicas
+CARREIRA 510
+Medicina Veterinária
+Curso 29: Medicina Veterinária
+Período: Integral Duração: 10 semestres
+Faculdade de Medicina Veterinária e Zootecnia - USP
+CARREIRA 505
+Medicina - Ribeirão Preto
+Curso 28: Medicina - USP/Ribeirão Preto
+Período: Integral Duração: 12 semestres
+Faculdade de Medicina de Ribeirão Preto - USP
+CARREIRA 515
+Medicina Veterinária - Pirassununga
+Curso 30: Medicina Veterinária - Pirassununga
+Período: Integral Duração: 10 semestres
+Faculdade de Zootecnia e Engenharia de Alimentos -
+Pirassununga - USP
+CARREIRA 520
+Nutrição
+Curso 31: Nutrição - Matutino
+Período: Matutino Duração: 10 semestres
+Faculdade de Saúde Pública - USP
+Curso 32: Nutrição - Noturno
+Período: Noturno Duração: 10 semestres
+Faculdade de Saúde Pública - USP
+* Os estágios curriculares são obrigatórios, podendo ser
+realizados em período integral ou em meio período, pela
+manhã ou à tarde.
+CARREIRA 525
+Nutrição e Metabolismo - Ribeirão
+Preto
+Curso 33: Nutrição e Metabolismo -
+Ribeirão Preto
+Período: Integral Duração: 10 semestres
+Faculdade de Medicina de Ribeirão Preto - USP
+CARREIRA 530
+Obstetrícia - USP Leste, SP
+Curso 34: Curso de Graduação em
+Obstetrícia
+Período: Integral Duração: 9 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Área de ciências biológicas
+CARREIRA 535
+Odontologia
+Curso 35: Odontologia - Integral
+Período: Integral Duração: 10 semestres
+Faculdade de Odontologia - USP
+Curso 36: Odontologia - Noturno
+Período: Noturno Duração: 12 semestres
+Faculdade de Odontologia - USP
+* O curso noturno terá aulas aos sábados pela manhã.
+Ao longo do curso, os alunos terão de cumprir horas de
+estágios no período integral (manhã e tarde).
+CARREIRA 540
+Odontologia - Bauru
+Curso 37: Odontologia - Bauru
+Período: Integral Duração: 8 semestres
+Faculdade de Odontologia de Bauru - USP
+CARREIRA 545
+Odontologia - Ribeirão Preto
+Curso 38: Odontologia - Ribeirão Preto
+Período: Integral Duração: 10 semestres
+Faculdade de Odontologia de Ribeirão Preto - USP
+CARREIRA 550
+Psicologia
+Curso 39: Bacharelado; Licenciatura;
+Psicólogo
+Período: Integral Duração: 8 a 10 semestres
+Instituto de Psicologia - USP
+CARREIRA 555
+Psicologia - Ribeirão Preto
+Curso 40: Bacharelado; Psicólogo -
+Ribeirão Preto
+Período: Integral Duração: 8 a 10 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 560
+Saúde Pública
+Curso 41: Bacharelado em Saúde Pública
+Período: Vespertino Duração: 8 semestres
+Faculdade de Saúde Pública - USP
+* Os estágios curriculares são obrigatórios, podendo ser
+realizados em período integral ou em meio período, pela
+manhã ou à tarde.
+CARREIRA 570
+Terapia Ocupacional - Ribeirão Preto
+Curso 43: Terapia Ocupacional - Ribeirão Preto
+Período: Noturno Duração: 10 semestres
+Faculdade de Medicina de Ribeirão Preto - USP
+CARREIRA 575
+Zootecnia - Pirassununga
+Curso 44: Zootecnia - Pirassununga
+Período: Integral Duração: 10 semestres
+Faculdade de Zootecnia e Engenharia de Alimentos -
+Pirassununga - USP
+CARREIRA 565
+Terapia Ocupacional
+Curso 42: Terapia Ocupacional - São Paulo
+Período: Integral Duração: 8 semestres
+Faculdade de Medicina - USP
+Área de ciências biológicas
+CARREIRA 700
+Ciências Físicas e Biomoleculares -
+São Carlos
+Curso 01: Bacharelado em Ciências
+Físicas e Biomoleculares - Ênfase Tecnológica - São Carlos
+Período: Integral Duração: 8 semestres para o
+Bacharelado e 9 semestres para os alunos que optarem
+também pela Ênfase Tecnológica.
+Instituto de Física de São Carlos - USP
+CARREIRA 705
+Ciências da Natureza - USP Leste, SP
+Curso 02: Licenciatura em Ciências da
+Natureza - Noturno
+Período: Noturno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+CARREIRA 710
+Computação
+Curso 03: Bacharelado em Ciência da
+Computação
+Período: Diurno Duração: 8 semestres
+Instituto de Matemática e Estatística - USP
+Curso 04: Bacharelado em Sistemas de
+Informação - Matutino
+Período: Matutino Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Curso 05: Bacharelado em Sistemas
+de Informação - Noturno
+Período: Noturno Duração: 8 semestres
+USP Leste - São Paulo - Escola de Artes, Ciências e
+Humanidades
+Curso 06: Bacharelado em Ciências de
+Computação - São Carlos
+Período: Integral Duração: 10 semestres
+Instituto de Ciências Matemáticas e de Computação -
+São Carlos - USP
+Curso 07: Bacharelado em Ciência da
+Computação - Ribeirão Preto
+Período: Integral Duração: 8 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 715
+Engenharia Aeronáutica - São Carlos
+Curso 08: Engenharia Aeronáutica -
+São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+Área de ciências exatas
+CARREIRA 720
+Engenharia Ambiental - Lorena
+Curso 09: Engenharia Ambiental - Lorena
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de Lorena - EEL - USP
+CARREIRA 725
+Engenharia Ambiental - São Carlos
+Curso 10: Engenharia Ambiental - São
+Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+CARREIRA 730
+Engenharia Bioquímica - Lorena
+Curso 11: Engenharia Bioquímica - Lorena
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de Lorena - EEL - USP
+CARREIRA 735
+Engenharia Civil - São Carlos
+Curso 12: Engenharia Civil - São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+CARREIRA 740
+Engenharia de Alimentos - Pirassununga
+Curso 13: Engenharia de Alimentos -
+Diurno - Pirassununga
+Período: Diurno Duração: 10 semestres
+Faculdade de Zootecnia e Engenharia de Alimentos -
+Pirassununga - USP
+Curso 14: Engenharia de Alimentos -
+Noturno - Pirassununga
+Período: Noturno Duração: 10 semestres
+Faculdade de Zootecnia e Engenharia de Alimentos -
+Pirassununga - USP
+CARREIRA 745
+Engenharia de Biossistemas - Pirassununga
+Curso 15: Engenharia de Biossistemas
+Pirassununga
+Período: Integral Duração: 10 semestres
+Faculdade de Zootecnia e Engenharia de Alimentos -
+Pirassununga - USP
+CARREIRA 750
+Engenharia de Materiais - Lorena
+Curso 16: Engenharia de Materiais - Lorena
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de Lorena - EEL - USP
+Área de ciências exatas
+CARREIRA 770
+Engenharia Física - Lorena
+Curso 22: Engenharia Física - Lorena
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de Lorena - EEL - USP
+CARREIRA 765
+Engenharia Elétrica e de Computação - São Carlos
+Curso 19: Engenharia Elétrica (Ênfase
+em Eletrônica) - São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+Curso 20: Engenharia Elétrica (Ênfase
+em Sistemas de Energia e Automação) -
+São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+Curso 21: Engenharia de Computação
+São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+* Curso interunidades (EESC e ICMC).
+CARREIRA 760
+Engenharia de Produção - Lorena
+Curso 18: Engenharia de Produção - Lorena
+Período: Noturno Duração: 12 semestres
+Escola de Engenharia de Lorena - EEL - USP
+CARREIRA 771
+Engenharia Química - Lorena
+Curso 23: Engenharia Química - Diurno
+Lorena
+Período: Diurno Duração: 10 semestres
+Escola de Engenharia de Lorena - EEL - USP
+Curso 24: Engenharia Química - Noturno
+Lorena
+Período: Noturno Duração: 12 semestres
+Escola de Engenharia de Lorena - EEL - USP
+CARREIRA 755
+Engenharia de Materiais e Manufatura - São Carlos
+Curso 17: Engenharia de Materiais e
+Manufatura - São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+CARREIRA 775
+Engenharia - São Carlos
+Curso 25: Engenharia Mecânica - São
+Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+Curso 26: Engenharia de Produção -
+São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+Curso 27: Engenharia Mecatrônica -
+São Carlos
+Período: Integral Duração: 10 semestres
+Escola de Engenharia de São Carlos - USP
+Área de ciências exatas
+CARREIRA 780
+Engenharia na Escola Politécnica
+Curso 28: Engenharia Ambiental
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 29: Engenharia Civil
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 30: Engenharia de Computação
+(quadrimestral)
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 31: Engenharia de Materiais e
+Engenharia Metalúrgica
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 32: Engenharia de Minas
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 33: Engenharia de Petróleo - Santos
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 34: Engenharia de Produção
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 35: Engenharia Elétrica (Ênfases:
+Automação e Controle, Computação,
+Energia e Automação Elétricas, Eletrônica
+e Sistemas, Telecomunicações)
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 36: Engenharia Mecânica
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 37: Engenharia Mecatrônica
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 38: Engenharia Naval
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+Curso 39: Engenharia Química
+(quadrimestral)
+Período: Integral Duração: 10 semestres
+Escola Politécnica - USP
+* Os alunos ingressantes nos grupos de Cursos 31 e 35
+farão as opções pelas habilitações ao final do 3º ano comum
+da estrutura curricular, com base nas notas obtidas nas
+disciplinas obrigatórias constantes dessa estrutura, a contar
+do ano de ingresso.
+Área de ciências exatas
+Curso 46: Bacharelado em Astronomia
+Período: Diurno Duração: 8 semestres
+Instituto de Astronomia, Geofísica e Ciências Atmosféricas
+USP
+Curso 47: Bacharelado em Estatística
+Período: Diurno Duração: 8 semestres
+Instituto de Matemática e Estatística - USP
+Curso 48: Bacharelado em Matemática
+São Paulo
+Período: Diurno Duração: 8 semestres
+Instituto de Matemática e Estatística - USP
+Curso 49: Bacharelado em Matemática
+Aplicada
+Período: Diurno Duração: 8 semestres
+Instituto de Matemática e Estatística - USP
+Curso 50: Bacharelado em Matemática
+Aplicada e Computacional
+Período: Noturno Duração: 8 semestres
+Instituto de Matemática e Estatística - USP
+Curso 51: Matemática Aplicada e Computação Científica - São Carlos
+Período: Diurno Duração: 8 semestres
+Instituto de Ciências Matemáticas e de Computação - São
+Carlos - USP
+Curso 52: Matemática - Bacharelado
+e Licenciatura - São Carlos
+Período: Integral Duração: 8 semestres
+Instituto de Ciências Matemáticas e de Computação -
+São Carlos - USP
+Curso 53: Bacharelado em Estatística
+São Carlos
+Período: Noturno Duração: 9 semestres
+Instituto de Ciências Matemáticas e de Computação -
+São Carlos - USP
+CARREIRA 790
+Física / Física Computacional / Meteorologia / Geofísica / Astronomia /
+Estatística / Matemática / Matemática Aplicada
+Curso 40: Bacharelado em Física - Diurno - São Paulo
+Período: Diurno Duração: 8 semestres
+Instituto de Física - USP
+Curso 41: Bacharelado em Física - Noturno - São Paulo
+Período: Noturno Duração: 10 semestres
+Instituto de Física - USP
+Curso 42: Bacharelado em Física - São
+Carlos
+Período: Integral Duração: 8 semestres
+Instituto de Física de São Carlos - USP
+Curso 43: Bacharelado em Física Computacional - São Carlos
+Período: Integral Duração: 8 semestres
+Instituto de Física de São Carlos - USP
+Curso 44: Bacharelado em Meteorologia
+Período: Diurno Duração: 10 semestres
+Instituto de Astronomia, Geofísica e Ciências
+Atmosféricas - USP
+Curso 45: Bacharelado em Geofísica
+Período: Diurno Duração: 10 semestres
+Instituto de Astronomia, Geofísica e Ciências
+Atmosféricas - USP
+Área de ciências exatas
+CARREIRA 805
+Informática Biomédica - Ribeirão
+Preto
+Curso 56: Bacharelado em Informática
+Biomédica - Ribeirão Preto
+Período: Integral Duração: 8 semestres
+Faculdade de Medicina de Ribeirão Preto - USP
+CARREIRA 815
+Licenciatura em Ciências Exatas - São
+Carlos
+Curso 57: Licenciatura em Ciências
+Exatas (com Habilitação em Física ou
+Habilitação em Química ou Habilitação
+em Matemática) - São Carlos
+(AC: 30, EP: 2, PPI: 3)
+Período: Noturno Duração: 8 semestres
+Instituto de Física de São Carlos - USP
+CARREIRA 795
+Física Médica - Ribeirão Preto
+Curso 54: Física Médica - Bacharelado
+Ribeirão Preto
+Período: Noturno Duração: 10 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 800
+Geologia
+Curso 55: Geologia
+Período: Integral Duração: 10 semestres
+Instituto de Geociências - USP
+CARREIRA 820
+Licenciatura em Geociências e Educação Ambiental
+Curso 58: Licenciatura em Geociências
+e Educação Ambiental
+Período: Noturno Duração: 8 semestres
+Instituto de Geociências - USP
+Área de ciências exatas
+CARREIRA 825
+Licenciatura em Matemática / Física
+Curso 59: Matemática - Licenciatura -
+Diurno
+Período: Diurno Duração: 8 semestres
+Instituto de Matemática e Estatística - USP
+Curso 60: Matemática - Licenciatura -
+Noturno
+Período: Noturno Duração: 10 semestres
+Instituto de Matemática e Estatística - USP
+Curso 61: Física - Licenciatura - Diurno
+Período: Diurno Duração: 8 semestres
+Instituto de Física - USP
+Curso 62: Física - Licenciatura - Noturno
+Período: Noturno Duração: 10 semestres
+Instituto de Física - USP
+CARREIRA 830
+Matemática Aplicada - Ribeirão Preto
+Curso 63: Bacharelado em Matemática Aplicada a Negócios - Ribeirão Preto
+Período: Diurno Duração: 8 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 840
+Oceanografia
+Curso 64: Bacharelado em Oceanografia
+Período: Integral Duração: 10 semestres
+Instituto Oceanográfico - USP
+CARREIRA 850
+Química (Bacharelado ou Bacharelado com Habilitação em Química
+Forense ou Bacharelado com Habilitação em Química Tecnológica,
+Biotecnologia e Agroindústria) - Ribeirão Preto
+Tecnológica, Biotecnologia e Agroindústria.
+Curso 65: Bacharelado em Química -
+Ribeirão Preto
+Período: Integral Duração: 8 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+Área de ciências exatas
+CARREIRA 855
+Química - Bacharelado e Licenciatura
+Curso 66: Bacharelado e Licenciatura
+em Química - Integral
+Período: Integral Duração: 8 semestres
+Instituto de Química - USP
+Curso 67: Bacharelado e Licenciatura
+em Química - Noturno
+Período: Noturno Duração: 10 semestres
+Instituto de Química - USP
+CARREIRA 865
+Química - Licenciatura - Ribeirão Preto
+Curso 68: Licenciatura em Química -
+Ribeirão Preto
+Período: Noturno Duração: 10 semestres
+Faculdade de Filosofia, Ciências e Letras de Ribeirão
+Preto - USP
+CARREIRA 870
+Química (Bacharelado e Bacharelado
+com Atribuições Tecnológicas com
+Ênfases em Alimentos, Ambiental,
+Gestão de Qualidade e Materiais) - São
+Carlos
+Curso 69: Bacharelado em Química -
+São Carlos
+Período: Integral Duração: 8 semestres para o
+Bacharelado e 9 semestres para o Bacharelado com
+Atribuições Tecnológicas
+Instituto de Química de São Carlos - USP
+Área de ciências exatas
+CARREIRA 875
+Sistemas de Informação - São Carlos
+Curso 70: Bacharelado em Sistemas de
+Informação - São Carlos
+Período: Noturno Duração: 8 semestres
+Instituto de Ciências Matemáticas e de Computação - São
+Carlos - USP
