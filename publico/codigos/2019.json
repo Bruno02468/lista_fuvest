@@ -134,14 +134,14 @@
   },
   "140": {
     "cod_carreira": "140",
-    "nome_carreira": "Ciências da Informação e da Docu- mentação - Ribeirão Preto",
+    "nome_carreira": "Ciências da Informação e da Documentação - Ribeirão Preto",
     "area": "Humanas",
     "cursos": {
       "13": {
         "area": "Humanas",
         "cod_carreira": "140",
         "cod_curso": "13",
-        "nome_carreira": "Ciências da Informação e da Docu- mentação - Ribeirão Preto",
+        "nome_carreira": "Ciências da Informação e da Documentação - Ribeirão Preto",
         "nome_curso": "Bacharelado em Biblioteconomia e Ciência da Informação - Ribeirão Preto"
       }
     }
@@ -534,7 +534,7 @@
         "cod_carreira": "245",
         "cod_curso": "51",
         "nome_carreira": "Música - ECA",
-        "nome_curso": "Ciclo Básico em Composição ou Regência (Bacharelado em Música com Habilitação em Composição ou Ba- charelado em Música com Habilitação em Regência)"
+        "nome_curso": "Ciclo Básico em Composição ou Regência (Bacharelado em Música com Habilitação em Composição ou Bacharelado em Música com Habilitação em Regência)"
       },
       "52": {
         "area": "Humanas",
@@ -807,7 +807,7 @@
         "cod_carreira": "416",
         "cod_curso": "07",
         "nome_carreira": "Ciências Biomédicas - Ribeirão Preto",
-        "nome_curso": "Bacharelado em Ciências Biomédicas - Ênfases em Ciências Bá- sicas da Saúde e em Biotecnologia em Saúde - Ribeirão Preto"
+        "nome_curso": "Bacharelado em Ciências Biomédicas - Ênfases em Ciências Básicas da Saúde e em Biotecnologia em Saúde - Ribeirão Preto"
       }
     }
   },
@@ -1311,7 +1311,7 @@
         "cod_carreira": "700",
         "cod_curso": "01",
         "nome_carreira": "Ciências Físicas e Biomoleculares - São Carlos",
-        "nome_curso": "Bacharelado em Ciências Físicas e Biomoleculares - Ênfase Tecno- lógica - São Carlos"
+        "nome_curso": "Bacharelado em Ciências Físicas e Biomoleculares - Ênfase Tecnológica - São Carlos"
       }
     }
   },
@@ -1738,7 +1738,7 @@
         "cod_carreira": "790",
         "cod_curso": "44",
         "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
-        "nome_curso": "Bacharelado em Meteoro- logia"
+        "nome_curso": "Bacharelado em Meteorologia"
       },
       "45": {
         "area": "Exatas",
@@ -1920,7 +1920,7 @@
         "cod_carreira": "830",
         "cod_curso": "63",
         "nome_carreira": "Matemática Aplicada - Ribeirão Preto",
-        "nome_curso": "Bacharelado em Matemáti- ca Aplicada a Negócios - Ribeirão Preto"
+        "nome_curso": "Bacharelado em Matemática Aplicada a Negócios - Ribeirão Preto"
       }
     }
   },
@@ -1940,14 +1940,14 @@
   },
   "850": {
     "cod_carreira": "850",
-    "nome_carreira": "Química (Bacharelado ou Bachare- lado com Habilitação em Química Forense ou Bacharelado com Ha- bilitação em Química Tecnológica, Biotecnologia e Agroindústria) - Ribeirão Preto",
+    "nome_carreira": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forense ou Bacharelado com Habilitação em Química Tecnológica, Biotecnologia e Agroindústria) - Ribeirão Preto",
     "area": "Exatas",
     "cursos": {
       "65": {
         "area": "Exatas",
         "cod_carreira": "850",
         "cod_curso": "65",
-        "nome_carreira": "Química (Bacharelado ou Bachare- lado com Habilitação em Química Forense ou Bacharelado com Ha- bilitação em Química Tecnológica, Biotecnologia e Agroindústria) - Ribeirão Preto",
+        "nome_carreira": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forense ou Bacharelado com Habilitação em Química Tecnológica, Biotecnologia e Agroindústria) - Ribeirão Preto",
         "nome_curso": "Bacharelado em Química - Ribeirão Preto"
       }
     }
