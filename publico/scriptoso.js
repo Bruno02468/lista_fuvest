@@ -58,23 +58,54 @@ const textarea = document.getElementById("lista");
 const formato = document.getElementById("formato");
 const destino = document.getElementById("destino");
 const lista_listas = document.getElementById("listas");
+const sel_anos = document.getElementById("anos");
 
 // primeiramente, vamos puxar a lista de códigos de curso e carreira
-var codigos = null;
+var codigos_por_ano = {};
 var listas = null;
-ajaj("codigos.json", function(data) {
-    codigos = data;
-    gerar_menu_carreiras();
-    ajaj("listas.json", function(more_data) {
-        listas = more_data;
-        gerar_lista_listas(more_data);
+ajaj("meta/listas.json", function (more_data) {
+    listas = more_data;
+    gerar_lista_listas(more_data);
+    ajaj("meta/anos.json", function (even_more_data) {
+        anos = even_more_data;
+        gerar_lista_anos(even_more_data);
     });
 });
 
-// segundamente, gerar um menu para lista de carreiras
-// coloquei numa função porque temos que esperar o JSON carregar
-var menu_carreiras = make_option("?", "Especifique uma carreira...");
+// gera a lista de anos e baixa as respectivas listas de códigos
+function gerar_lista_anos(anos) {
+    for (key in anos) {
+        sel_anos.innerHTML += make_option(key, key);
+        ajaj("codigos/" + anos[key], ano_callback(key));
+    }
+}
+
+// callback para quando a lista de um ano foi recebida
+function ano_callback(ano) {
+    return function(cod) {
+        codigos_por_ano[ano] = cod;
+        sel_anos.value = ano;
+        usar_ano(sel_anos.value);
+    }
+}
+
+function usar_ano(ano) {
+    codigos = codigos_por_ano[ano];
+    var menu = gerar_menu_carreiras();
+    for (var i = 1; i <= procurados; i++) {
+        var id_base = "procurado-" + i;
+        var car = document.getElementById(id_base + "-car");
+        var cur = document.getElementById(id_base + "-cur");
+        car.innerHTML = menu;
+        cur.innerHTML = "";
+        car.value = "?";
+        cur.value = "*";
+    }
+}
+
+// gerar um menu para lista de carreiras
 function gerar_menu_carreiras() {
+    var menu_carreiras = make_option("?", "Especifique uma carreira...");
     // iterar sobre cada carreira...
     for (var c in codigos) {
         var carreira = codigos[c];
@@ -82,8 +113,7 @@ function gerar_menu_carreiras() {
         menu_carreiras += make_option(c, carreira["nome_carreira"] + " (" + c
             + ")");
     }
-    // sempre começar com um curso
-    add_procurado();
+    return menu_carreiras;
 }
 
 // gera a "lista de listas" disponíveis
@@ -95,6 +125,8 @@ function gerar_lista_listas(dados) {
     lista_listas.value = "empty";
 }
 
+// gera a lista de anos
+
 // caso o usuário selecione para usar uma das listas pré-selecionadas
 function inserir_lista(elem) {
     if (elem.value === "empty") {
@@ -103,6 +135,9 @@ function inserir_lista(elem) {
     }
     textarea.value = "Espere a lista carregar...";
     var url = "listas/" + elem.value;
+    var ano = elem.value.slice(0, 4);
+    sel_anos.value = ano;
+    usar_ano(ano);
     ajat(url, function(txt) {
         textarea.value = txt;
     });
@@ -136,9 +171,14 @@ var procurados = 0;
 
 // adiciona um curso para ser procurado
 function add_procurado() {
+    if (!codigos) {
+        alert("Selecione um ano!");
+        return;
+    }
     procurados++;
     var id_base = "procurado-" + procurados;
     var div = document.createElement("div");
+    var menu_carreiras = gerar_menu_carreiras();
     div.id = id_base;
     var seletor = "<select id=\"" + id_base
         + "-car\" onchange=\"update_procurado(" + procurados + ");\">"
@@ -229,6 +269,7 @@ function iterar(lista, callback) {
         var nome = cand[0];
         var car = cand[1][0];
         var cur = cand[1][1];
+        console.log(cand);
         var carreira = car + " - " + codigos[car]["nome_carreira"];
         var curso = cur + " - " + codigos[car]["cursos"][cur]["nome_curso"];
         callback(nome, car, cur, carreira, curso);

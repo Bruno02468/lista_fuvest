@@ -1581,7 +1581,7 @@
     },
     "nome_carreira": "Engenharia Química - Lorena"
   },
-  "780": {
+  "775": {
     "area": "Ciências Exatas",
     "cod_carreira": "775",
     "cursos": {
@@ -1601,8 +1601,8 @@
       },
       "34": {
         "area": "Ciências Exatas",
-        "cod_carreira": "780",
-        "cod_curso": "30",
+        "cod_carreira": "775",
+        "cod_curso": "34",
         "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia de Computação (quadrimestral)"
       },
@@ -1637,7 +1637,7 @@
       "39": {
         "area": "Ciências Exatas",
         "cod_carreira": "780",
-        "cod_curso": "35",
+        "cod_curso": "39",
         "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Elétrica (Ênfases: Automação e Controle, Computação, Energia e Automação Elétricas, Eletrônica e Sistemas, Telecomunicações)"
       },

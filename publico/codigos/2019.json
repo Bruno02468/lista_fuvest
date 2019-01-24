@@ -7,35 +7,35 @@
         "area": null,
         "cod_carreira": "100",
         "cod_curso": "01",
-        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto ",
+        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Administração - Diurno - Ribeirão Preto"
       },
       "02": {
         "area": null,
         "cod_carreira": "100",
         "cod_curso": "02",
-        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto ",
+        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Administração - Noturno - Ribeirão Preto"
       },
       "03": {
         "area": null,
         "cod_carreira": "100",
         "cod_curso": "03",
-        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto ",
+        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Ciências Contábeis - Ribeirão Preto"
       },
       "04": {
         "area": null,
         "cod_carreira": "100",
         "cod_curso": "04",
-        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto ",
+        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Economia - Ribeirão Preto"
       },
       "05": {
         "area": null,
         "cod_carreira": "100",
         "cod_curso": "05",
-        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto ",
+        "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Economia Empresarial e Controladoria - Ribeirão Preto"
       }
     },
@@ -49,7 +49,7 @@
         "area": null,
         "cod_carreira": "101",
         "cod_curso": "06",
-        "nome_carreira": "Administração - Piracicaba ",
+        "nome_carreira": "Administração - Piracicaba",
         "nome_curso": "Bacharelado em Administração - Piracicaba"
       }
     },
@@ -63,7 +63,7 @@
         "area": null,
         "cod_carreira": "105",
         "cod_curso": "07",
-        "nome_carreira": "Arquitetura - FAU ",
+        "nome_carreira": "Arquitetura - FAU",
         "nome_curso": "Arquitetura e Urbanismo"
       }
     },
@@ -77,7 +77,7 @@
         "area": null,
         "cod_carreira": "110",
         "cod_curso": "08",
-        "nome_carreira": "Arquitetura - São Carlos ",
+        "nome_carreira": "Arquitetura - São Carlos",
         "nome_curso": "Arquitetura e Urbanismo - São Carlos"
       }
     },
@@ -91,11 +91,11 @@
         "area": "ciências humanas",
         "cod_carreira": "115",
         "cod_curso": "09",
-        "nome_carreira": "Artes Cênicas Prova de Habilidades Específicas ",
+        "nome_carreira": "Artes Cênicas",
         "nome_curso": "Artes Cênicas - Bacharelado e Licenciatura"
       }
     },
-    "nome_carreira": "Artes Cênicas Prova de Habilidades Específicas "
+    "nome_carreira": "Artes Cênicas"
   },
   "125": {
     "area": "ciências humanas",
@@ -105,11 +105,11 @@
         "area": "ciências humanas",
         "cod_carreira": "125",
         "cod_curso": "10",
-        "nome_carreira": "Artes Visuais Prova de Habilidades Específicas ",
+        "nome_carreira": "Artes Visuais",
         "nome_curso": "Artes Visuais - Licenciatura e Bacharelado"
       }
     },
-    "nome_carreira": "Artes Visuais Prova de Habilidades Específicas "
+    "nome_carreira": "Artes Visuais"
   },
   "130": {
     "area": "ciências humanas",
@@ -119,14 +119,14 @@
         "area": "ciências humanas",
         "cod_carreira": "130",
         "cod_curso": "11",
-        "nome_carreira": "Biblioteconomia ",
+        "nome_carreira": "Biblioteconomia",
         "nome_curso": "Biblioteconomia - Matutino"
       },
       "12": {
         "area": "ciências humanas",
         "cod_carreira": "130",
         "cod_curso": "12",
-        "nome_carreira": "Biblioteconomia ",
+        "nome_carreira": "Biblioteconomia",
         "nome_curso": "Biblioteconomia - Noturno"
       }
     },
@@ -140,7 +140,7 @@
         "area": "ciências humanas",
         "cod_carreira": "140",
         "cod_curso": "13",
-        "nome_carreira": "Ciências da Informação e da Documentação - Ribeirão Preto ",
+        "nome_carreira": "Ciências da Informação e da Documentação - Ribeirão Preto",
         "nome_curso": "Bacharelado em Biblioteconomia e Ciência da Informação - Ribeirão Preto"
       }
     },
@@ -154,14 +154,14 @@
         "area": "ciências humanas",
         "cod_carreira": "145",
         "cod_curso": "14",
-        "nome_carreira": "Ciências Sociais ",
+        "nome_carreira": "Ciências Sociais",
         "nome_curso": "Ciências Sociais - Vespertino"
       },
       "15": {
         "area": "ciências humanas",
         "cod_carreira": "145",
         "cod_curso": "15",
-        "nome_carreira": "Ciências Sociais ",
+        "nome_carreira": "Ciências Sociais",
         "nome_curso": "Ciências Sociais - Noturno"
       }
     },
@@ -175,7 +175,7 @@
         "area": "ciências humanas",
         "cod_carreira": "150",
         "cod_curso": "16",
-        "nome_carreira": "Curso Superior do Audiovisual ",
+        "nome_carreira": "Curso Superior do Audiovisual",
         "nome_curso": "Curso Superior do Audiovisual"
       }
     },
@@ -189,7 +189,7 @@
         "area": "ciências humanas",
         "cod_carreira": "155",
         "cod_curso": "17",
-        "nome_carreira": "Design ",
+        "nome_carreira": "Design",
         "nome_curso": "Design"
       }
     },
@@ -203,21 +203,21 @@
         "area": "ciências humanas",
         "cod_carreira": "160",
         "cod_curso": "18",
-        "nome_carreira": "Direito ",
+        "nome_carreira": "Direito",
         "nome_curso": "Direito - Matutino"
       },
       "19": {
         "area": "ciências humanas",
         "cod_carreira": "160",
         "cod_curso": "19",
-        "nome_carreira": "Direito ",
+        "nome_carreira": "Direito",
         "nome_curso": "Direito - Noturno"
       },
       "20": {
         "area": "ciências humanas",
         "cod_carreira": "160",
         "cod_curso": "20",
-        "nome_carreira": "Direito ",
+        "nome_carreira": "Direito",
         "nome_curso": "Direito - Ribeirão Preto"
       }
     },
@@ -231,49 +231,49 @@
         "area": "ciências humanas",
         "cod_carreira": "165",
         "cod_curso": "21",
-        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária ",
+        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária",
         "nome_curso": "Economia - Diurno"
       },
       "22": {
         "area": "ciências humanas",
         "cod_carreira": "165",
         "cod_curso": "22",
-        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária ",
+        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária",
         "nome_curso": "Economia - Noturno"
       },
       "23": {
         "area": "ciências humanas",
         "cod_carreira": "165",
         "cod_curso": "23",
-        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária ",
+        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária",
         "nome_curso": "Administração - Diurno"
       },
       "24": {
         "area": "ciências humanas",
         "cod_carreira": "165",
         "cod_curso": "24",
-        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária ",
+        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária",
         "nome_curso": "Administração - Noturno"
       },
       "25": {
         "area": "ciências humanas",
         "cod_carreira": "165",
         "cod_curso": "25",
-        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária ",
+        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária",
         "nome_curso": "Ciências Contábeis - Diurno"
       },
       "26": {
         "area": "ciências humanas",
         "cod_carreira": "165",
         "cod_curso": "26",
-        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária ",
+        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária",
         "nome_curso": "Ciências Contábeis - Noturno"
       },
       "27": {
         "area": "ciências humanas",
         "cod_carreira": "165",
         "cod_curso": "27",
-        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária ",
+        "nome_carreira": "Economia, Administração, Ciências Contábeis e Atuária",
         "nome_curso": "Bacharelado em Ciências Atuariais"
       }
     },
@@ -287,7 +287,7 @@
         "area": "ciências humanas",
         "cod_carreira": "175",
         "cod_curso": "28",
-        "nome_carreira": "Economia - Piracicaba ",
+        "nome_carreira": "Economia - Piracicaba",
         "nome_curso": "Ciências Econômicas - Piracicaba"
       }
     },
@@ -301,7 +301,7 @@
         "area": "ciências humanas",
         "cod_carreira": "185",
         "cod_curso": "29",
-        "nome_carreira": "Editoração ",
+        "nome_carreira": "Editoração",
         "nome_curso": "Editoração"
       }
     },
@@ -315,14 +315,14 @@
         "area": "ciências humanas",
         "cod_carreira": "190",
         "cod_curso": "30",
-        "nome_carreira": "Filosofia ",
+        "nome_carreira": "Filosofia",
         "nome_curso": "Filosofia - Vespertino"
       },
       "31": {
         "area": "ciências humanas",
         "cod_carreira": "190",
         "cod_curso": "31",
-        "nome_carreira": "Filosofia ",
+        "nome_carreira": "Filosofia",
         "nome_curso": "Filosofia - Noturno"
       }
     },
@@ -336,14 +336,14 @@
         "area": "ciências humanas",
         "cod_carreira": "195",
         "cod_curso": "32",
-        "nome_carreira": "Geografia ",
+        "nome_carreira": "Geografia",
         "nome_curso": "Geografia - Diurno"
       },
       "33": {
         "area": "ciências humanas",
         "cod_carreira": "195",
         "cod_curso": "33",
-        "nome_carreira": "Geografia ",
+        "nome_carreira": "Geografia",
         "nome_curso": "Geografia - Noturno"
       }
     },
@@ -357,14 +357,14 @@
         "area": "ciências humanas",
         "cod_carreira": "200",
         "cod_curso": "34",
-        "nome_carreira": "Gestão Ambiental - USP Leste, SP ",
-        "nome_curso": "Bacharelado em Gestão Ambiental - Matutino (AC: 30, EP: 9, PPI: 3)"
+        "nome_carreira": "Gestão Ambiental - USP Leste, SP",
+        "nome_curso": "Bacharelado em Gestão Ambiental - Matutino"
       },
       "35": {
         "area": "ciências humanas",
         "cod_carreira": "200",
         "cod_curso": "35",
-        "nome_carreira": "Gestão Ambiental - USP Leste, SP ",
+        "nome_carreira": "Gestão Ambiental - USP Leste, SP",
         "nome_curso": "Bacharelado em Gestão Ambiental - Noturno"
       }
     },
@@ -378,7 +378,7 @@
         "area": "ciências humanas",
         "cod_carreira": "205",
         "cod_curso": "36",
-        "nome_carreira": "Gestão Ambiental - Piracicaba ",
+        "nome_carreira": "Gestão Ambiental - Piracicaba",
         "nome_curso": "Bacharelado em Gestão Ambiental - Piracicaba"
       }
     },
@@ -392,14 +392,14 @@
         "area": "ciências humanas",
         "cod_carreira": "210",
         "cod_curso": "37",
-        "nome_carreira": "Gestão de Políticas Públicas - USP Leste, SP ",
+        "nome_carreira": "Gestão de Políticas Públicas - USP Leste, SP",
         "nome_curso": "Gestão de Políticas Públicas - Matutino"
       },
       "38": {
         "area": "ciências humanas",
         "cod_carreira": "210",
         "cod_curso": "38",
-        "nome_carreira": "Gestão de Políticas Públicas - USP Leste, SP ",
+        "nome_carreira": "Gestão de Políticas Públicas - USP Leste, SP",
         "nome_curso": "Gestão de Políticas Públicas - Noturno"
       }
     },
@@ -413,14 +413,14 @@
         "area": "ciências humanas",
         "cod_carreira": "215",
         "cod_curso": "39",
-        "nome_carreira": "História ",
+        "nome_carreira": "História",
         "nome_curso": "História - Vespertino"
       },
       "40": {
         "area": "ciências humanas",
         "cod_carreira": "215",
         "cod_curso": "40",
-        "nome_carreira": "História ",
+        "nome_carreira": "História",
         "nome_curso": "História - Noturno"
       }
     },
@@ -434,14 +434,14 @@
         "area": "ciências humanas",
         "cod_carreira": "220",
         "cod_curso": "41",
-        "nome_carreira": "Jornalismo ",
+        "nome_carreira": "Jornalismo",
         "nome_curso": "Bacharelado em Jornalismo - Matutino"
       },
       "42": {
         "area": "ciências humanas",
         "cod_carreira": "220",
         "cod_curso": "42",
-        "nome_carreira": "Jornalismo ",
+        "nome_carreira": "Jornalismo",
         "nome_curso": "Bacharelado em Jornalismo - Noturno"
       }
     },
@@ -455,14 +455,14 @@
         "area": "ciências humanas",
         "cod_carreira": "225",
         "cod_curso": "43",
-        "nome_carreira": "Lazer e Turismo - USP Leste, SP ",
+        "nome_carreira": "Lazer e Turismo - USP Leste, SP",
         "nome_curso": "Bacharelado em Lazer e Turismo - Vespertino"
       },
       "44": {
         "area": "ciências humanas",
         "cod_carreira": "225",
         "cod_curso": "44",
-        "nome_carreira": "Lazer e Turismo - USP Leste, SP ",
+        "nome_carreira": "Lazer e Turismo - USP Leste, SP",
         "nome_curso": "Bacharelado em Lazer e Turismo - Noturno"
       }
     },
@@ -476,14 +476,14 @@
         "area": "ciências humanas",
         "cod_carreira": "230",
         "cod_curso": "45",
-        "nome_carreira": "Letras ",
+        "nome_carreira": "Letras",
         "nome_curso": "Letras - Básico - Matutino"
       },
       "46": {
         "area": "ciências humanas",
         "cod_carreira": "230",
         "cod_curso": "46",
-        "nome_carreira": "Letras ",
+        "nome_carreira": "Letras",
         "nome_curso": "Letras - Básico - Noturno"
       }
     },
@@ -497,7 +497,7 @@
         "area": "ciências humanas",
         "cod_carreira": "235",
         "cod_curso": "47",
-        "nome_carreira": "Licenciatura em Educomunicação ",
+        "nome_carreira": "Licenciatura em Educomunicação",
         "nome_curso": "Licenciatura em Educomunicação"
       }
     },
@@ -511,14 +511,14 @@
         "area": "ciências humanas",
         "cod_carreira": "240",
         "cod_curso": "48",
-        "nome_carreira": "Marketing - USP Leste, SP ",
+        "nome_carreira": "Marketing - USP Leste, SP",
         "nome_curso": "Marketing - Matutino"
       },
       "49": {
         "area": "ciências humanas",
         "cod_carreira": "240",
         "cod_curso": "49",
-        "nome_carreira": "Marketing - USP Leste, SP ",
+        "nome_carreira": "Marketing - USP Leste, SP",
         "nome_curso": "Marketing - Noturno"
       }
     },
@@ -532,60 +532,60 @@
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "50",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Licenciatura em Música"
       },
       "51": {
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "51",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Ciclo Básico em Composição ou Regência (Bacharelado em Música com Habilitação em Composição ou Bacharelado em Música com Habilitação em Regência)"
       },
       "52": {
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "52",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Bacharelado em Música com Habilitação em Canto e Arte Lírica"
       },
       "53": {
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "53",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Cordas Dedilhadas (violão ou viola brasileira)"
       },
       "54": {
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "54",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Bacharelado em Música com Habilitação em Instrumento Percussão"
       },
       "55": {
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "55",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Teclado (piano ou órgão)"
       },
       "56": {
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "56",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Cordas (viola, violino ou violoncelo)"
       },
       "57": {
         "area": "ciências humanas",
         "cod_carreira": "245",
         "cod_curso": "57",
-        "nome_carreira": "Música - ECA Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - ECA",
         "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Sopro (flauta, oboé, clarinete, clarone, fagote, trompa, trompete, trombone ou tuba)"
       }
     },
-    "nome_carreira": "Música - ECA Prova de Habilidades Específicas "
+    "nome_carreira": "Música - ECA"
   },
   "250": {
     "area": "ciências humanas",
@@ -595,11 +595,11 @@
         "area": "ciências humanas",
         "cod_carreira": "250",
         "cod_curso": "58",
-        "nome_carreira": "Música - Ribeirão Preto Prova de Habilidades Específicas ",
+        "nome_carreira": "Música - Ribeirão Preto",
         "nome_curso": "Música - Bacharelado e Licenciatura - Ribeirão Preto"
       }
     },
-    "nome_carreira": "Música - Ribeirão Preto Prova de Habilidades Específicas "
+    "nome_carreira": "Música - Ribeirão Preto"
   },
   "255": {
     "area": "ciências humanas",
@@ -609,14 +609,14 @@
         "area": "ciências humanas",
         "cod_carreira": "255",
         "cod_curso": "59",
-        "nome_carreira": "Pedagogia ",
+        "nome_carreira": "Pedagogia",
         "nome_curso": "Pedagogia - Vespertino"
       },
       "60": {
         "area": "ciências humanas",
         "cod_carreira": "255",
         "cod_curso": "60",
-        "nome_carreira": "Pedagogia ",
+        "nome_carreira": "Pedagogia",
         "nome_curso": "Pedagogia - Noturno"
       }
     },
@@ -630,7 +630,7 @@
         "area": "ciências humanas",
         "cod_carreira": "260",
         "cod_curso": "61",
-        "nome_carreira": "Pedagogia - Ribeirão Preto ",
+        "nome_carreira": "Pedagogia - Ribeirão Preto",
         "nome_curso": "Pedagogia - Ribeirão Preto"
       }
     },
@@ -644,14 +644,14 @@
         "area": "ciências humanas",
         "cod_carreira": "265",
         "cod_curso": "62",
-        "nome_carreira": "Publicidade e Propaganda ",
+        "nome_carreira": "Publicidade e Propaganda",
         "nome_curso": "Publicidade e Propaganda Matutino"
       },
       "63": {
         "area": "ciências humanas",
         "cod_carreira": "265",
         "cod_curso": "63",
-        "nome_carreira": "Publicidade e Propaganda ",
+        "nome_carreira": "Publicidade e Propaganda",
         "nome_curso": "Publicidade e Propaganda Noturno"
       }
     },
@@ -665,14 +665,14 @@
         "area": "ciências humanas",
         "cod_carreira": "270",
         "cod_curso": "64",
-        "nome_carreira": "Relações Internacionais ",
+        "nome_carreira": "Relações Internacionais",
         "nome_curso": "Bacharelado em Relações Internacionais - Diurno"
       },
       "65": {
         "area": "ciências humanas",
         "cod_carreira": "270",
         "cod_curso": "65",
-        "nome_carreira": "Relações Internacionais ",
+        "nome_carreira": "Relações Internacionais",
         "nome_curso": "Bacharelado em Relações Internacionais - Noturno"
       }
     },
@@ -686,14 +686,14 @@
         "area": "ciências humanas",
         "cod_carreira": "275",
         "cod_curso": "66",
-        "nome_carreira": "Relações Públicas ",
+        "nome_carreira": "Relações Públicas",
         "nome_curso": "Bacharelado em Relações Públicas - Matutino"
       },
       "67": {
         "area": "ciências humanas",
         "cod_carreira": "275",
         "cod_curso": "67",
-        "nome_carreira": "Relações Públicas ",
+        "nome_carreira": "Relações Públicas",
         "nome_curso": "Bacharelado em Relações Públicas - Noturno"
       }
     },
@@ -707,7 +707,7 @@
         "area": "ciências humanas",
         "cod_carreira": "280",
         "cod_curso": "68",
-        "nome_carreira": "Têxtil e Moda - USP Leste, SP ",
+        "nome_carreira": "Têxtil e Moda - USP Leste, SP",
         "nome_curso": "Bacharelado em Têxtil e Moda"
       }
     },
@@ -721,7 +721,7 @@
         "area": "ciências humanas",
         "cod_carreira": "285",
         "cod_curso": "69",
-        "nome_carreira": "Turismo ",
+        "nome_carreira": "Turismo",
         "nome_curso": "Turismo"
       }
     },
@@ -735,7 +735,7 @@
         "area": "ciências humanas",
         "cod_carreira": "400",
         "cod_curso": "01",
-        "nome_carreira": "Bacharelado em Biotecnologia - USP Leste, SP ",
+        "nome_carreira": "Bacharelado em Biotecnologia - USP Leste, SP",
         "nome_curso": "Bacharelado em Biotecnologia"
       }
     },
@@ -749,14 +749,14 @@
         "area": "ciências humanas",
         "cod_carreira": "401",
         "cod_curso": "02",
-        "nome_carreira": "Ciências Biológicas ",
+        "nome_carreira": "Ciências Biológicas",
         "nome_curso": "Licenciatura e Bacharelado em Ciências Biológicas - Integral"
       },
       "03": {
         "area": "ciências humanas",
         "cod_carreira": "401",
         "cod_curso": "03",
-        "nome_carreira": "Ciências Biológicas ",
+        "nome_carreira": "Ciências Biológicas",
         "nome_curso": "Licenciatura e Bacharelado em Ciências Biológicas - Noturno"
       }
     },
@@ -770,7 +770,7 @@
         "area": "ciências humanas",
         "cod_carreira": "405",
         "cod_curso": "04",
-        "nome_carreira": "Ciências Biológicas - Piracicaba ",
+        "nome_carreira": "Ciências Biológicas - Piracicaba",
         "nome_curso": "Licenciatura e Bacharelado em Ciências Biológicas - Piracicaba"
       }
     },
@@ -784,7 +784,7 @@
         "area": "ciências humanas",
         "cod_carreira": "410",
         "cod_curso": "05",
-        "nome_carreira": "Ciências Biológicas - Ribeirão Preto ",
+        "nome_carreira": "Ciências Biológicas - Ribeirão Preto",
         "nome_curso": "Bacharelado e Licenciatura em Ciências Biológicas - Ribeirão Preto"
       }
     },
@@ -798,7 +798,7 @@
         "area": "ciências humanas",
         "cod_carreira": "415",
         "cod_curso": "06",
-        "nome_carreira": "Ciências Biomédicas ",
+        "nome_carreira": "Ciências Biomédicas",
         "nome_curso": "Bacharelado em Ciências Biomédicas"
       }
     },
@@ -812,7 +812,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "416",
         "cod_curso": "07",
-        "nome_carreira": "Ciências Biomédicas - Ribeirão Preto ",
+        "nome_carreira": "Ciências Biomédicas - Ribeirão Preto",
         "nome_curso": "Bacharelado em Ciências Biomédicas - Ênfases em Ciências Básicas da Saúde e em Biotecnologia em Saúde - Ribeirão Preto"
       }
     },
@@ -826,7 +826,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "425",
         "cod_curso": "08",
-        "nome_carreira": "Ciências dos Alimentos - Piracicaba ",
+        "nome_carreira": "Ciências dos Alimentos - Piracicaba",
         "nome_curso": "Bacharelado em Ciências dos Alimentos - Piracicaba"
       }
     },
@@ -840,7 +840,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "430",
         "cod_curso": "09",
-        "nome_carreira": "Educação Física e Esporte ",
+        "nome_carreira": "Educação Física e Esporte",
         "nome_curso": "Educação Física e Esporte"
       }
     },
@@ -854,7 +854,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "435",
         "cod_curso": "10",
-        "nome_carreira": "Educação Física e Esporte - Ribeirão Preto ",
+        "nome_carreira": "Educação Física e Esporte - Ribeirão Preto",
         "nome_curso": "Educação Física e Esporte - Bacharelado - Ribeirão Preto"
       }
     },
@@ -868,7 +868,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "436",
         "cod_curso": "11",
-        "nome_carreira": "Educação Física e Saúde - USP Leste, SP ",
+        "nome_carreira": "Educação Física e Saúde - USP Leste, SP",
         "nome_curso": "Bacharelado em Educação Física e Saúde"
       }
     },
@@ -882,7 +882,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "440",
         "cod_curso": "12",
-        "nome_carreira": "Enfermagem ",
+        "nome_carreira": "Enfermagem",
         "nome_curso": "Enfermagem"
       }
     },
@@ -896,14 +896,14 @@
         "area": "ciências biológicas",
         "cod_carreira": "445",
         "cod_curso": "13",
-        "nome_carreira": "Enfermagem - Ribeirão Preto ",
-        "nome_curso": "Bacharelado em Enfermagem - Ribeirão Preto (AC: 48, EP: 10, PPI: 6)"
+        "nome_carreira": "Enfermagem - Ribeirão Preto",
+        "nome_curso": "Bacharelado em Enfermagem - Ribeirão Preto"
       },
       "14": {
         "area": "ciências biológicas",
         "cod_carreira": "445",
         "cod_curso": "14",
-        "nome_carreira": "Enfermagem - Ribeirão Preto ",
+        "nome_carreira": "Enfermagem - Ribeirão Preto",
         "nome_curso": "Bacharelado e Licenciatura em Enfermagem - Ribeirão Preto"
       }
     },
@@ -917,7 +917,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "450",
         "cod_curso": "15",
-        "nome_carreira": "Engenharia Agronômica - Piracicaba ",
+        "nome_carreira": "Engenharia Agronômica - Piracicaba",
         "nome_curso": "Engenharia Agronômica - Piracicaba"
       }
     },
@@ -931,7 +931,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "455",
         "cod_curso": "16",
-        "nome_carreira": "Engenharia Florestal - Piracicaba ",
+        "nome_carreira": "Engenharia Florestal - Piracicaba",
         "nome_curso": "Engenharia Florestal - Piracicaba"
       }
     },
@@ -945,14 +945,14 @@
         "area": "ciências biológicas",
         "cod_carreira": "460",
         "cod_curso": "17",
-        "nome_carreira": "Farmácia - Bioquímica ",
+        "nome_carreira": "Farmácia - Bioquímica",
         "nome_curso": "Farmácia-Bioquímica - Integral"
       },
       "18": {
         "area": "ciências biológicas",
         "cod_carreira": "460",
         "cod_curso": "18",
-        "nome_carreira": "Farmácia - Bioquímica ",
+        "nome_carreira": "Farmácia - Bioquímica",
         "nome_curso": "Farmácia-Bioquímica - Noturno"
       }
     },
@@ -966,7 +966,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "465",
         "cod_curso": "19",
-        "nome_carreira": "Farmácia - Bioquímica - Ribeirão Preto ",
+        "nome_carreira": "Farmácia - Bioquímica - Ribeirão Preto",
         "nome_curso": "Farmácia-Bioquímica - Integral - Ribeirão Preto"
       }
     },
@@ -980,7 +980,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "470",
         "cod_curso": "20",
-        "nome_carreira": "Fisioterapia ",
+        "nome_carreira": "Fisioterapia",
         "nome_curso": "Fisioterapia - São Paulo"
       }
     },
@@ -994,7 +994,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "475",
         "cod_curso": "21",
-        "nome_carreira": "Fisioterapia - Ribeirão Preto ",
+        "nome_carreira": "Fisioterapia - Ribeirão Preto",
         "nome_curso": "Fisioterapia - Ribeirão Preto"
       }
     },
@@ -1008,7 +1008,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "480",
         "cod_curso": "22",
-        "nome_carreira": "Fonoaudiologia ",
+        "nome_carreira": "Fonoaudiologia",
         "nome_curso": "Fonoaudiologia"
       }
     },
@@ -1022,7 +1022,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "485",
         "cod_curso": "23",
-        "nome_carreira": "Fonoaudiologia - Bauru ",
+        "nome_carreira": "Fonoaudiologia - Bauru",
         "nome_curso": "Fonoaudiologia - Bauru"
       }
     },
@@ -1036,7 +1036,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "490",
         "cod_curso": "24",
-        "nome_carreira": "Fonoaudiologia - Ribeirão Preto ",
+        "nome_carreira": "Fonoaudiologia - Ribeirão Preto",
         "nome_curso": "Fonoaudiologia - Ribeirão Preto"
       }
     },
@@ -1050,7 +1050,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "495",
         "cod_curso": "25",
-        "nome_carreira": "Gerontologia - USP Leste, SP ",
+        "nome_carreira": "Gerontologia - USP Leste, SP",
         "nome_curso": "Curso de Graduação em Gerontologia"
       }
     },
@@ -1064,7 +1064,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "500",
         "cod_curso": "26",
-        "nome_carreira": "Medicina ",
+        "nome_carreira": "Medicina",
         "nome_curso": "Medicina - USP/São Paulo"
       }
     },
@@ -1078,7 +1078,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "501",
         "cod_curso": "27",
-        "nome_carreira": "Medicina - Bauru ",
+        "nome_carreira": "Medicina - Bauru",
         "nome_curso": "Medicina - USP/Bauru"
       }
     },
@@ -1092,7 +1092,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "505",
         "cod_curso": "28",
-        "nome_carreira": "Medicina - Ribeirão Preto ",
+        "nome_carreira": "Medicina - Ribeirão Preto",
         "nome_curso": "Medicina - USP/Ribeirão Preto"
       }
     },
@@ -1106,7 +1106,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "510",
         "cod_curso": "29",
-        "nome_carreira": "Medicina Veterinária ",
+        "nome_carreira": "Medicina Veterinária",
         "nome_curso": "Medicina Veterinária"
       }
     },
@@ -1120,7 +1120,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "515",
         "cod_curso": "30",
-        "nome_carreira": "Medicina Veterinária - Pirassununga ",
+        "nome_carreira": "Medicina Veterinária - Pirassununga",
         "nome_curso": "Medicina Veterinária - Pirassununga"
       }
     },
@@ -1134,14 +1134,14 @@
         "area": "ciências biológicas",
         "cod_carreira": "520",
         "cod_curso": "31",
-        "nome_carreira": "Nutrição ",
+        "nome_carreira": "Nutrição",
         "nome_curso": "Nutrição - Matutino"
       },
       "32": {
         "area": "ciências biológicas",
         "cod_carreira": "520",
         "cod_curso": "32",
-        "nome_carreira": "Nutrição ",
+        "nome_carreira": "Nutrição",
         "nome_curso": "Nutrição - Noturno"
       }
     },
@@ -1155,7 +1155,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "525",
         "cod_curso": "33",
-        "nome_carreira": "Nutrição e Metabolismo - Ribeirão Preto ",
+        "nome_carreira": "Nutrição e Metabolismo - Ribeirão Preto",
         "nome_curso": "Nutrição e Metabolismo - Ribeirão Preto"
       }
     },
@@ -1169,7 +1169,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "530",
         "cod_curso": "34",
-        "nome_carreira": "Obstetrícia - USP Leste, SP ",
+        "nome_carreira": "Obstetrícia - USP Leste, SP",
         "nome_curso": "Curso de Graduação em Obstetrícia"
       }
     },
@@ -1183,14 +1183,14 @@
         "area": "ciências biológicas",
         "cod_carreira": "535",
         "cod_curso": "35",
-        "nome_carreira": "Odontologia ",
+        "nome_carreira": "Odontologia",
         "nome_curso": "Odontologia - Integral"
       },
       "36": {
         "area": "ciências biológicas",
         "cod_carreira": "535",
         "cod_curso": "36",
-        "nome_carreira": "Odontologia ",
+        "nome_carreira": "Odontologia",
         "nome_curso": "Odontologia - Noturno"
       }
     },
@@ -1204,7 +1204,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "540",
         "cod_curso": "37",
-        "nome_carreira": "Odontologia - Bauru ",
+        "nome_carreira": "Odontologia - Bauru",
         "nome_curso": "Odontologia - Bauru"
       }
     },
@@ -1218,7 +1218,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "545",
         "cod_curso": "38",
-        "nome_carreira": "Odontologia - Ribeirão Preto ",
+        "nome_carreira": "Odontologia - Ribeirão Preto",
         "nome_curso": "Odontologia - Ribeirão Preto"
       }
     },
@@ -1232,7 +1232,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "550",
         "cod_curso": "39",
-        "nome_carreira": "Psicologia ",
+        "nome_carreira": "Psicologia",
         "nome_curso": "Bacharelado; Licenciatura; Psicólogo"
       }
     },
@@ -1246,7 +1246,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "555",
         "cod_curso": "40",
-        "nome_carreira": "Psicologia - Ribeirão Preto ",
+        "nome_carreira": "Psicologia - Ribeirão Preto",
         "nome_curso": "Bacharelado; Psicólogo - Ribeirão Preto"
       }
     },
@@ -1260,7 +1260,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "560",
         "cod_curso": "41",
-        "nome_carreira": "Saúde Pública ",
+        "nome_carreira": "Saúde Pública",
         "nome_curso": "Bacharelado em Saúde Pública"
       }
     },
@@ -1274,7 +1274,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "565",
         "cod_curso": "42",
-        "nome_carreira": "Terapia Ocupacional ",
+        "nome_carreira": "Terapia Ocupacional",
         "nome_curso": "Terapia Ocupacional - São Paulo"
       }
     },
@@ -1288,7 +1288,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "570",
         "cod_curso": "43",
-        "nome_carreira": "Terapia Ocupacional - Ribeirão Preto ",
+        "nome_carreira": "Terapia Ocupacional - Ribeirão Preto",
         "nome_curso": "Terapia Ocupacional - Ribeirão Preto"
       }
     },
@@ -1302,7 +1302,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "575",
         "cod_curso": "44",
-        "nome_carreira": "Zootecnia - Pirassununga ",
+        "nome_carreira": "Zootecnia - Pirassununga",
         "nome_curso": "Zootecnia - Pirassununga"
       }
     },
@@ -1316,7 +1316,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "700",
         "cod_curso": "01",
-        "nome_carreira": "Ciências Físicas e Biomoleculares - São Carlos ",
+        "nome_carreira": "Ciências Físicas e Biomoleculares - São Carlos",
         "nome_curso": "Bacharelado em Ciências Físicas e Biomoleculares - Ênfase Tecnológica - São Carlos"
       }
     },
@@ -1330,7 +1330,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "705",
         "cod_curso": "02",
-        "nome_carreira": "Ciências da Natureza - USP Leste, SP ",
+        "nome_carreira": "Ciências da Natureza - USP Leste, SP",
         "nome_curso": "Licenciatura em Ciências da Natureza - Noturno"
       }
     },
@@ -1344,35 +1344,35 @@
         "area": "ciências biológicas",
         "cod_carreira": "710",
         "cod_curso": "03",
-        "nome_carreira": "Computação ",
+        "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Ciência da Computação"
       },
       "04": {
         "area": "ciências biológicas",
         "cod_carreira": "710",
         "cod_curso": "04",
-        "nome_carreira": "Computação ",
+        "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Sistemas de Informação - Matutino"
       },
       "05": {
         "area": "ciências biológicas",
         "cod_carreira": "710",
         "cod_curso": "05",
-        "nome_carreira": "Computação ",
+        "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Sistemas de Informação - Noturno"
       },
       "06": {
         "area": "ciências biológicas",
         "cod_carreira": "710",
         "cod_curso": "06",
-        "nome_carreira": "Computação ",
+        "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Ciências de Computação - São Carlos"
       },
       "07": {
         "area": "ciências biológicas",
         "cod_carreira": "710",
         "cod_curso": "07",
-        "nome_carreira": "Computação ",
+        "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Ciência da Computação - Ribeirão Preto"
       }
     },
@@ -1386,7 +1386,7 @@
         "area": "ciências biológicas",
         "cod_carreira": "715",
         "cod_curso": "08",
-        "nome_carreira": "Engenharia Aeronáutica - São Carlos ",
+        "nome_carreira": "Engenharia Aeronáutica - São Carlos",
         "nome_curso": "Engenharia Aeronáutica - São Carlos"
       }
     },
@@ -1400,7 +1400,7 @@
         "area": "ciências exatas",
         "cod_carreira": "720",
         "cod_curso": "09",
-        "nome_carreira": "Engenharia Ambiental - Lorena ",
+        "nome_carreira": "Engenharia Ambiental - Lorena",
         "nome_curso": "Engenharia Ambiental - Lorena"
       }
     },
@@ -1414,7 +1414,7 @@
         "area": "ciências exatas",
         "cod_carreira": "725",
         "cod_curso": "10",
-        "nome_carreira": "Engenharia Ambiental - São Carlos ",
+        "nome_carreira": "Engenharia Ambiental - São Carlos",
         "nome_curso": "Engenharia Ambiental - São Carlos"
       }
     },
@@ -1428,7 +1428,7 @@
         "area": "ciências exatas",
         "cod_carreira": "730",
         "cod_curso": "11",
-        "nome_carreira": "Engenharia Bioquímica - Lorena ",
+        "nome_carreira": "Engenharia Bioquímica - Lorena",
         "nome_curso": "Engenharia Bioquímica - Lorena"
       }
     },
@@ -1442,7 +1442,7 @@
         "area": "ciências exatas",
         "cod_carreira": "735",
         "cod_curso": "12",
-        "nome_carreira": "Engenharia Civil - São Carlos ",
+        "nome_carreira": "Engenharia Civil - São Carlos",
         "nome_curso": "Engenharia Civil - São Carlos"
       }
     },
@@ -1456,14 +1456,14 @@
         "area": "ciências exatas",
         "cod_carreira": "740",
         "cod_curso": "13",
-        "nome_carreira": "Engenharia de Alimentos - Pirassununga ",
+        "nome_carreira": "Engenharia de Alimentos - Pirassununga",
         "nome_curso": "Engenharia de Alimentos - Diurno - Pirassununga"
       },
       "14": {
         "area": "ciências exatas",
         "cod_carreira": "740",
         "cod_curso": "14",
-        "nome_carreira": "Engenharia de Alimentos - Pirassununga ",
+        "nome_carreira": "Engenharia de Alimentos - Pirassununga",
         "nome_curso": "Engenharia de Alimentos - Noturno - Pirassununga"
       }
     },
@@ -1477,7 +1477,7 @@
         "area": "ciências exatas",
         "cod_carreira": "745",
         "cod_curso": "15",
-        "nome_carreira": "Engenharia de Biossistemas - Pirassununga ",
+        "nome_carreira": "Engenharia de Biossistemas - Pirassununga",
         "nome_curso": "Engenharia de Biossistemas Pirassununga"
       }
     },
@@ -1491,7 +1491,7 @@
         "area": "ciências exatas",
         "cod_carreira": "750",
         "cod_curso": "16",
-        "nome_carreira": "Engenharia de Materiais - Lorena ",
+        "nome_carreira": "Engenharia de Materiais - Lorena",
         "nome_curso": "Engenharia de Materiais - Lorena"
       }
     },
@@ -1505,7 +1505,7 @@
         "area": "ciências exatas",
         "cod_carreira": "755",
         "cod_curso": "17",
-        "nome_carreira": "Engenharia de Materiais e Manufatura - São Carlos ",
+        "nome_carreira": "Engenharia de Materiais e Manufatura - São Carlos",
         "nome_curso": "Engenharia de Materiais e Manufatura - São Carlos"
       }
     },
@@ -1519,7 +1519,7 @@
         "area": "ciências exatas",
         "cod_carreira": "760",
         "cod_curso": "18",
-        "nome_carreira": "Engenharia de Produção - Lorena ",
+        "nome_carreira": "Engenharia de Produção - Lorena",
         "nome_curso": "Engenharia de Produção - Lorena"
       }
     },
@@ -1533,21 +1533,21 @@
         "area": "ciências exatas",
         "cod_carreira": "765",
         "cod_curso": "19",
-        "nome_carreira": "Engenharia Elétrica e de Computação - São Carlos ",
+        "nome_carreira": "Engenharia Elétrica e de Computação - São Carlos",
         "nome_curso": "Engenharia Elétrica (Ênfase em Eletrônica) - São Carlos"
       },
       "20": {
         "area": "ciências exatas",
         "cod_carreira": "765",
         "cod_curso": "20",
-        "nome_carreira": "Engenharia Elétrica e de Computação - São Carlos ",
+        "nome_carreira": "Engenharia Elétrica e de Computação - São Carlos",
         "nome_curso": "Engenharia Elétrica (Ênfase em Sistemas de Energia e Automação) - São Carlos"
       },
       "21": {
         "area": "ciências exatas",
         "cod_carreira": "765",
         "cod_curso": "21",
-        "nome_carreira": "Engenharia Elétrica e de Computação - São Carlos ",
+        "nome_carreira": "Engenharia Elétrica e de Computação - São Carlos",
         "nome_curso": "Engenharia de Computação São Carlos"
       }
     },
@@ -1561,7 +1561,7 @@
         "area": "ciências exatas",
         "cod_carreira": "770",
         "cod_curso": "22",
-        "nome_carreira": "Engenharia Física - Lorena ",
+        "nome_carreira": "Engenharia Física - Lorena",
         "nome_curso": "Engenharia Física - Lorena"
       }
     },
@@ -1575,14 +1575,14 @@
         "area": "ciências exatas",
         "cod_carreira": "771",
         "cod_curso": "23",
-        "nome_carreira": "Engenharia Química - Lorena ",
+        "nome_carreira": "Engenharia Química - Lorena",
         "nome_curso": "Engenharia Química - Diurno Lorena"
       },
       "24": {
         "area": "ciências exatas",
         "cod_carreira": "771",
         "cod_curso": "24",
-        "nome_carreira": "Engenharia Química - Lorena ",
+        "nome_carreira": "Engenharia Química - Lorena",
         "nome_curso": "Engenharia Química - Noturno Lorena"
       }
     },
@@ -1596,21 +1596,21 @@
         "area": "ciências exatas",
         "cod_carreira": "775",
         "cod_curso": "25",
-        "nome_carreira": "Engenharia - São Carlos ",
+        "nome_carreira": "Engenharia - São Carlos",
         "nome_curso": "Engenharia Mecânica - São Carlos"
       },
       "26": {
         "area": "ciências exatas",
         "cod_carreira": "775",
         "cod_curso": "26",
-        "nome_carreira": "Engenharia - São Carlos ",
+        "nome_carreira": "Engenharia - São Carlos",
         "nome_curso": "Engenharia de Produção - São Carlos"
       },
       "27": {
         "area": "ciências exatas",
         "cod_carreira": "775",
         "cod_curso": "27",
-        "nome_carreira": "Engenharia - São Carlos ",
+        "nome_carreira": "Engenharia - São Carlos",
         "nome_curso": "Engenharia Mecatrônica - São Carlos"
       }
     },
@@ -1624,141 +1624,85 @@
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "28",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Ambiental"
       },
       "29": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "29",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Civil"
       },
       "30": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "30",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia de Computação (quadrimestral)"
       },
       "31": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "31",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia de Materiais e Engenharia Metalúrgica"
       },
       "32": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "32",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia de Minas"
       },
       "33": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "33",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia de Petróleo - Santos"
       },
       "34": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "34",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia de Produção"
       },
       "35": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "35",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Elétrica (Ênfases: Automação e Controle, Computação, Energia e Automação Elétricas, Eletrônica e Sistemas, Telecomunicações)"
       },
       "36": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "36",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Mecânica"
       },
       "37": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "37",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Mecatrônica"
       },
       "38": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "38",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Naval"
       },
       "39": {
         "area": "ciências exatas",
         "cod_carreira": "780",
         "cod_curso": "39",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
+        "nome_carreira": "Engenharia na Escola Politécnica",
         "nome_curso": "Engenharia Química (quadrimestral)"
-      },
-      "46": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "46",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Bacharelado em Astronomia"
-      },
-      "47": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "47",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Bacharelado em Estatística"
-      },
-      "48": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "48",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Bacharelado em Matemática São Paulo"
-      },
-      "49": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "49",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Bacharelado em Matemática Aplicada"
-      },
-      "50": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "50",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Bacharelado em Matemática Aplicada e Computacional"
-      },
-      "51": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "51",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Matemática Aplicada e Computação Científica - São Carlos"
-      },
-      "52": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "52",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Matemática - Bacharelado e Licenciatura - São Carlos"
-      },
-      "53": {
-        "area": "ciências exatas",
-        "cod_carreira": "780",
-        "cod_curso": "53",
-        "nome_carreira": "Engenharia na Escola Politécnica ",
-        "nome_curso": "Bacharelado em Estatística São Carlos"
       }
     },
     "nome_carreira": "Engenharia na Escola Politécnica "
@@ -1771,46 +1715,102 @@
         "area": "ciências exatas",
         "cod_carreira": "790",
         "cod_curso": "40",
-        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada ",
+        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
         "nome_curso": "Bacharelado em Física - Diurno - São Paulo"
       },
       "41": {
         "area": "ciências exatas",
         "cod_carreira": "790",
         "cod_curso": "41",
-        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada ",
+        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
         "nome_curso": "Bacharelado em Física - Noturno - São Paulo"
       },
       "42": {
         "area": "ciências exatas",
         "cod_carreira": "790",
         "cod_curso": "42",
-        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada ",
+        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
         "nome_curso": "Bacharelado em Física - São Carlos"
       },
       "43": {
         "area": "ciências exatas",
         "cod_carreira": "790",
         "cod_curso": "43",
-        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada ",
+        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
         "nome_curso": "Bacharelado em Física Computacional - São Carlos"
       },
       "44": {
         "area": "ciências exatas",
         "cod_carreira": "790",
         "cod_curso": "44",
-        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada ",
+        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
         "nome_curso": "Bacharelado em Meteorologia"
       },
       "45": {
         "area": "ciências exatas",
         "cod_carreira": "790",
         "cod_curso": "45",
-        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada ",
+        "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
         "nome_curso": "Bacharelado em Geofísica"
       }
     },
-    "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada "
+    "46": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "46",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Bacharelado em Astronomia"
+    },
+    "47": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "47",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Bacharelado em Estatística"
+    },
+    "48": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "48",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Bacharelado em Matemática São Paulo"
+    },
+    "49": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "49",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Bacharelado em Matemática Aplicada"
+    },
+    "50": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "50",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Bacharelado em Matemática Aplicada e Computacional"
+    },
+    "51": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "51",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Matemática Aplicada e Computação Científica - São Carlos"
+    },
+    "52": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "52",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Matemática - Bacharelado e Licenciatura - São Carlos"
+    },
+    "53": {
+      "area": "ciências exatas",
+      "cod_carreira": "780",
+      "cod_curso": "53",
+      "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
+      "nome_curso": "Bacharelado em Estatística São Carlos"
+  },
+    "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada"
   },
   "795": {
     "area": "ciências exatas",
@@ -1820,7 +1820,7 @@
         "area": "ciências exatas",
         "cod_carreira": "795",
         "cod_curso": "54",
-        "nome_carreira": "Física Médica - Ribeirão Preto ",
+        "nome_carreira": "Física Médica - Ribeirão Preto",
         "nome_curso": "Física Médica - Bacharelado Ribeirão Preto"
       }
     },
@@ -1834,7 +1834,7 @@
         "area": "ciências exatas",
         "cod_carreira": "800",
         "cod_curso": "55",
-        "nome_carreira": "Geologia ",
+        "nome_carreira": "Geologia",
         "nome_curso": "Geologia"
       }
     },
@@ -1848,7 +1848,7 @@
         "area": "ciências exatas",
         "cod_carreira": "805",
         "cod_curso": "56",
-        "nome_carreira": "Informática Biomédica - Ribeirão Preto ",
+        "nome_carreira": "Informática Biomédica - Ribeirão Preto",
         "nome_curso": "Bacharelado em Informática Biomédica - Ribeirão Preto"
       }
     },
@@ -1862,8 +1862,8 @@
         "area": "ciências exatas",
         "cod_carreira": "815",
         "cod_curso": "57",
-        "nome_carreira": "Licenciatura em Ciências Exatas - São Carlos ",
-        "nome_curso": "Licenciatura em Ciências Exatas (com Habilitação em Física ou Habilitação em Química ou Habilitação em Matemática) - São Carlos (AC: 30, EP: 2, PPI: 3)"
+        "nome_carreira": "Licenciatura em Ciências Exatas - São Carlos",
+        "nome_curso": "Licenciatura em Ciências Exatas (com Habilitação em Física ou Habilitação em Química ou Habilitação em Matemática) - São Carlos"
       }
     },
     "nome_carreira": "Licenciatura em Ciências Exatas - São Carlos "
@@ -1876,7 +1876,7 @@
         "area": "ciências exatas",
         "cod_carreira": "820",
         "cod_curso": "58",
-        "nome_carreira": "Licenciatura em Geociências e Educação Ambiental ",
+        "nome_carreira": "Licenciatura em Geociências e Educação Ambiental",
         "nome_curso": "Licenciatura em Geociências e Educação Ambiental"
       }
     },
@@ -1890,28 +1890,28 @@
         "area": "ciências exatas",
         "cod_carreira": "825",
         "cod_curso": "59",
-        "nome_carreira": "Licenciatura em Matemática / Física ",
+        "nome_carreira": "Licenciatura em Matemática / Física",
         "nome_curso": "Matemática - Licenciatura - Diurno"
       },
       "60": {
         "area": "ciências exatas",
         "cod_carreira": "825",
         "cod_curso": "60",
-        "nome_carreira": "Licenciatura em Matemática / Física ",
+        "nome_carreira": "Licenciatura em Matemática / Física",
         "nome_curso": "Matemática - Licenciatura - Noturno"
       },
       "61": {
         "area": "ciências exatas",
         "cod_carreira": "825",
         "cod_curso": "61",
-        "nome_carreira": "Licenciatura em Matemática / Física ",
+        "nome_carreira": "Licenciatura em Matemática / Física",
         "nome_curso": "Física - Licenciatura - Diurno"
       },
       "62": {
         "area": "ciências exatas",
         "cod_carreira": "825",
         "cod_curso": "62",
-        "nome_carreira": "Licenciatura em Matemática / Física ",
+        "nome_carreira": "Licenciatura em Matemática / Física",
         "nome_curso": "Física - Licenciatura - Noturno"
       }
     },
@@ -1925,7 +1925,7 @@
         "area": "ciências exatas",
         "cod_carreira": "830",
         "cod_curso": "63",
-        "nome_carreira": "Matemática Aplicada - Ribeirão Preto ",
+        "nome_carreira": "Matemática Aplicada - Ribeirão Preto",
         "nome_curso": "Bacharelado em Matemática Aplicada a Negócios - Ribeirão Preto"
       }
     },
@@ -1939,11 +1939,11 @@
         "area": "ciências exatas",
         "cod_carreira": "840",
         "cod_curso": "64",
-        "nome_carreira": "Oceanografia ",
+        "nome_carreira": "Oceanografia",
         "nome_curso": "Bacharelado em Oceanografia"
       }
     },
-    "nome_carreira": "Oceanografia "
+    "nome_carreira": "Oceanografia"
   },
   "850": {
     "area": "ciências exatas",
@@ -1953,7 +1953,7 @@
         "area": "ciências exatas",
         "cod_carreira": "850",
         "cod_curso": "65",
-        "nome_carreira": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forense ou Bacharelado com Habilitação em Química Tecnológica, Biotecnologia e Agroindústria) - Ribeirão Preto Tecnológica, Biotecnologia e Agroindústria. ",
+        "nome_carreira": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forense ou Bacharelado com Habilitação em Química Tecnológica, Biotecnologia e Agroindústria) - Ribeirão Preto Tecnológica, Biotecnologia e Agroindústria.",
         "nome_curso": "Bacharelado em Química - Ribeirão Preto"
       }
     },
@@ -1967,14 +1967,14 @@
         "area": "ciências exatas",
         "cod_carreira": "855",
         "cod_curso": "66",
-        "nome_carreira": "Química - Bacharelado e Licenciatura ",
+        "nome_carreira": "Química - Bacharelado e Licenciatura",
         "nome_curso": "Bacharelado e Licenciatura em Química - Integral"
       },
       "67": {
         "area": "ciências exatas",
         "cod_carreira": "855",
         "cod_curso": "67",
-        "nome_carreira": "Química - Bacharelado e Licenciatura ",
+        "nome_carreira": "Química - Bacharelado e Licenciatura",
         "nome_curso": "Bacharelado e Licenciatura em Química - Noturno"
       }
     },
@@ -1988,7 +1988,7 @@
         "area": "ciências exatas",
         "cod_carreira": "865",
         "cod_curso": "68",
-        "nome_carreira": "Química - Licenciatura - Ribeirão Preto ",
+        "nome_carreira": "Química - Licenciatura - Ribeirão Preto",
         "nome_curso": "Licenciatura em Química - Ribeirão Preto"
       }
     },
@@ -2002,7 +2002,7 @@
         "area": "ciências exatas",
         "cod_carreira": "870",
         "cod_curso": "69",
-        "nome_carreira": "Química (Bacharelado e Bacharelado com Atribuições Tecnológicas com Ênfases em Alimentos, Ambiental, Gestão de Qualidade e Materiais) - São Carlos ",
+        "nome_carreira": "Química (Bacharelado e Bacharelado com Atribuições Tecnológicas com Ênfases em Alimentos, Ambiental, Gestão de Qualidade e Materiais) - São Carlos",
         "nome_curso": "Bacharelado em Química - São Carlos"
       }
     },
@@ -2016,7 +2016,7 @@
         "area": "ciências exatas",
         "cod_carreira": "875",
         "cod_curso": "70",
-        "nome_carreira": "Sistemas de Informação - São Carlos ",
+        "nome_carreira": "Sistemas de Informação - São Carlos",
         "nome_curso": "Bacharelado em Sistemas de Informação - São Carlos"
       }
     },
