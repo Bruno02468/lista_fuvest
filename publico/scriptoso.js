@@ -321,6 +321,7 @@ function hora_do_show() {
         alert("Especifique pelo menos um curso ou carreira!");
         return;
     }
+    var charset = "<html><head><meta charset=\"utf-8\">";
     // primeiro passo: gerar os dados relevantes
     var matches = procura_matches();
     var dados = null;
@@ -332,7 +333,8 @@ function hora_do_show() {
             break;
         case "html":
             datatype = "data:text/html,";
-            dados = planilha(matches);
+            dados = charset + "</head><body>" + planilha(matches)
+                + "</body></html>";
             break;
         case "csv":
             datatype = "data:text/csv,"
@@ -353,7 +355,7 @@ function hora_do_show() {
             + "style=\"border:0; top:0px; left:0px; bottom:0px; right:0px; "
             + "width:100%; height:100%; font-family: sans-serif;\" "
             + "allowfullscreen></iframe>";
-        var html_begin = "<html><head><meta charset=\"utf-8\"><title>Pesquisa "
+        var html_begin = charset + "<title>Pesquisa "
             + "de Aprovados Fuvest</title><body style=\"overflow: hidden\">";
         var html_end = "</body></html>"
         win.document.write(html_begin + iframe + html_end);
