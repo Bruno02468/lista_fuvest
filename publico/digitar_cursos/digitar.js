@@ -8,10 +8,10 @@ var dados = {};
 
 function inserir() {
     var car = icar.value;
-    var ncar = incar.value;
+    var ncar = incar.value.trim();
     var cur = icur.value;
-    var ncur = incur.value;
-    console.log("yea");
+    var ncur = incur.value.trim();
+    icur.value = parseInt(cur) + 1;
     if (!dados.hasOwnProperty(car)) {
         dados[car] = {
             "cod_carreira": car,
@@ -27,7 +27,6 @@ function inserir() {
         "nome_carreira": ncar,
         "nome_curso": ncur
     };
-    icur.value = "";
     incur.value = "";
     icur.focus();
     return false;
