@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Digitar cursos</title>
+        <link rel="stylesheet" href="../estiloso.css">
+    </head>
+    <body>
+        <h1>Digitar Cursos</h1>
+        <form id="f" onsubmit="return inserir();">
+            Código de carreira:
+            <input type="number" id="car">
+            <br>
+            Nome de carreira:
+            <input type="text" id="ncar"><br>
+            Código do curso:
+            <input type="number" id="cur"><br>
+            Nome do curso:
+            <input type="text" id="ncur"><br>
+            <input type="submit" value="inserir!">
+        </form>
+        <br>
+        <button onclick="gerar();">gerar!</button><br>
+        <textarea id="t"></textarea>
+        <script src="digitar.js"></script>
+    </body>
+</html>
