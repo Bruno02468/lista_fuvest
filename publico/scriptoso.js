@@ -119,8 +119,8 @@ function gerar_menu_carreiras() {
 // gera a "lista de listas" disponíveis
 function gerar_lista_listas(dados) {
     for (lista of dados) {
-        lista_listas.innerHTML += make_option(lista.arquivo, lista.chamada
-            + "ª chamada de " + lista.ano);
+        lista_listas.innerHTML += make_option(lista.arquivo, lista.ano
+            + " - " + lista.chamada + "ª chamada");
     }
     lista_listas.value = "empty";
 }
