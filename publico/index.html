@@ -1,104 +1,101 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91297504-2"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag("js", new Date());
-            gtag("config", "UA-91297504-2");
-        </script>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Pesquisar Listas da Fuvest</title>
-        <link rel="stylesheet" href="estiloso.css">
-    </head>
-    <body>
-        <h1>Pesquisar listas de aprovados da Fuvest</h1>
-        Ouvi dizer que CAs e outras entidades achavam os nomes dos alunos
-        aprovados num dado curso <i>pesquisando na mão um por um</i>.<br>
+<html lang="pt-br">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91297504-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+      gtag("config", "UA-91297504-2");
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Pesquisar listas da Fuvest">
+    <meta name="author" content="Bruno Borges Paschoalinoto">
+    <title>Pesquisar Listas da Fuvest</title>
+    <link href="//fonts.googleapis.com/css?family=raleway:400,300,600"
+    rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css"
+    href="//cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" type="text/css"
+    href="//cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <link rel="stylesheet" href="estiloso.css">
+  </head>
+  <body>
+    <div class="container center">
+      <div class="row">
+        <h2>Pesquisar listas de aprovados da Fuvest</h2>
+        <h6>
+          Esta ferramenta permite filtrar listas antigas e atuais de aprovados
+          na Fuvest por carreira e curso.
+          <br>
+          <br>
+          É útil para centros acadêmicos acharem seus calouros, e para
+          vestibulandos procurarem veteranos para tirar dúvidas.
+        </h6>
+      </div>
+      <br>
+      Selecione a lista a ser pesquisada:
+      <select id="listas" onchange="inserir_lista(this);"></select>
+      <br>
+      <br>
+      Agora especifique os cursos e carreiras pelos quais você quer procurar.
+      <br>
+      <small>Você pode adicionar quantos cursos for necessário.<br></small>
+      <button onclick="add_procurado();">Adicionar curso/carreira</button>
+      <button onclick="remove_procurado();">Remover curso/carreira</button>
+      <br>
+      <br>
+      <div id="criterios"></div><br>
+      Se estiver tudo OK, gere a lista no formato que quiser.
+      <br>
+      Escolha uma opção e divirta-se!
+      <br>
+      <br>
+      Gerar uma
+      <select id="formato">
+        <option value="html">planilha HTML</option>
+        <option value="txt">lista em texto puro</option>
+        <option value="xls">planilha .XLS</option>
+        <option value="csv">dados em .CSV</option>
+      </select>
+      <select id="destino">
+        <option value="guia">numa nova guia</option>
+        <option value="dl">para download imediato</option>
+      </select> e
+      <button onclick="hora_do_show();">manda ver!</button><br>
+      <small>
+        Note que nem todos os formatos abrem num navegador.
         <br>
-        Isso me deu pesadelos. Então fiz esta pequena ferramenta.<br>
+        A opção "nova guia" geralmente não funciona em celulares!
         <br>
-        Ela permite pesquisar as listas de aprovados da Fuvest por carreira e
-        curso!<br>
+        Na dúvida, selecione a opção de download mesmo.
+      </small>
+      <br>
+      <br>
+      <i>
+        Se encontrar qualquer problema ou bug, <b>reporte</b> para
+        <a href="mailto:bruno@oisumida.rs">bruno@oisumida.rs</a>
+        ou numa issue no repositório abaixo.
         <br>
-        <h3>
-            O problema com as listas de 2019 já foi resolvido faz tempo.<br>
-            <br>
-            A ferramenta <i>vai funcionar</i> nas próximas chamadas e nos
-            próximos anos. Desculpe, e obrigado por usar :)
-        </h3>
-        <br>
-        Selecione alguma das listas que eu tenho prontas:
-        <select id="listas" onchange="inserir_lista(this);">
-            <option value="empty">Escolha uma lista...</option>
-        </select><br>
-        Ou copie e cole diretamente uma lista PDF ou TXT abaixo:
-        <br>
-        <br>
-        <textarea id="lista"></textarea><br>
-        <br>
-        Agora, onde você arranjou essa lista?
-        <select id="origem_lista">
-            <option value="pdf">Selecionei uma das prontas</option>
-            <option value="pdf">Lista em PDF</option>
-            <option value="txt">Lista em TXT</option>
-        </select><br>
-        <br>
-        E de que ano ela é?
-        <select id="anos" onchange="usar_ano(this.value);"></select>
-        <br>
-        <br>
-        Agora especifique os cursos e carreiras pelos quais você quer procurar.
-        <br>
-        <small>Você pode adicionar quantos cursos for necessário.<br></small>
-        <button onclick="add_procurado();">Adicionar curso/carreira</button>
-        <button onclick="remove_procurado();">Remover curso/carreira</button>
-        <br>
-        <br>
-        <div id="criterios"></div><br>
-        <br>
-        Se estiver tudo OK, gere a lista no formato que quiser.<br>
-        Escolha uma opção e divirta-se!<br>
-        <br>
-        Gerar uma
-        <select id="formato">
-            <option value="html">planilha HTML</option>
-            <option value="txt">lista em texto puro</option>
-            <option value="xls">planilha .XLS</option>
-            <option value="csv">dados em .CSV</option>
-        </select>
-        <select id="destino">
-            <option value="guia">numa nova guia</option>
-            <option value="dl">para download imediato</option>
-        </select> e
-        <button onclick="hora_do_show();">manda ver!</button><br>
-        <small><small>
-            Note que nem todos os formatos abrem num navegador.
-            <br>
-            A opção "nova guia" geralmente não funciona em celulares!<br>
-            Na dúvida, selecione a opção de download mesmo.<br>
-        </small></small>
-        <br>
-        <br>
-        <small><i>
-                Se encontrar qualquer problema ou bug, <b>reporte</b> para
-            <a href="mailto:bruno@oisumida.rs">bruno@oisumida.rs</a>
-            ou numa issue no repositório abaixo.<br>
-            Se você estiver interessado no código, ele é aberto sob a licença
-            MIT, e está
-            <a href="https://github.com/Bruno02468/fuvest_ser_crime_talquei"
-            target="_blank">num repositório do GitHub</a>!<br>
-            <br>
-            Programado por Bruno Borges Paschoalinoto, da Computação (Poli).
-            <br>
-            Se esta ferramenta grátis te ajudou, considere agradecer via PicPay,
-            meu ID é @borginhos.<br>
-        </i></small>
+        Se você estiver interessado no código, ele é aberto sob a licença
+        MIT, e está
+        <a href="https://github.com/Bruno02468/fuvest_ser_crime_talquei"
+        target="_blank">num repositório do GitHub</a>!
         <br>
         <br>
-        <script src="scriptoso.js"></script>
-    </body>
+        Programado por 
+        <a href="//oisumida.rs" target="_blank">Bruno Borges Paschoalinoto</a>,
+        da Computação (Poli).
+        <br>
+        Se esta ferramenta grátis te ajudou, considere agradecer via PicPay,
+        meu ID é @borginhos.
+        <br>
+      </i>
+      <br>
+      <br>
+    </div>
+    <script src="scriptoso.js"></script>
+  </body>
 </html>

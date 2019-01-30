@@ -1,12 +1,7 @@
 /* EU ODEIO CSS EU ODEIO CSS EU ODEIO CSS EU ODEIO CSS EU ODEIO CSS AAAAAGHHH */
 
-body {
-	text-align: center;
-	font-family: sans-serif;
-    max-width: 36em;
-    margin: 0 auto;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+.center {
+  text-align: center;
 }
 
 sup {
@@ -14,9 +9,5 @@ sup {
 }
 
 select {
-    max-width: 20em;
-}
-
-textarea {
-    width: 40%;
+  max-width: 20em;
 }
