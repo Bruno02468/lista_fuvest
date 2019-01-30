@@ -4,10 +4,10 @@
   text-align: center;
 }
 
-sup {
-	font-size: 50%;
-}
-
 select {
   max-width: 20em;
+}
+
+#contagem {
+	font-weight: bold;
 }

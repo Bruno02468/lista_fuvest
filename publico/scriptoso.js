@@ -56,18 +56,19 @@ const criterios = document.getElementById("criterios");
 const formato = document.getElementById("formato");
 const destino = document.getElementById("destino");
 const lista_listas = document.getElementById("listas");
+const contagem = document.getElementById("contagem");
 
 // primeiramente, vamos puxar a lista de códigos de curso e carreira
 var anos = null;
 var codigos_por_ano = {};
 var listas = null;
 var current_raw = "";
-ajaj("meta/listas.json", function (more_data) {
-  listas = more_data;
-  gerar_lista_listas(more_data);
-  ajaj("meta/anos.json", function (even_more_data) {
-    anos = even_more_data;
-    gerar_lista_anos(even_more_data);
+ajaj("meta/anos.json", function (even_more_data) {
+  anos = even_more_data;
+  gerar_lista_anos(even_more_data);
+  ajaj("meta/listas.json", function (more_data) {
+    listas = more_data;
+    gerar_lista_listas(more_data);
   });
 });
 
@@ -135,6 +136,7 @@ function inserir_lista(elem) {
   usar_ano(lista.ano);
   ajat(url, function(txt) {
     current_raw = txt;
+    recontar();
   });
 }
 
@@ -155,6 +157,7 @@ function gerar_menu_cursos(codcarreira) {
       resultado += make_option(codcurso, curso["nome_curso"] + " ("
         + codcurso + ")");
     }
+    recontar();
     return resultado;
   }
   // a carreira em questão não existe
@@ -166,10 +169,6 @@ var procurados = 0;
 
 // adiciona um curso para ser procurado
 function add_procurado() {
-  if (!codigos) {
-    alert("Selecione um ano!");
-    return;
-  }
   procurados++;
   var id_base = "procurado-" + procurados;
   var div = document.createElement("div");
@@ -177,8 +176,8 @@ function add_procurado() {
   div.id = id_base;
   var seletor = "<select id=\"" + id_base
     + "-car\" onchange=\"update_procurado(" + procurados + ");\">"
-    + menu_carreiras + "</select> - <select id=\"" + id_base + "-cur\">"
-    + "</select>";
+    + menu_carreiras + "</select> - <select id=\"" + id_base + "-cur\""
+    + "onchange=\"recontar();\"></select>";
   div.innerHTML = seletor;
   criterios.appendChild(div);
 }
@@ -189,6 +188,7 @@ function remove_procurado() {
   var alvo = document.getElementById("procurado-" + procurados);
   alvo.parentNode.removeChild(alvo);
   procurados--;
+  recontar();
 }
 
 // chamada quando temos que atualzar a lista de cursos de um certo critério
@@ -198,6 +198,7 @@ function update_procurado(n) {
   var cur = document.getElementById(id_base + "-cur");
   cur.innerHTML = gerar_menu_cursos(car);
   cur.value = "*";
+  recontar();
 }
 
 // gera uma lista de critérios [carreira, curso] que o usuário especificou
@@ -253,13 +254,17 @@ function procura_matches() {
   });
 }
 
+// atualiza a contagem de nomes
+function recontar() {
+  contagem.innerText = procura_matches().length;
+}
+
 // itera sobre cada candidato de uma lista
 function iterar(lista, callback) {
   for (var cand of lista) {
     var nome = cand[0];
     var car = cand[1][0];
     var cur = cand[1][1];
-    console.log(cand);
     var carreira = car + " - " + codigos[car]["nome_carreira"];
     var curso = cur + " - " + codigos[car]["cursos"][cur]["nome_curso"];
     callback(nome, car, cur, carreira, curso);
@@ -340,6 +345,11 @@ function hora_do_show() {
     // nova guia: usar um truque sujo para navegar para dataurl
     var href = datatype + encodeURIComponent(dados);
     var win = window.open();
+    if (!win) {
+      alert("Parece que seu navegador bloqueou a nova guia.\n"
+        + "Permita o pop-up, ou selecione a opção de download!");
+      return;
+    }
     var iframe = "<iframe src=\"" + href  + "\" frameborder=\"0\" "
       + "style=\"border:0; top:0px; left:0px; bottom:0px; right:0px; "
       + "width:100%; height:100%; font-family: sans-serif;\" "
@@ -347,7 +357,10 @@ function hora_do_show() {
     var html_begin = charset + "<title>Pesquisa "
       + "de Aprovados Fuvest</title><body style=\"overflow: hidden\">";
     var html_end = "</body></html>"
+    win.document.open();
     win.document.write(html_begin + iframe + html_end);
+    win.document.close();
+    win.focus();
   } else {
     // download: usar um truque sujo para baixar dados puros
     var link = document.createElement("a");
