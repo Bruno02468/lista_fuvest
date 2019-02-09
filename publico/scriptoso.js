@@ -87,8 +87,11 @@ function ano_callback(ano) {
   }
 }
 
+var ano_atual = null;
+
 // aplica a escolha de ano
 function usar_ano(ano) {
+  ano_atual = ano;
   codigos = codigos_por_ano[ano];
   var menu = gerar_menu_carreiras();
   for (var i = 1; i <= procurados; i++) {
@@ -122,18 +125,21 @@ function gerar_lista_listas(dados) {
       + " - " + lista.chamada + "ª chamada");
   });
   lista_listas.value = "0";
-  inserir_lista(lista_listas);
+  inserir_lista(lista_listas, false);
 }
 
 // caso o usuário selecione para usar uma das listas pré-selecionadas
-function inserir_lista(elem) {
+function inserir_lista(elem, voluntario) {
   if (elem.value === "empty") {
     current_raw = "";
     return;
   }
   var lista = listas[parseInt(elem.value)];
   var url = "listas/" + lista.arquivo;
-  usar_ano(lista.ano);
+  // só alterar o ano e esvaziar os critérios se o ano tiver mudado
+  if (!voluntario || (voluntario && ano_atual != lista.ano)) {
+    usar_ano(lista.ano);
+  }
   ajat(url, function(txt) {
     current_raw = txt;
     recontar();
