@@ -6,8 +6,17 @@
 
 select {
   max-width: 20em;
+  margin-bottom: 0;
 }
 
 #contagem {
 	font-weight: bold;
+}
+
+.cuc {
+  font-size: 80%;
+}
+
+.procurado {
+  line-height: 1.0;
 }

@@ -63,6 +63,8 @@ var anos = null;
 var codigos_por_ano = {};
 var listas = null;
 var current_raw = "";
+var cuc = null;
+
 ajaj("meta/anos.json", function (even_more_data) {
   anos = even_more_data;
   gerar_lista_anos(even_more_data);
@@ -140,9 +142,20 @@ function inserir_lista(elem, voluntario) {
   if (!voluntario || (voluntario && ano_atual != lista.ano)) {
     usar_ano(lista.ano);
   }
+  // encadear para obter as classificações de último convocado
   ajat(url, function(txt) {
     current_raw = txt;
+    cuc = null;
     recontar();
+    atualizar_cucs();
+    // se houver cuc, ele será baixado!
+    if (lista.cuc) {
+      var cucfile = "cuc/cuc_" + lista.arquivo.replace("txt", "json");
+      ajaj(cucfile, function (newcuc) {
+        cuc = newcuc;
+        atualizar_cucs();
+      });
+    }
   });
 }
 
@@ -175,16 +188,23 @@ var procurados = 0;
 
 // adiciona um curso para ser procurado
 function add_procurado() {
+  if (!current_raw) {
+    alert("Espere a lista carregar!\nIsso pode demorar um pouco mais em dados"
+      + " móveis.");
+    return;
+  }
   procurados++;
   var id_base = "procurado-" + procurados;
   var div = document.createElement("div");
+  div.className = "procurado";
   var menu_carreiras = gerar_menu_carreiras();
   div.id = id_base;
   var seletor = "<select id=\"" + id_base
     + "-car\" onchange=\"update_procurado(" + procurados + ");\">"
-    + menu_carreiras + "</select> - <select id=\"" + id_base + "-cur\""
-    + "onchange=\"recontar();\"></select>";
-  div.innerHTML = seletor;
+    + menu_carreiras + "</select><select id=\"" + id_base + "-cur\""
+    + "onchange=\"recontar(); atualizar_cuc(" + procurados + ");\"></select>";
+  var cuc_container = "<span class=\"cuc\" id=\"" + id_base + "-cuc\"></span>";
+  div.innerHTML = seletor + cuc_container + "<br><br>";
   criterios.appendChild(div);
 }
 
@@ -197,6 +217,42 @@ function remove_procurado() {
   recontar();
 }
 
+// atualiza a classificação do último colocado para um dado critério
+function atualizar_cuc(n) {
+  var id_base = "procurado-" + n;
+  var cucelem = document.getElementById(id_base + "-cuc");
+  if (cuc) {
+    var car = document.getElementById(id_base + "-car").value;
+    var cur = document.getElementById(id_base + "-cur").value;
+    // descartar critérios que não tenham curso definido
+    if (car == "?" || cur == "*") {
+      cucelem.innerHTML = "";
+      return;
+    }
+    var pares = [];
+    var cuc_desejado = cuc[parseInt(car)][parseInt(cur)];
+    for (var key in cuc_desejado) {
+      pares.push(key + ": " + cuc_desejado[key]);
+    }
+    cucelem.innerHTML = "<br>Classificação do último convocado: " 
+      + pares.join(", ");
+    if (conta_um(car, cur) == 0) {
+      cucelem.innerHTML += "<br><i>Cuidado! Ninguém passou nesse curso nessa"
+        + " lista.<br>Isso se refere a uma lista anterior.</i>";
+    }
+  } else {
+    // caso a lista atual não tenha cuc
+    cucelem.innerHTML = "";
+  }
+}
+
+// atualiza a cuc para todos os critérios
+function atualizar_cucs() {
+  for (var i = 1; i <= procurados; i++) {
+    atualizar_cuc(i);
+  }
+}
+
 // chamada quando temos que atualzar a lista de cursos de um certo critério
 function update_procurado(n) {
   var id_base = "procurado-" + n;
@@ -205,6 +261,7 @@ function update_procurado(n) {
   cur.innerHTML = gerar_menu_cursos(car);
   cur.value = "*";
   recontar();
+  atualizar_cuc(n);
 }
 
 // gera uma lista de critérios [carreira, curso] que o usuário especificou
@@ -257,6 +314,13 @@ function pesquisa_nomes() {
 function procura_matches() {
   return pesquisa_nomes().filter(function (alvo) {
     return match_geral(alvo);
+  });
+}
+
+// retorna o número de aprovados num dado curso
+function conta_um(car, cur) {
+  return pesquisa_nomes().filter(function (alvo) {
+    return match_criterio(alvo, [car, cur]);
   });
 }
 
