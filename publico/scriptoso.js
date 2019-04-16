@@ -122,7 +122,7 @@ function gerar_menu_carreiras() {
 function gerar_lista_listas(dados) {
   dados.map(function (lista, index) {
     lista_listas.innerHTML += make_option("" + index, lista.ano
-      + " - " + lista.chamada + "ª chamada");
+      + " - " + lista.ordinal + "ª " + lista.natureza);
   });
   lista_listas.value = "0";
   inserir_lista(lista_listas, false);

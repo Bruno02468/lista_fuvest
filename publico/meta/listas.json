@@ -1,80 +1,121 @@
 [
   {
     "ano": 2019,
-    "chamada": 5,
+    "ordinal": 4,
     "tipo": "pdf",
+		"natureza": "lista de espera",
+    "arquivo": "2019_e4.txt"
+  },
+  {
+    "ano": 2019,
+    "ordinal": 3,
+    "tipo": "pdf",
+		"natureza": "lista de espera",
+    "arquivo": "2019_e3.txt"
+  },
+  {
+    "ano": 2019,
+    "ordinal": 2,
+    "tipo": "pdf",
+		"natureza": "lista de espera",
+    "arquivo": "2019_e2.txt"
+  },
+  {
+    "ano": 2019,
+    "ordinal": 1,
+    "tipo": "pdf",
+		"natureza": "lista de espera",
+    "arquivo": "2019_e1.txt"
+  },
+  {
+    "ano": 2019,
+    "ordinal": 5,
+    "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2019_5.txt"
   },
   {
     "ano": 2019,
-    "chamada": 4,
+    "ordinal": 4,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2019_4.txt"
   },
   {
     "ano": 2019,
-    "chamada": 3,
+    "ordinal": 3,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2019_3.txt"
   },
   {
     "ano": 2019,
-    "chamada": 2,
+    "ordinal": 2,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2019_2.txt"
   },
   {
     "ano": 2019,
-    "chamada": 1,
+    "ordinal": 1,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2019_1.txt"
   },
   {
     "ano": 2018,
-    "chamada": 8,
-        "tipo": "pdf",
+    "ordinal": 8,
+		"tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_8.txt"
   },
   {
     "ano": 2018,
-    "chamada": 7,
+    "ordinal": 7,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_7.txt"
   },
   {
     "ano": 2018,
-    "chamada": 6,
+    "ordinal": 6,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_6.txt"
   },
   {
     "ano": 2018,
-    "chamada": 5,
+    "ordinal": 5,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_5.txt"
   },
   {
     "ano": 2018,
-    "chamada": 4,
+    "ordinal": 4,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_4.txt"
   },
   {
     "ano": 2018,
-    "chamada": 3,
+    "ordinal": 3,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_3.txt"
   },
   {
     "ano": 2018,
-    "chamada": 2,
+    "ordinal": 2,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_2.txt"
   },
   {
     "ano": 2018,
-    "chamada": 1,
+    "ordinal": 1,
     "tipo": "pdf",
+		"natureza": "chamada",
     "arquivo": "2018_1.txt"
   }
 ]
