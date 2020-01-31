@@ -1,6 +1,14 @@
 [
   {
     "ano": 2020,
+    "ordinal": 2,
+    "tipo": "pdf",
+    "cuc": false,
+		"natureza": "chamada",
+    "arquivo": "2020_2.txt"
+  },
+  {
+    "ano": 2020,
     "ordinal": 1,
     "tipo": "pdf",
     "cuc": false,
