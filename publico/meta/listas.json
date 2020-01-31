@@ -11,7 +11,7 @@
     "ano": 2020,
     "ordinal": 1,
     "tipo": "pdf",
-    "cuc": false,
+    "cuc": true,
 		"natureza": "chamada",
     "arquivo": "2020_1.txt"
   },
