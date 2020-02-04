@@ -4,38 +4,38 @@
     "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
     "area": "HUMANAS",
     "cursos": {
-      "1": {
+      "01": {
         "area": "HUMANAS",
         "cod_carreira": "100",
-        "cod_curso": "1",
+        "cod_curso": "01",
         "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Administração - Diurno - Ribeirão Preto"
       },
-      "2": {
+      "02": {
         "area": "HUMANAS",
         "cod_carreira": "100",
-        "cod_curso": "2",
+        "cod_curso": "02",
         "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Administração - Noturno - Ribeirão Preto"
       },
-      "3": {
+      "03": {
         "area": "HUMANAS",
         "cod_carreira": "100",
-        "cod_curso": "3",
+        "cod_curso": "03",
         "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Ciências Contábeis - Ribeirão Preto"
       },
-      "4": {
+      "04": {
         "area": "HUMANAS",
         "cod_carreira": "100",
-        "cod_curso": "4",
+        "cod_curso": "04",
         "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Economia - Ribeirão Preto"
       },
-      "5": {
+      "05": {
         "area": "HUMANAS",
         "cod_carreira": "100",
-        "cod_curso": "5",
+        "cod_curso": "05",
         "nome_carreira": "Administração, Ciências Contábeis, Economia, Economia Empresarial e Controladoria - Ribeirão Preto",
         "nome_curso": "Economia Empresarial e Con- troladoria - Ribeirão Preto"
       }
@@ -46,10 +46,10 @@
     "nome_carreira": "Administração - Piracicaba",
     "area": "HUMANAS",
     "cursos": {
-      "6": {
+      "06": {
         "area": "HUMANAS",
         "cod_carreira": "101",
-        "cod_curso": "6",
+        "cod_curso": "06",
         "nome_carreira": "Administração - Piracicaba",
         "nome_curso": "Bacharelado em Administração - Piracicaba"
       }
@@ -60,10 +60,10 @@
     "nome_carreira": "Arquitetura - FAU",
     "area": "HUMANAS",
     "cursos": {
-      "7": {
+      "07": {
         "area": "HUMANAS",
         "cod_carreira": "105",
-        "cod_curso": "7",
+        "cod_curso": "07",
         "nome_carreira": "Arquitetura - FAU",
         "nome_curso": "Arquitetura e Urbanismo"
       }
@@ -74,10 +74,10 @@
     "nome_carreira": "Arquitetura - São Carlos",
     "area": "HUMANAS",
     "cursos": {
-      "8": {
+      "08": {
         "area": "HUMANAS",
         "cod_carreira": "110",
-        "cod_curso": "8",
+        "cod_curso": "08",
         "nome_carreira": "Arquitetura - São Carlos",
         "nome_curso": "Arquitetura e Urbanismo - São Carlos"
       }
@@ -88,10 +88,10 @@
     "nome_carreira": "Artes Cênicas",
     "area": "HUMANAS",
     "cursos": {
-      "9": {
+      "09": {
         "area": "HUMANAS",
         "cod_carreira": "114",
-        "cod_curso": "9",
+        "cod_curso": "09",
         "nome_carreira": "Artes Cênicas",
         "nome_curso": "Artes Cênicas - Bacharelado e Licenciatura"
       }
@@ -739,17 +739,17 @@
     "nome_carreira": "Ciências Biológicas",
     "area": "BIOLOGICAS",
     "cursos": {
-      "2": {
+      "02": {
         "area": "BIOLOGICAS",
         "cod_carreira": "401",
-        "cod_curso": "2",
+        "cod_curso": "02",
         "nome_carreira": "Ciências Biológicas",
         "nome_curso": "Licenciatura e Bacharelado em Ciências Biológicas - Integral"
       },
-      "3": {
+      "03": {
         "area": "BIOLOGICAS",
         "cod_carreira": "401",
-        "cod_curso": "3",
+        "cod_curso": "03",
         "nome_carreira": "Ciências Biológicas",
         "nome_curso": "Licenciatura e Bacharelado em Ciências Biológicas - Noturno"
       }
@@ -760,10 +760,10 @@
     "nome_carreira": "Ciências Biológicas - Piracicaba",
     "area": "BIOLOGICAS",
     "cursos": {
-      "4": {
+      "04": {
         "area": "BIOLOGICAS",
         "cod_carreira": "405",
-        "cod_curso": "4",
+        "cod_curso": "04",
         "nome_carreira": "Ciências Biológicas - Piracicaba",
         "nome_curso": "Licenciatura e Bacharelado em Ciências Biológicas - Piracicaba"
       }
@@ -774,10 +774,10 @@
     "nome_carreira": "Ciências Biológicas - Ribeirão Preto",
     "area": "BIOLOGICAS",
     "cursos": {
-      "5": {
+      "05": {
         "area": "BIOLOGICAS",
         "cod_carreira": "410",
-        "cod_curso": "5",
+        "cod_curso": "05",
         "nome_carreira": "Ciências Biológicas - Ribeirão Preto",
         "nome_curso": "Bacharelado e Licenciatura em Ciências Biológicas - Ribeirão Preto"
       }
@@ -788,10 +788,10 @@
     "nome_carreira": "Ciências Biomédicas",
     "area": "BIOLOGICAS",
     "cursos": {
-      "6": {
+      "06": {
         "area": "BIOLOGICAS",
         "cod_carreira": "415",
-        "cod_curso": "6",
+        "cod_curso": "06",
         "nome_carreira": "Ciências Biomédicas",
         "nome_curso": "Bacharelado  em  Ciências Biomédicas"
       }
@@ -802,10 +802,10 @@
     "nome_carreira": "Ciências Biomédicas - Ribeirão Preto",
     "area": "BIOLOGICAS",
     "cursos": {
-      "7": {
+      "07": {
         "area": "BIOLOGICAS",
         "cod_carreira": "416",
-        "cod_curso": "7",
+        "cod_curso": "07",
         "nome_carreira": "Ciências Biomédicas - Ribeirão Preto",
         "nome_curso": "Bacharelado  eCiências Biomédicas -  Ênfases em Ciências Básicas da Saúde e em Biotecnologia em Saúde - Ribeirão Preto"
       }
@@ -816,10 +816,10 @@
     "nome_carreira": "Ciências dos Alimentos - Piracicaba",
     "area": "BIOLOGICAS",
     "cursos": {
-      "8": {
+      "08": {
         "area": "BIOLOGICAS",
         "cod_carreira": "425",
-        "cod_curso": "8",
+        "cod_curso": "08",
         "nome_carreira": "Ciências dos Alimentos - Piracicaba",
         "nome_curso": "Bacharelado em Ciências dos Alimentos - Piracicaba"
       }
@@ -830,10 +830,10 @@
     "nome_carreira": "Educação Física e Esporte",
     "area": "BIOLOGICAS",
     "cursos": {
-      "9": {
+      "09": {
         "area": "BIOLOGICAS",
         "cod_carreira": "430",
-        "cod_curso": "9",
+        "cod_curso": "09",
         "nome_carreira": "Educação Física e Esporte",
         "nome_curso": "Educação Física e Esporte"
       }
@@ -1306,10 +1306,10 @@
     "nome_carreira": "Ciências Físicas e Biomoleculares - São Carlos",
     "area": "EXATAS",
     "cursos": {
-      "1": {
+      "01": {
         "area": "EXATAS",
         "cod_carreira": "700",
-        "cod_curso": "1",
+        "cod_curso": "01",
         "nome_carreira": "Ciências Físicas e Biomoleculares - São Carlos",
         "nome_curso": "Bacharelado em Ciências Físicas e Biomoleculares - Ênfase Tecnológica - São Carlos"
       }
@@ -1320,10 +1320,10 @@
     "nome_carreira": "Ciências da Natureza - USP Leste, SP",
     "area": "EXATAS",
     "cursos": {
-      "2": {
+      "02": {
         "area": "EXATAS",
         "cod_carreira": "705",
-        "cod_curso": "2",
+        "cod_curso": "02",
         "nome_carreira": "Ciências da Natureza - USP Leste, SP",
         "nome_curso": "Licenciatura em Ciências da Natureza - Noturno"
       }
@@ -1334,38 +1334,38 @@
     "nome_carreira": "Computação",
     "area": "EXATAS",
     "cursos": {
-      "3": {
+      "03": {
         "area": "EXATAS",
         "cod_carreira": "710",
-        "cod_curso": "3",
+        "cod_curso": "03",
         "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Ciência da Computação"
       },
-      "4": {
+      "04": {
         "area": "EXATAS",
         "cod_carreira": "710",
-        "cod_curso": "4",
+        "cod_curso": "04",
         "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Sistemas de Informação - Matutino"
       },
-      "5": {
+      "05": {
         "area": "EXATAS",
         "cod_carreira": "710",
-        "cod_curso": "5",
+        "cod_curso": "05",
         "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Sistemas de Informação - Noturno"
       },
-      "6": {
+      "06": {
         "area": "EXATAS",
         "cod_carreira": "710",
-        "cod_curso": "6",
+        "cod_curso": "06",
         "nome_carreira": "Computação",
         "nome_curso": "Bacharelado em Ciências deComputação - São Carlos"
       },
-      "7": {
+      "07": {
         "area": "EXATAS",
         "cod_carreira": "710",
-        "cod_curso": "7",
+        "cod_curso": "07",
         "nome_carreira": "Computação",
         "nome_curso": "Bacharelado  em  Ciência  da Computação - Ribeirão Preto"
       }
@@ -1376,10 +1376,10 @@
     "nome_carreira": "Engenharia Aeronáutica - São Carlos",
     "area": "EXATAS",
     "cursos": {
-      "8": {
+      "08": {
         "area": "EXATAS",
         "cod_carreira": "715",
-        "cod_curso": "8",
+        "cod_curso": "08",
         "nome_carreira": "Engenharia Aeronáutica - São Carlos",
         "nome_curso": "Engenharia Aeronáutica - São Carlos"
       }
@@ -1390,10 +1390,10 @@
     "nome_carreira": "Engenharia Ambiental - Lorena",
     "area": "EXATAS",
     "cursos": {
-      "9": {
+      "09": {
         "area": "EXATAS",
         "cod_carreira": "720",
-        "cod_curso": "9",
+        "cod_curso": "09",
         "nome_carreira": "Engenharia Ambiental - Lorena",
         "nome_curso": "Engenharia Ambiental - Lorena"
       }

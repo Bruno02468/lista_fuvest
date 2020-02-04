@@ -40,7 +40,7 @@ function ajat(url, callback) {
       callback(this.responseText);
     }
   };
-  req.open("GET", url, true);
+  req.open("GET", url + "?_=" + new Date().getTime(), true);
   req.send();
 }
 

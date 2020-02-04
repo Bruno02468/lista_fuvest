@@ -3,7 +3,7 @@
     "ano": 2020,
     "ordinal": 2,
     "tipo": "pdf",
-    "cuc": false,
+    "cuc": true,
 		"natureza": "chamada",
     "arquivo": "2020_2.txt"
   },
