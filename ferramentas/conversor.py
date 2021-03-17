@@ -39,7 +39,6 @@ class Carreira(object):
     carreira = Carreira(obj["cod_carreira"], obj["nome_carreira"], obj["area"])
     for cj in obj["cursos"].values():
       curso = Curso(cj["cod_curso"], cj["nome_curso"], carreira)
-      carreira.cursos.append(curso)
     carreira.cursos.sort(key = _pnome)
     return carreira
 
