@@ -6,4 +6,5 @@ em alguma pasta pública de um servidor web, e divirta-se.
 
 versão de produção live em https://oisumida.rs/lista_fuvest
 
-código aberto, licença MIT; use livremente, mas me dê atribuição
+o código e as informações aqui estão no domínio público, mas eu agradeço se
+receber o devido crédito =)
