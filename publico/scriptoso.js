@@ -299,6 +299,11 @@ function pesquisa_nomes() {
   var regex = new RegExp(regex_str, "gm");
   var resultado = [];
   var texto = current_raw;
+  if (texto === null) {
+    alert(
+      "O texto da lista está sendo baixado, tente novamente em alguns segundos."
+    );
+  }
   do {
     var match = regex.exec(texto);
     if (!match) continue;
