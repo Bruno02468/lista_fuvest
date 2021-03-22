@@ -3,7 +3,7 @@
     "ano": 2021,
     "ordinal": 1,
     "tipo": "pdf",
-    "cuc": false,
+    "cuc": true,
     "natureza": "chamada",
     "arquivo": "2021_1.txt"
   },
