@@ -1,10 +1,17 @@
-# fuvest_ser_crime_talquei
-utilitário para extrair nomes de listas da fuvest, filtrando por curso, etc.
+# lista_fuvest
 
-para usar: clone o repositório, coloque ou faça um link para a pasta "publico"
-em alguma pasta pública de um servidor web, e divirta-se.
+Ferramenta para extrair nomes de listas da fuvest, filtrando por curso, etc.
 
-versão de produção live em https://oisumida.rs/lista_fuvest
+Não há backend -- basta colocar a pasta `publico` num servidor web.
 
-o código e as informações aqui estão no domínio público, mas eu agradeço se
-receber o devido crédito =)
+Instância "oficial" no [meu site](https://bor.gs/lista_fuvest/).
+
+Mesmo sendo domínio público, eu peço _informalmente_ que me seja dado o devido
+crédito quando adequado.
+
+---
+
+**Atenção: como as listas de aprovados foram copiadas diretamente das**
+**originais, elas não constituem parte do trabalho sob o domínio público.**
+**Elas ainda estão sob o controle autoral da Fuvest, e podem ser removidas**
+**caso seu uso constitua violação de direitos autorais.**
