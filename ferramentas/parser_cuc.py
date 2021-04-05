@@ -33,7 +33,7 @@ class CUCParser(HTMLParser):
 
   def handle_data(self, texto):
     # só estamos interessados em dados de tabela
-    if self.tag != "td" and self.tag != "br":
+    if self.tag not in ["td", "br", "span"]:
       return
     # detectamos uma carreira?
     match_carreira = re_carreira.search(texto)
