@@ -12,7 +12,8 @@ from html.parser import HTMLParser
 
 # regexes usadas para se extrair dados dos text nodes, pré-compiladas
 re_carreira = re.compile(r"Carreira (\d+)")
-re_curso = re.compile(r"Curso (\d+)")
+# re_curso = re.compile(r"Curso (\d+)")
+re_curso = re.compile(r"(\d+) –")
 
 # modalidades
 modalidades = ["AC", "EP", "PPI"]
