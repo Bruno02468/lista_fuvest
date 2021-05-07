@@ -3,6 +3,30 @@
     "ano": 2021,
     "ordinal": 3,
     "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2021_e3.txt"
+  },
+  {
+    "ano": 2021,
+    "ordinal": 2,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2021_e2.txt"
+  },
+  {
+    "ano": 2021,
+    "ordinal": 1,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2021_e1.txt"
+  },
+  {
+    "ano": 2021,
+    "ordinal": 3,
+    "tipo": "pdf",
     "cuc": true,
     "natureza": "chamada",
     "arquivo": "2021_3.txt"
