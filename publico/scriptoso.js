@@ -81,9 +81,19 @@ function gerar_lista_anos(anos) {
   }
 }
 
+// hotfix besta: insere a cidade entre parênteses no nome da carreira
+function impor_cidade(cod) {
+  for (var car in cod) {
+    if (car.hasOwnProperty("cidade")) {
+      car["nome_carreira"] += " " + car["cidade"];
+    }
+  }
+}
+
 // callback para quando a lista de um ano foi recebida
 function ano_callback(ano) {
   return function(cod) {
+    impor_cidade(cod);
     codigos_por_ano[ano] = cod;
     usar_ano(ano);
   }
