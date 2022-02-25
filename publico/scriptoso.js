@@ -85,7 +85,6 @@ function gerar_lista_anos(anos) {
 function impor_cidade(cod) {
   for (var cod_car in cod) {
     let car = cod[cod_car];
-    console.log(car);
     if (car.hasOwnProperty("cidade")) {
       car["nome_carreira"] += " (" + car["cidade"] + ")";
     }
@@ -411,6 +410,7 @@ function hora_do_show() {
   switch (formato.value) {
     case "xls":
       datatype = "data:application/vnd.ms-excel;base64,";
+      console.log(planilha(matches));
       dados = btoa(planilha(matches));
       break;
     case "html":
