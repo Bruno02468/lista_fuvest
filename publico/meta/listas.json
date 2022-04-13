@@ -27,7 +27,7 @@
     "ano": 2022,
     "ordinal": 3,
     "tipo": "pdf",
-    "cuc": false,
+    "cuc": true,
     "natureza": "chamada",
     "arquivo": "2022_3.txt"
   },
@@ -35,7 +35,7 @@
     "ano": 2022,
     "ordinal": 2,
     "tipo": "pdf",
-    "cuc": false,
+    "cuc": true,
     "natureza": "chamada",
     "arquivo": "2022_2.txt"
   },
@@ -43,7 +43,7 @@
     "ano": 2022,
     "ordinal": 1,
     "tipo": "pdf",
-    "cuc": false,
+    "cuc": true,
     "natureza": "chamada",
     "arquivo": "2022_1.txt"
   },
