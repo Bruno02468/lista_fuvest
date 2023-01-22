@@ -24,11 +24,11 @@ class Carreira(object):
   ):
     if area not in _AREAS:
       raise ValueError(f"Área \"{area}\" inválida!")
-    self.codigo: str = codigo
-    self.nome: str = nome
-    self.area: str = area
+    self.codigo: str = codigo.strip()
+    self.nome: str = nome.strip()
+    self.area: str = area.strip()
     self.cursos: List["Curso"] = cursos or []
-    self.cidade: str = cidade
+    self.cidade: str = cidade.strip()
   
   def cursos_sorted(self) -> List["Curso"]:
     return sorted(self.cursos, key = _pnome)
@@ -62,8 +62,8 @@ class Carreira(object):
 
 class Curso(object):
   def __init__(self, codigo: str, nome: str, carreira: Carreira):
-    self.codigo: str = codigo
-    self.nome: str = nome
+    self.codigo: str = codigo.strip()
+    self.nome: str = nome.strip()
     self.carreira: Carreira = carreira
     if self not in carreira.cursos:
       carreira.cursos.append(self)

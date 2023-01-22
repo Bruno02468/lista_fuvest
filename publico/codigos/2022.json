@@ -1422,14 +1422,14 @@
         "cod_carreira": "710",
         "cod_curso": "04",
         "nome_carreira": "Computação",
-        "nome_curso": "Bacharelado em Sistemas de Informação - Matutino- São Paulo"
+        "nome_curso": "Bacharelado em Sistemas de Informação - Matutino - São Paulo"
       },
       "05": {
         "area": "Exatas",
         "cod_carreira": "710",
         "cod_curso": "05",
         "nome_carreira": "Computação",
-        "nome_curso": "Bacharelado em Sistemas de Informação - Noturno- São Paulo"
+        "nome_curso": "Bacharelado em Sistemas de Informação - Noturno - São Paulo"
       },
       "06": {
         "area": "Exatas",
@@ -1865,14 +1865,14 @@
         "cod_carreira": "790",
         "cod_curso": "49",
         "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
-        "nome_curso": "Bacharelado em Matemática Aplicada- São Paulo"
+        "nome_curso": "Bacharelado em Matemática Aplicada - São Paulo"
       },
       "50": {
         "area": "Exatas",
         "cod_carreira": "790",
         "cod_curso": "50",
         "nome_carreira": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / Matemática Aplicada",
-        "nome_curso": "Bacharelado em Matemática Aplicada e Computacional- São Paulo"
+        "nome_curso": "Bacharelado em Matemática Aplicada e Computacional - São Paulo"
       },
       "51": {
         "area": "Exatas",
