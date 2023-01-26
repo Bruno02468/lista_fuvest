@@ -20,3 +20,7 @@ select {
 .procurado {
   line-height: 1.0;
 }
+
+#pesquisados a {
+  display: block !important;
+}

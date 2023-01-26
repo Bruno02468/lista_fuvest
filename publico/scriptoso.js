@@ -51,12 +51,33 @@ function ajaj(url, callback) {
   });
 }
 
+// acentos para tirar das palavras
+function desacentuar(str) {
+  return str
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+// transforma uma string numa lista de palavras desacentuadas
+function extrair_palavras(s) {
+  return s
+    .toLowerCase()
+    .replace(/[(),.\-\-;:+\/\\'"]/g, "")
+    .split(" ")
+    .map(desacentuar)
+    .filter(function (s) {
+      return s.length > 1;
+    });
+}
+
 // elementos da DOM que eu vou usar com frequência
 const criterios = document.getElementById("criterios");
 const formato = document.getElementById("formato");
 const destino = document.getElementById("destino");
 const lista_listas = document.getElementById("listas");
 const contagem = document.getElementById("contagem");
+const in_pesquisa = document.getElementById("pesquisa");
+const pesquisados = document.getElementById("pesquisados");
 
 // primeiramente, vamos puxar a lista de códigos de curso e carreira
 var anos = null;
@@ -64,6 +85,7 @@ var codigos_por_ano = {};
 var listas = null;
 var current_raw = "";
 var cuc = null;
+var pindice = {};
 
 ajaj("meta/anos.json", function (even_more_data) {
   anos = even_more_data;
@@ -97,6 +119,7 @@ function ano_callback(ano) {
     impor_cidade(cod);
     codigos_por_ano[ano] = cod;
     usar_ano(ano);
+    gerar_pindice(cod, ano);
   }
 }
 
@@ -139,6 +162,127 @@ function gerar_lista_listas(dados) {
   });
   lista_listas.value = "0";
   inserir_lista(lista_listas, false);
+}
+
+// gerar pindice
+function gerar_pindice(cod, ano) {
+  let porpl = {};
+  for (const cod_car in cod) {
+    let carreira = cod[cod_car];
+    let palavras_carreira = extrair_palavras(carreira["nome_carreira"]);
+    for (const palavra_carreira of palavras_carreira) {
+      if (!(palavra_carreira in porpl)) {
+        porpl[palavra_carreira] = {
+          carreiras: [],
+          cursos: []
+        };
+      }
+      porpl[palavra_carreira]["carreiras"].push(carreira);
+    }
+    let cursos = carreira["cursos"];
+    for (const cod_cur in cursos) {
+      let curso = cursos[cod_cur];
+      let palavras_curso = extrair_palavras(curso["nome_curso"]);
+      for (const palavra_curso of palavras_curso) {
+        if (!(palavra_curso in porpl)) {
+          porpl[palavra_curso] = {
+            carreiras: [],
+            cursos: []
+          };
+        }
+        porpl[palavra_curso]["cursos"].push(curso);
+      }
+    }
+  }
+  pindice[ano] = porpl;
+}
+
+// roda quando a pessoa digita coisas na caixa de pesquisa
+function pesquisa() {
+  let texto_pesquisa = in_pesquisa.value;
+  let palavras = extrair_palavras(texto_pesquisa);
+  let carreiras = [];
+  let cursos = [];
+  const pat = pindice[ano_atual];
+  let compativeis_ultima = [];
+  if (palavras.length > 0) {
+    let ultima = palavras[palavras.length-1];
+    if (ultima.length > 2) {
+      for (const pli in pat) {
+        if (pli.startsWith(ultima)) {
+          compativeis_ultima.push(pli);
+        }
+      }
+    }
+  }
+  if (compativeis_ultima.length == 1) {
+    palavras.pop();
+    palavras.push(compativeis_ultima[0]);
+  }
+  for (const palavra of palavras) {
+    if (palavra in pat) {
+      carreiras.push(pat[palavra]["carreiras"]);
+      cursos.push(pat[palavra]["cursos"]);
+    } else {
+      carreiras.push([]);
+      cursos.push([]);
+    }
+  }
+  if (carreiras.length == 0) carreiras = [[]];
+  if (cursos.length == 0) cursos = [[]];
+  // tirar a intersecção
+  let ixn_carreiras = carreiras[0].filter(
+    elem => carreiras.every(arr => arr.includes(elem))
+  );
+  let ixn_cursos = cursos[0].filter(
+    elem => cursos.every(arr => arr.includes(elem))
+  );
+  // inserir as sugestões
+  pesquisados.innerHTML = "";
+  for (const carreira of ixn_carreiras) {
+    let link = document.createElement("a");
+    link.href = "javascript:void(0)";
+    link.innerText = "Carreira " + carreira["cod_carreira"] + ": "
+      + carreira["nome_carreira"];
+    link.setAttribute("carreira", carreira["cod_carreira"])
+    link.setAttribute("onclick", "sug_car(this)");
+    pesquisados.appendChild(link);
+  }
+  for (const curso of ixn_cursos) {
+    let link = document.createElement("a");
+    link.href = "javascript:void(0)";
+    link.innerText = "Curso " + curso["cod_carreira"] + "-"
+      + curso["cod_curso"] + ": " + curso["nome_curso"];
+    link.setAttribute("carreira", curso["cod_carreira"])
+    link.setAttribute("curso", curso["cod_curso"])
+    link.setAttribute("onclick", "sug_cur(this)");
+    pesquisados.appendChild(link);
+  }
+}
+
+// inserir sugestão de carreira
+function sug_car(link) {
+  let cod_car = link.getAttribute("carreira");
+  add_procurado(cod_car);
+  setar_ultimo(cod_car);
+}
+
+// inserir sugestão de curso
+function sug_cur(link) {
+  let cod_car = link.getAttribute("carreira");
+  let cod_cur = link.getAttribute("curso");
+  add_procurado(cod_car, cod_cur);
+  setar_ultimo(cod_car, cod_cur);
+}
+
+// setar ultimo link inserido
+function setar_ultimo(cod_car, cod_cur) {
+  var id_base = "procurado-" + procurados;
+  const sel_car = document.getElementById(id_base + "-car");
+  const sel_cur = document.getElementById(id_base + "-cur");
+  if (cod_car) sel_car.value = cod_car;
+  update_procurado(procurados);
+  if (cod_cur) sel_cur.value = cod_cur;
 }
 
 // caso o usuário selecione para usar uma das listas pré-selecionadas
@@ -198,7 +342,7 @@ function gerar_menu_cursos(codcarreira) {
 var procurados = 0;
 
 // adiciona um curso para ser procurado
-function add_procurado() {
+function add_procurado(cod_car, cod_cur) {
   if (!current_raw) {
     alert("Espere a lista carregar!\nIsso pode demorar um pouco mais em dados"
       + " móveis.");
@@ -209,11 +353,13 @@ function add_procurado() {
   var div = document.createElement("div");
   div.className = "procurado";
   var menu_carreiras = gerar_menu_carreiras();
+  let val_car = "";
+  let val_cur = "";
   div.id = id_base;
-  var seletor = "<select id=\"" + id_base
-    + "-car\" onchange=\"update_procurado(" + procurados + ");\">"
-    + menu_carreiras + "</select><select id=\"" + id_base + "-cur\""
-    + "onchange=\"recontar(); atualizar_cuc(" + procurados + ");\"></select>";
+  var seletor = "<select id=\"" + id_base + "-car\"" + val_car
+    + " onchange=\"update_procurado(" + procurados + ");\">"
+    + menu_carreiras + "</select><select id=\"" + id_base + "-cur\"" + val_cur
+    + " onchange=\"recontar(); atualizar_cuc(" + procurados + ");\"></select>";
   var cuc_container = "<span class=\"cuc\" id=\"" + id_base + "-cuc\"></span>";
   div.innerHTML = seletor + cuc_container + "<br><br>";
   criterios.appendChild(div);
@@ -410,7 +556,6 @@ function hora_do_show() {
   switch (formato.value) {
     case "xls":
       datatype = "data:application/vnd.ms-excel;base64,";
-      console.log(planilha(matches));
       dados = btoa(planilha(matches));
       break;
     case "html":
