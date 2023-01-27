@@ -1,4 +1,7 @@
-// alo alo criançada, esse é o script principal da página web
+// este é o script principal da página
+// olha, eu nçao manjaa muito de javascript quando escrevi, fiz em um dia, etc
+// então não me julgue pelo código zoado, ok? eu odeio javascript.
+//   ~ borges
 
 // função de utilidade: escapa caracteres perigosos
 function escape_html(str) {
@@ -292,6 +295,8 @@ function setar_ultimo(cod_car, cod_cur) {
   if (cod_car) sel_car.value = cod_car;
   update_procurado(procurados);
   if (cod_cur) sel_cur.value = cod_cur;
+  atualizar_cuc(procurados);
+  recontar();
 }
 
 // caso o usuário selecione para usar uma das listas pré-selecionadas
@@ -400,7 +405,7 @@ function atualizar_cuc(n) {
     for (var key in cuc_desejado) {
       pares.push(key + ": " + cuc_desejado[key]);
     }
-    cucelem.innerHTML = "<br>Classificação do último convocado: " 
+    cucelem.innerHTML = "<br>Classificação do último convocado: "
       + pares.join(", ");
     if (conta_um(car, cur) == 0) {
       cucelem.innerHTML += "<br><i>Cuidado! Ninguém passou nesse curso nessa"
