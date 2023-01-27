@@ -25,7 +25,9 @@
   <body>
     <div class="container center">
       <div class="row">
+        <br>
         <h2>Pesquisar listas de aprovados da Fuvest</h2>
+        <br>
         <h6>
           Esta ferramenta permite filtrar listas antigas e recentes de aprovados
           na Fuvest por carreira e curso.
@@ -37,24 +39,27 @@
         </h6>
         <b><em>
           Se alguma lista/ano não carregar, dê um Ctrl-F5.
+          <br>
+          <br>
+          E SIM, EU VOU COLOCAR A LISTA QUANDO ELA SAIR AMANHÃ.
         </em></b>
-        <br>
+        <hr>
       </div>
-      <br>
-      <br>
       Selecione a lista a ser pesquisada:
       <select id="listas" onchange="inserir_lista(this, true);"></select>
       <br>
       <br>
-      Agora especifique os cursos e carreiras pelos quais você quer procurar.
+      <small><b>[Novo!]</b></small>
+      <b>Você pode pesquisar carreiras/cursos por nome:</b>
+      <input type="text" oninput="pesquisa()" id="pesquisa">
+      <br>
+      Ou, se quiser, selecioná-los manualmente na lista completa:
       <br>
       <button onclick="add_procurado();">Adicionar curso/carreira</button>
       <button onclick="remove_procurado();">Remover curso/carreira</button>
       <br>
-      <small><b>[Novo!]</b></small> Pesquisar curso/carreira por nome:
-      <input type="text" oninput="pesquisa()" id="pesquisa">
-      <br>
       <div id="pesquisados"></div>
+      <br>
       <br>
       <div id="criterios"></div><br>
       Número de alunos na pesquisa atual:

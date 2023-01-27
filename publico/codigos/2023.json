@@ -560,7 +560,7 @@
         "cod_carreira": "245",
         "cod_curso": "50",
         "nome_carreira": "Música - ECA",
-        "nome_curso": "Ciclo Básico em Composição ou Regência (Bacharelado em Música com Habilitação em Composição ou Ba- charelado em Música com Habilitação em Regência)*"
+        "nome_curso": "Ciclo Básico em Composição ou Regência (Bacharelado em Música com Habilitação em Composição ou Ba- charelado em Música com Habilitação em Regência)"
       },
       "51": {
         "area": "Humanas",
@@ -574,7 +574,7 @@
         "cod_carreira": "245",
         "cod_curso": "52",
         "nome_carreira": "Música - ECA",
-        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Cordas Dedilhadas (violão ou viola brasileira)**"
+        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Cordas Dedilhadas (violão ou viola brasileira)"
       },
       "53": {
         "area": "Humanas",
@@ -588,21 +588,21 @@
         "cod_carreira": "245",
         "cod_curso": "54",
         "nome_carreira": "Música - ECA",
-        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Teclado (piano ou órgão)**"
+        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Teclado (piano ou órgão)"
       },
       "55": {
         "area": "Humanas",
         "cod_carreira": "245",
         "cod_curso": "55",
         "nome_carreira": "Música - ECA",
-        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Cordas (viola, violino ou violoncelo)**"
+        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Cordas (viola, violino ou violoncelo)"
       },
       "56": {
         "area": "Humanas",
         "cod_carreira": "245",
         "cod_curso": "56",
         "nome_carreira": "Música - ECA",
-        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Sopro (flauta, oboé, clarinete, clarone, fagote, trompa, trompete, trombone ou tuba)**"
+        "nome_curso": "Bacharelado em Música com Habilitação em Instrumento de Sopro (flauta, oboé, clarinete, clarone, fagote, trompa, trompete, trombone ou tuba)"
       }
     },
     "cidade": "São Paulo"
@@ -951,14 +951,14 @@
   },
   "450": {
     "cod_carreira": "450",
-    "nome_carreira": "Engenharia Agronômica *",
+    "nome_carreira": "Engenharia Agronômica",
     "area": "Biológicas",
     "cursos": {
       "15": {
         "area": "Biológicas",
         "cod_carreira": "450",
         "cod_curso": "15",
-        "nome_carreira": "Engenharia Agronômica *",
+        "nome_carreira": "Engenharia Agronômica",
         "nome_curso": "Engenharia Agronômica - Piracicaba"
       }
     },
@@ -966,14 +966,14 @@
   },
   "455": {
     "cod_carreira": "455",
-    "nome_carreira": "Engenharia Florestal *",
+    "nome_carreira": "Engenharia Florestal",
     "area": "Biológicas",
     "cursos": {
       "16": {
         "area": "Biológicas",
         "cod_carreira": "455",
         "cod_curso": "16",
-        "nome_carreira": "Engenharia Florestal *",
+        "nome_carreira": "Engenharia Florestal",
         "nome_curso": "Engenharia Florestal - Piracicaba"
       }
     },
@@ -1250,7 +1250,7 @@
         "cod_carreira": "535",
         "cod_curso": "36",
         "nome_carreira": "Odontologia",
-        "nome_curso": "Odontologia - Noturno*"
+        "nome_curso": "Odontologia - Noturno"
       }
     },
     "cidade": "São Paulo"
@@ -1325,7 +1325,7 @@
         "cod_carreira": "560",
         "cod_curso": "41",
         "nome_carreira": "Saúde Pública",
-        "nome_curso": "Bacharelado em Saúde Pública*"
+        "nome_curso": "Bacharelado em Saúde Pública"
       }
     },
     "cidade": "São Paulo"
@@ -1629,7 +1629,7 @@
         "cod_carreira": "765",
         "cod_curso": "21",
         "nome_carreira": "Engenharia Elétrica e de Computação",
-        "nome_curso": "Engenharia de Computação - São Carlos*"
+        "nome_curso": "Engenharia de Computação - São Carlos"
       }
     },
     "cidade": "São Carlos"
@@ -1731,7 +1731,7 @@
         "cod_carreira": "780",
         "cod_curso": "31",
         "nome_carreira": "Engenharia na Escola Politécnica",
-        "nome_curso": "Engenharia de Materiais, Engenharia Metalúrgica e Engenharia Nuclear*"
+        "nome_curso": "Engenharia de Materiais, Engenharia Metalúrgica e Engenharia Nuclear"
       },
       "32": {
         "area": "Exatas",
@@ -1759,7 +1759,7 @@
         "cod_carreira": "780",
         "cod_curso": "35",
         "nome_carreira": "Engenharia na Escola Politécnica",
-        "nome_curso": "Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)*"
+        "nome_curso": "Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)"
       },
       "36": {
         "area": "Exatas",

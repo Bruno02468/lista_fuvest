@@ -92,6 +92,8 @@ ajaj("meta/anos.json", function (even_more_data) {
   gerar_lista_anos(even_more_data);
   ajaj("meta/listas.json", function (more_data) {
     listas = more_data;
+    // ano com a lista mais recente
+    usar_ano(Math.max(...listas.map(l => l.ano)));
     gerar_lista_listas(more_data);
   });
 });
@@ -118,8 +120,8 @@ function ano_callback(ano) {
   return function(cod) {
     impor_cidade(cod);
     codigos_por_ano[ano] = cod;
-    usar_ano(ano);
     gerar_pindice(cod, ano);
+    pesquisa();
   }
 }
 
@@ -239,24 +241,31 @@ function pesquisa() {
   );
   // inserir as sugestões
   pesquisados.innerHTML = "";
+  pesquisados.style.display = "none";
   for (const carreira of ixn_carreiras) {
     let link = document.createElement("a");
     link.href = "javascript:void(0)";
-    link.innerText = "Carreira " + carreira["cod_carreira"] + ": "
+    link.innerText = "Adicionar carreira " + carreira["cod_carreira"] + ": "
       + carreira["nome_carreira"];
     link.setAttribute("carreira", carreira["cod_carreira"])
     link.setAttribute("onclick", "sug_car(this)");
+    let br = document.createElement("br");
     pesquisados.appendChild(link);
+    pesquisados.appendChild(br);
+    pesquisados.style.display = "inline-block";
   }
   for (const curso of ixn_cursos) {
     let link = document.createElement("a");
     link.href = "javascript:void(0)";
-    link.innerText = "Curso " + curso["cod_carreira"] + "-"
+    link.innerText = "Adicionar curso " + curso["cod_carreira"] + "-"
       + curso["cod_curso"] + ": " + curso["nome_curso"];
     link.setAttribute("carreira", curso["cod_carreira"])
     link.setAttribute("curso", curso["cod_curso"])
     link.setAttribute("onclick", "sug_cur(this)");
+    let br = document.createElement("br");
     pesquisados.appendChild(link);
+    pesquisados.appendChild(br);
+    pesquisados.style.display = "inline-block";
   }
 }
 
@@ -367,7 +376,7 @@ function add_procurado(cod_car, cod_cur) {
 
 // remove um curso para ser procurado
 function remove_procurado() {
-  if (procurados < 2) return;
+  if (procurados < 1) return;
   var alvo = document.getElementById("procurado-" + procurados);
   alvo.parentNode.removeChild(alvo);
   procurados--;

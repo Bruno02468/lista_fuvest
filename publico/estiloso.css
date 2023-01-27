@@ -21,6 +21,23 @@ select {
   line-height: 1.0;
 }
 
+#pesquisados {
+	max-height: 20rem;
+	overflow-y: auto;
+	overflow-x: hidden;
+	border: 1px solid grey;
+	border-radius: 1rem;
+	border-collapse: collapse;
+	width: auto;
+	text-align: left;
+}
+
 #pesquisados a {
-  display: block !important;
+	font-weight: bold;
+	padding: 1rem;
+	width: 100%;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	border-collapse: collapse;
+  display: inline-block !important;
 }
