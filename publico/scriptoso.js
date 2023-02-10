@@ -332,7 +332,10 @@ function inserir_lista(elem, voluntario) {
 function gerar_menu_cursos(codcarreira) {
   if (codcarreira === "?") return ""
   // esperar os códigos baixarem
-  while (!codigos) {};
+  if (!codigos) {
+    alert("os códigos de carreira e curso ainda estão baixando. espere!");
+    location.reload();
+  }
   // começar com a opção de "qualquer curso"
   var resultado = make_option("*", "Qualquer curso");
   // achar a carreira em questão
