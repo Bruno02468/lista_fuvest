@@ -112,7 +112,7 @@ function gerar_lista_anos(anos) {
 function impor_cidade(cod) {
   for (var cod_car in cod) {
     let car = cod[cod_car];
-    if (car.hasOwnProperty("cidade")) {
+    if (car.hasOwnProperty("cidade") && car["cidade"]) {
       car["nome_carreira"] += " (" + car["cidade"] + ")";
     }
   }
