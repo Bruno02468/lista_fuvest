@@ -149,8 +149,8 @@ def main(argc: int, argv: List[str]):
     print("Especifique operação (csv2json ou json2csv) e arquivos in/out.")
     return -1
   try:
-    infile = open(ifn, "r")
-    outfile = open(ofn, "w")
+    infile = open(ifn, "r", encoding="utf8")
+    outfile = open(ofn, "w", encoding="utf8")
   except:
     print("Impossível abrir pelo menos um arquivo!")
     return -1
