@@ -9,6 +9,38 @@
   },
   {
     "ano": 2023,
+    "ordinal": 4,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2023_e4.txt"
+  },
+  {
+    "ano": 2023,
+    "ordinal": 3,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2023_e3.txt"
+  },
+  {
+    "ano": 2023,
+    "ordinal": 2,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2023_e2.txt"
+  },
+  {
+    "ano": 2023,
+    "ordinal": 1,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2023_e1.txt"
+  },
+  {
+    "ano": 2023,
     "ordinal": 3,
     "tipo": "pdf",
     "cuc": false,
@@ -78,6 +110,22 @@
     "cuc": true,
     "natureza": "chamada",
     "arquivo": "2022_1.txt"
+  },
+  {
+    "ano": 2021,
+    "ordinal": 5,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2021_e5.txt"
+  },
+  {
+    "ano": 2021,
+    "ordinal": 4,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "espera",
+    "arquivo": "2021_e4.txt"
   },
   {
     "ano": 2021,
