@@ -1,0 +1,1875 @@
+{
+  "101": {
+    "cod_carreira": "101",
+    "nome_carreira": "Biotecnologia",
+    "area": "Biológicas",
+    "cursos": {
+      "01": {
+        "area": "Biológicas",
+        "cod_carreira": "101",
+        "cod_curso": "01",
+        "nome_carreira": "Biotecnologia",
+        "nome_curso": "Biotecnologia"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "102": {
+    "cod_carreira": "102",
+    "nome_carreira": "Ciências Biológicas",
+    "area": "Biológicas",
+    "cursos": {
+      "02": {
+        "area": "Biológicas",
+        "cod_carreira": "102",
+        "cod_curso": "02",
+        "nome_carreira": "Ciências Biológicas",
+        "nome_curso": "Ciências Biológicas - Integral - Ribeirão Preto"
+      },
+      "03": {
+        "area": "Biológicas",
+        "cod_carreira": "102",
+        "cod_curso": "03",
+        "nome_carreira": "Ciências Biológicas",
+        "nome_curso": "Ciências Biológicas - Integral - São Paulo Butantã"
+      },
+      "04": {
+        "area": "Biológicas",
+        "cod_carreira": "102",
+        "cod_curso": "04",
+        "nome_carreira": "Ciências Biológicas",
+        "nome_curso": "Ciências Biológicas - Noturno - São Paulo Butantã"
+      },
+      "05": {
+        "area": "Biológicas",
+        "cod_carreira": "102",
+        "cod_curso": "05",
+        "nome_carreira": "Ciências Biológicas",
+        "nome_curso": "Ciências Biológicas - Piracicaba"
+      }
+    },
+    "cidade": ""
+  },
+  "103": {
+    "cod_carreira": "103",
+    "nome_carreira": "Ciências Biomédicas",
+    "area": "Biológicas",
+    "cursos": {
+      "06": {
+        "area": "Biológicas",
+        "cod_carreira": "103",
+        "cod_curso": "06",
+        "nome_carreira": "Ciências Biomédicas",
+        "nome_curso": "Ciências Biomédicas - Ribeirão Preto"
+      },
+      "07": {
+        "area": "Biológicas",
+        "cod_carreira": "103",
+        "cod_curso": "07",
+        "nome_carreira": "Ciências Biomédicas",
+        "nome_curso": "Ciências Biomédicas - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "104": {
+    "cod_carreira": "104",
+    "nome_carreira": "Ciências dos Alimentos",
+    "area": "Biológicas",
+    "cursos": {
+      "08": {
+        "area": "Biológicas",
+        "cod_carreira": "104",
+        "cod_curso": "08",
+        "nome_carreira": "Ciências dos Alimentos",
+        "nome_curso": "Ciências dos Alimentos"
+      }
+    },
+    "cidade": "Piracicaba"
+  },
+  "105": {
+    "cod_carreira": "105",
+    "nome_carreira": "Educação Física",
+    "area": "Biológicas",
+    "cursos": {
+      "09": {
+        "area": "Biológicas",
+        "cod_carreira": "105",
+        "cod_curso": "09",
+        "nome_carreira": "Educação Física",
+        "nome_curso": "Educação Física - Ribeirão Preto"
+      },
+      "10": {
+        "area": "Biológicas",
+        "cod_carreira": "105",
+        "cod_curso": "10",
+        "nome_carreira": "Educação Física",
+        "nome_curso": "Educação Física - São Paulo Butantã"
+      },
+      "11": {
+        "area": "Biológicas",
+        "cod_carreira": "105",
+        "cod_curso": "11",
+        "nome_carreira": "Educação Física",
+        "nome_curso": "Educação Física e Saúde - São Paulo Leste"
+      }
+    },
+    "cidade": ""
+  },
+  "106": {
+    "cod_carreira": "106",
+    "nome_carreira": "Enfermagem",
+    "area": "Biológicas",
+    "cursos": {
+      "12": {
+        "area": "Biológicas",
+        "cod_carreira": "106",
+        "cod_curso": "12",
+        "nome_carreira": "Enfermagem",
+        "nome_curso": "Enfermagem - Integral - Ribeirão Preto"
+      },
+      "13": {
+        "area": "Biológicas",
+        "cod_carreira": "106",
+        "cod_curso": "13",
+        "nome_carreira": "Enfermagem",
+        "nome_curso": "Enfermagem - Noturno - Ribeirão Preto"
+      },
+      "14": {
+        "area": "Biológicas",
+        "cod_carreira": "106",
+        "cod_curso": "14",
+        "nome_carreira": "Enfermagem",
+        "nome_curso": "Enfermagem - Integral - São Paulo Quadrilátero"
+      }
+    },
+    "cidade": ""
+  },
+  "107": {
+    "cod_carreira": "107",
+    "nome_carreira": "Farmácia",
+    "area": "Biológicas",
+    "cursos": {
+      "15": {
+        "area": "Biológicas",
+        "cod_carreira": "107",
+        "cod_curso": "15",
+        "nome_carreira": "Farmácia",
+        "nome_curso": "Farmácia - Integral - Ribeirão Preto"
+      },
+      "16": {
+        "area": "Biológicas",
+        "cod_carreira": "107",
+        "cod_curso": "16",
+        "nome_carreira": "Farmácia",
+        "nome_curso": "Farmácia - Integral - São Paulo Butantã"
+      },
+      "17": {
+        "area": "Biológicas",
+        "cod_carreira": "107",
+        "cod_curso": "17",
+        "nome_carreira": "Farmácia",
+        "nome_curso": "Farmácia - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "108": {
+    "cod_carreira": "108",
+    "nome_carreira": "Fisioterapia",
+    "area": "Biológicas",
+    "cursos": {
+      "18": {
+        "area": "Biológicas",
+        "cod_carreira": "108",
+        "cod_curso": "18",
+        "nome_carreira": "Fisioterapia",
+        "nome_curso": "Fisioterapia - Ribeirão Preto"
+      },
+      "19": {
+        "area": "Biológicas",
+        "cod_carreira": "108",
+        "cod_curso": "19",
+        "nome_carreira": "Fisioterapia",
+        "nome_curso": "Fisioterapia - São Paulo Quadrilátero"
+      }
+    },
+    "cidade": ""
+  },
+  "109": {
+    "cod_carreira": "109",
+    "nome_carreira": "Fonoaudiologia",
+    "area": "Biológicas",
+    "cursos": {
+      "20": {
+        "area": "Biológicas",
+        "cod_carreira": "109",
+        "cod_curso": "20",
+        "nome_carreira": "Fonoaudiologia",
+        "nome_curso": "Fonoaudiologia - Bauru"
+      },
+      "21": {
+        "area": "Biológicas",
+        "cod_carreira": "109",
+        "cod_curso": "21",
+        "nome_carreira": "Fonoaudiologia",
+        "nome_curso": "Fonoaudiologia - Ribeirão Preto"
+      },
+      "22": {
+        "area": "Biológicas",
+        "cod_carreira": "109",
+        "cod_curso": "22",
+        "nome_carreira": "Fonoaudiologia",
+        "nome_curso": "Fonoaudiologia - São Paulo Quadrilátero"
+      }
+    },
+    "cidade": ""
+  },
+  "110": {
+    "cod_carreira": "110",
+    "nome_carreira": "Gerontologia",
+    "area": "Biológicas",
+    "cursos": {
+      "23": {
+        "area": "Biológicas",
+        "cod_carreira": "110",
+        "cod_curso": "23",
+        "nome_carreira": "Gerontologia",
+        "nome_curso": "Gerontologia"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "111": {
+    "cod_carreira": "111",
+    "nome_carreira": "Medicina",
+    "area": "Biológicas",
+    "cursos": {
+      "24": {
+        "area": "Biológicas",
+        "cod_carreira": "111",
+        "cod_curso": "24",
+        "nome_carreira": "Medicina",
+        "nome_curso": "Medicina - Bauru"
+      },
+      "25": {
+        "area": "Biológicas",
+        "cod_carreira": "111",
+        "cod_curso": "25",
+        "nome_carreira": "Medicina",
+        "nome_curso": "Medicina - Ribeirão Preto"
+      },
+      "26": {
+        "area": "Biológicas",
+        "cod_carreira": "111",
+        "cod_curso": "26",
+        "nome_carreira": "Medicina",
+        "nome_curso": "Medicina - São Paulo Quadrilátero"
+      }
+    },
+    "cidade": ""
+  },
+  "112": {
+    "cod_carreira": "112",
+    "nome_carreira": "Medicina Veterinária",
+    "area": "Biológicas",
+    "cursos": {
+      "27": {
+        "area": "Biológicas",
+        "cod_carreira": "112",
+        "cod_curso": "27",
+        "nome_carreira": "Medicina Veterinária",
+        "nome_curso": "Medicina Veterinária - Pirassununga"
+      },
+      "28": {
+        "area": "Biológicas",
+        "cod_carreira": "112",
+        "cod_curso": "28",
+        "nome_carreira": "Medicina Veterinária",
+        "nome_curso": "Medicina Veterinária - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "113": {
+    "cod_carreira": "113",
+    "nome_carreira": "Nutrição",
+    "area": "Biológicas",
+    "cursos": {
+      "29": {
+        "area": "Biológicas",
+        "cod_carreira": "113",
+        "cod_curso": "29",
+        "nome_carreira": "Nutrição",
+        "nome_curso": "Nutrição - Matutino - São Paulo Quadrilátero"
+      },
+      "30": {
+        "area": "Biológicas",
+        "cod_carreira": "113",
+        "cod_curso": "30",
+        "nome_carreira": "Nutrição",
+        "nome_curso": "Nutrição - Noturno - São Paulo Quadrilátero"
+      },
+      "31": {
+        "area": "Biológicas",
+        "cod_carreira": "113",
+        "cod_curso": "31",
+        "nome_carreira": "Nutrição",
+        "nome_curso": "Nutrição e Metabolismo - Ribeirão Preto"
+      }
+    },
+    "cidade": ""
+  },
+  "114": {
+    "cod_carreira": "114",
+    "nome_carreira": "Obstetrícia",
+    "area": "Biológicas",
+    "cursos": {
+      "32": {
+        "area": "Biológicas",
+        "cod_carreira": "114",
+        "cod_curso": "32",
+        "nome_carreira": "Obstetrícia",
+        "nome_curso": "Obstetrícia"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "115": {
+    "cod_carreira": "115",
+    "nome_carreira": "Odontologia",
+    "area": "Biológicas",
+    "cursos": {
+      "33": {
+        "area": "Biológicas",
+        "cod_carreira": "115",
+        "cod_curso": "33",
+        "nome_carreira": "Odontologia",
+        "nome_curso": "Odontologia - Integral - Bauru"
+      },
+      "34": {
+        "area": "Biológicas",
+        "cod_carreira": "115",
+        "cod_curso": "34",
+        "nome_carreira": "Odontologia",
+        "nome_curso": "Odontologia - Integral - Ribeirão Preto"
+      },
+      "35": {
+        "area": "Biológicas",
+        "cod_carreira": "115",
+        "cod_curso": "35",
+        "nome_carreira": "Odontologia",
+        "nome_curso": "Odontologia - Integral - São Paulo Butantã"
+      },
+      "36": {
+        "area": "Biológicas",
+        "cod_carreira": "115",
+        "cod_curso": "36",
+        "nome_carreira": "Odontologia",
+        "nome_curso": "Odontologia - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "116": {
+    "cod_carreira": "116",
+    "nome_carreira": "Psicologia",
+    "area": "Biológicas",
+    "cursos": {
+      "37": {
+        "area": "Biológicas",
+        "cod_carreira": "116",
+        "cod_curso": "37",
+        "nome_carreira": "Psicologia",
+        "nome_curso": "Psicologia - Ribeirão Preto"
+      }
+    },
+    "cidade": "Ribeirão Preto"
+  },
+  "117": {
+    "cod_carreira": "117",
+    "nome_carreira": "Psicologia",
+    "area": "Biológicas",
+    "cursos": {
+      "38": {
+        "area": "Biológicas",
+        "cod_carreira": "117",
+        "cod_curso": "38",
+        "nome_carreira": "Psicologia",
+        "nome_curso": "Psicologia - São Paulo Butantã"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "118": {
+    "cod_carreira": "118",
+    "nome_carreira": "Saúde Pública",
+    "area": "Biológicas",
+    "cursos": {
+      "39": {
+        "area": "Biológicas",
+        "cod_carreira": "118",
+        "cod_curso": "39",
+        "nome_carreira": "Saúde Pública",
+        "nome_curso": "Saúde Pública"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "119": {
+    "cod_carreira": "119",
+    "nome_carreira": "Terapia Ocupacional",
+    "area": "Biológicas",
+    "cursos": {
+      "40": {
+        "area": "Biológicas",
+        "cod_carreira": "119",
+        "cod_curso": "40",
+        "nome_carreira": "Terapia Ocupacional",
+        "nome_curso": "Terapia Ocupacional - Ribeirão Preto"
+      },
+      "41": {
+        "area": "Biológicas",
+        "cod_carreira": "119",
+        "cod_curso": "41",
+        "nome_carreira": "Terapia Ocupacional",
+        "nome_curso": "Terapia Ocupacional - São Paulo Quadrilátero"
+      }
+    },
+    "cidade": ""
+  },
+  "120": {
+    "cod_carreira": "120",
+    "nome_carreira": "Zootecnica",
+    "area": "Biológicas",
+    "cursos": {
+      "42": {
+        "area": "Biológicas",
+        "cod_carreira": "120",
+        "cod_curso": "42",
+        "nome_carreira": "Zootecnica",
+        "nome_curso": "Zootecnia"
+      }
+    },
+    "cidade": "Pirassununga"
+  },
+  "201": {
+    "cod_carreira": "201",
+    "nome_carreira": "Engenharia Agronômica; Engenharia Bioquímica; Engenharia Florestal",
+    "area": "Biológicas/Exatas",
+    "cursos": {
+      "01": {
+        "area": "Biológicas/Exatas",
+        "cod_carreira": "201",
+        "cod_curso": "01",
+        "nome_carreira": "Engenharia Agronômica; Engenharia Bioquímica; Engenharia Florestal",
+        "nome_curso": "Engenharia Agronômica - Piracicaba"
+      },
+      "02": {
+        "area": "Biológicas/Exatas",
+        "cod_carreira": "201",
+        "cod_curso": "02",
+        "nome_carreira": "Engenharia Agronômica; Engenharia Bioquímica; Engenharia Florestal",
+        "nome_curso": "Engenharia Bioquímica - Lorena"
+      },
+      "03": {
+        "area": "Biológicas/Exatas",
+        "cod_carreira": "201",
+        "cod_curso": "03",
+        "nome_carreira": "Engenharia Agronômica; Engenharia Bioquímica; Engenharia Florestal",
+        "nome_curso": "Engenharia Florestal - Piracicaba"
+      }
+    },
+    "cidade": ""
+  },
+  "301": {
+    "cod_carreira": "301",
+    "nome_carreira": "Ciências da Natureza",
+    "area": "Exatas",
+    "cursos": {
+      "01": {
+        "area": "Exatas",
+        "cod_carreira": "301",
+        "cod_curso": "01",
+        "nome_carreira": "Ciências da Natureza",
+        "nome_curso": "Ciências da Natureza"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "302": {
+    "cod_carreira": "302",
+    "nome_carreira": "Ciências Exatas",
+    "area": "Exatas",
+    "cursos": {
+      "02": {
+        "area": "Exatas",
+        "cod_carreira": "302",
+        "cod_curso": "02",
+        "nome_carreira": "Ciências Exatas",
+        "nome_curso": "Ciências Exatas com Habilitação em Física ou Habilitação em Química ou Habilitação em Matemática"
+      }
+    },
+    "cidade": "São Carlos"
+  },
+  "303": {
+    "cod_carreira": "303",
+    "nome_carreira": "Computação",
+    "area": "Exatas",
+    "cursos": {
+      "03": {
+        "area": "Exatas",
+        "cod_carreira": "303",
+        "cod_curso": "03",
+        "nome_carreira": "Computação",
+        "nome_curso": "Ciência da Computação - Ribeirão Preto"
+      },
+      "04": {
+        "area": "Exatas",
+        "cod_carreira": "303",
+        "cod_curso": "04",
+        "nome_carreira": "Computação",
+        "nome_curso": "Ciência da Computação - São Paulo Butantã"
+      },
+      "05": {
+        "area": "Exatas",
+        "cod_carreira": "303",
+        "cod_curso": "05",
+        "nome_carreira": "Computação",
+        "nome_curso": "Ciência de Dados - São Carlos"
+      },
+      "06": {
+        "area": "Exatas",
+        "cod_carreira": "303",
+        "cod_curso": "06",
+        "nome_carreira": "Computação",
+        "nome_curso": "Ciências de Computação - São Carlos"
+      },
+      "07": {
+        "area": "Exatas",
+        "cod_carreira": "303",
+        "cod_curso": "07",
+        "nome_carreira": "Computação",
+        "nome_curso": "Sistemas de Informação - Matutino - São Paulo Leste"
+      },
+      "08": {
+        "area": "Exatas",
+        "cod_carreira": "303",
+        "cod_curso": "08",
+        "nome_carreira": "Computação",
+        "nome_curso": "Sistemas de Informaçao - Noturno - São Paulo Leste"
+      }
+    },
+    "cidade": ""
+  },
+  "304": {
+    "cod_carreira": "304",
+    "nome_carreira": "Engenharia Aeronáutica",
+    "area": "Exatas",
+    "cursos": {
+      "09": {
+        "area": "Exatas",
+        "cod_carreira": "304",
+        "cod_curso": "09",
+        "nome_carreira": "Engenharia Aeronáutica",
+        "nome_curso": "Engenharia Aeronáutica"
+      }
+    },
+    "cidade": "São Carlos"
+  },
+  "305": {
+    "cod_carreira": "305",
+    "nome_carreira": "Engenharia Ambiental",
+    "area": "Exatas",
+    "cursos": {
+      "10": {
+        "area": "Exatas",
+        "cod_carreira": "305",
+        "cod_curso": "10",
+        "nome_carreira": "Engenharia Ambiental",
+        "nome_curso": "Engenharia Ambiental - Lorena"
+      },
+      "11": {
+        "area": "Exatas",
+        "cod_carreira": "305",
+        "cod_curso": "11",
+        "nome_carreira": "Engenharia Ambiental",
+        "nome_curso": "Engenharia Ambiental - São Carlos"
+      },
+      "12": {
+        "area": "Exatas",
+        "cod_carreira": "305",
+        "cod_curso": "12",
+        "nome_carreira": "Engenharia Ambiental",
+        "nome_curso": "Engenharia Ambiental - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "306": {
+    "cod_carreira": "306",
+    "nome_carreira": "Engenharia Civil",
+    "area": "Exatas",
+    "cursos": {
+      "13": {
+        "area": "Exatas",
+        "cod_carreira": "306",
+        "cod_curso": "13",
+        "nome_carreira": "Engenharia Civil",
+        "nome_curso": "Engenharia Civil"
+      }
+    },
+    "cidade": "São Carlos"
+  },
+  "307": {
+    "cod_carreira": "307",
+    "nome_carreira": "Engenharia de Materiais",
+    "area": "Exatas",
+    "cursos": {
+      "14": {
+        "area": "Exatas",
+        "cod_carreira": "307",
+        "cod_curso": "14",
+        "nome_carreira": "Engenharia de Materiais",
+        "nome_curso": "Engenharia Metalúrgica, ou Engenharia de Materiais ou Engenharia Nuclear - São Paulo Butantã"
+      },
+      "15": {
+        "area": "Exatas",
+        "cod_carreira": "307",
+        "cod_curso": "15",
+        "nome_carreira": "Engenharia de Materiais",
+        "nome_curso": "Engenharia de Materiais - Lorena"
+      },
+      "16": {
+        "area": "Exatas",
+        "cod_carreira": "307",
+        "cod_curso": "16",
+        "nome_carreira": "Engenharia de Materiais",
+        "nome_curso": "Engenharia de Materiais e Manufatura - São Carlos"
+      }
+    },
+    "cidade": ""
+  },
+  "308": {
+    "cod_carreira": "308",
+    "nome_carreira": "Engenharia Elétrica e de Computação",
+    "area": "Exatas",
+    "cursos": {
+      "17": {
+        "area": "Exatas",
+        "cod_carreira": "308",
+        "cod_curso": "17",
+        "nome_carreira": "Engenharia Elétrica e de Computação",
+        "nome_curso": "Engenharia de Computação - São Carlos"
+      },
+      "18": {
+        "area": "Exatas",
+        "cod_carreira": "308",
+        "cod_curso": "18",
+        "nome_carreira": "Engenharia Elétrica e de Computação",
+        "nome_curso": "Engenharia Elétrica: Ênfase em Eletrônica - São Carlos"
+      },
+      "19": {
+        "area": "Exatas",
+        "cod_carreira": "308",
+        "cod_curso": "19",
+        "nome_carreira": "Engenharia Elétrica e de Computação",
+        "nome_curso": "Engenharia Elétrica: Ênfase em Sistemas de Energia e Automação - São Carlos"
+      }
+    },
+    "cidade": ""
+  },
+  "309": {
+    "cod_carreira": "309",
+    "nome_carreira": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+    "area": "Exatas",
+    "cursos": {
+      "20": {
+        "area": "Exatas",
+        "cod_carreira": "309",
+        "cod_curso": "20",
+        "nome_carreira": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+        "nome_curso": "Engenharia de Produção - Lorena"
+      },
+      "21": {
+        "area": "Exatas",
+        "cod_carreira": "309",
+        "cod_curso": "21",
+        "nome_carreira": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+        "nome_curso": "Engenharia Física - Lorena"
+      },
+      "22": {
+        "area": "Exatas",
+        "cod_carreira": "309",
+        "cod_curso": "22",
+        "nome_carreira": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+        "nome_curso": "Engenharia Química - Integral - Lorena"
+      },
+      "23": {
+        "area": "Exatas",
+        "cod_carreira": "309",
+        "cod_curso": "23",
+        "nome_carreira": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+        "nome_curso": "Engenharia Química - Noturno - Lorena"
+      }
+    },
+    "cidade": ""
+  },
+  "310": {
+    "cod_carreira": "310",
+    "nome_carreira": "Engenharia Mecânica; Engenharia Mecatrônica; Engenharia de Produção",
+    "area": "Exatas",
+    "cursos": {
+      "24": {
+        "area": "Exatas",
+        "cod_carreira": "310",
+        "cod_curso": "24",
+        "nome_carreira": "Engenharia Mecânica; Engenharia Mecatrônica; Engenharia de Produção",
+        "nome_curso": "Engenharia de Produção - São Carlos"
+      },
+      "25": {
+        "area": "Exatas",
+        "cod_carreira": "310",
+        "cod_curso": "25",
+        "nome_carreira": "Engenharia Mecânica; Engenharia Mecatrônica; Engenharia de Produção",
+        "nome_curso": "Engenharia Mecânica - São Carlos"
+      },
+      "26": {
+        "area": "Exatas",
+        "cod_carreira": "310",
+        "cod_curso": "26",
+        "nome_carreira": "Engenharia Mecânica; Engenharia Mecatrônica; Engenharia de Produção",
+        "nome_curso": "Engenharia Mecatrônica - São Carlos"
+      }
+    },
+    "cidade": ""
+  },
+  "311": {
+    "cod_carreira": "311",
+    "nome_carreira": "Engenharias",
+    "area": "Exatas",
+    "cursos": {
+      "27": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "27",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia de Minas ou Engenharia de Petróleo - São Paulo Butantã"
+      },
+      "28": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "28",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia Civil - São Paulo Butantã"
+      },
+      "29": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "29",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia de Computação - São Paulo Butantã"
+      },
+      "30": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "30",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia de Produção - São Paulo Butantã"
+      },
+      "31": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "31",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia Elétrica - São Paulo Butantã"
+      },
+      "32": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "32",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia Mecânica - São Paulo Butantã"
+      },
+      "33": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "33",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia Mecatrônica - São Paulo Butantã"
+      },
+      "34": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "34",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia Naval e Oceânica - São Paulo Butantã"
+      },
+      "35": {
+        "area": "Exatas",
+        "cod_carreira": "311",
+        "cod_curso": "35",
+        "nome_carreira": "Engenharias",
+        "nome_curso": "Engenharia Química - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "312": {
+    "cod_carreira": "312",
+    "nome_carreira": "Engenharias FZEA",
+    "area": "Exatas",
+    "cursos": {
+      "36": {
+        "area": "Exatas",
+        "cod_carreira": "312",
+        "cod_curso": "36",
+        "nome_carreira": "Engenharias FZEA",
+        "nome_curso": "Engenharia de Alimentos - Integral - Pirassununga"
+      },
+      "37": {
+        "area": "Exatas",
+        "cod_carreira": "312",
+        "cod_curso": "37",
+        "nome_carreira": "Engenharias FZEA",
+        "nome_curso": "Engenharia de Alimentos - Noturno - Pirassununga"
+      },
+      "38": {
+        "area": "Exatas",
+        "cod_carreira": "312",
+        "cod_curso": "38",
+        "nome_carreira": "Engenharias FZEA",
+        "nome_curso": "Engenharia deBiossistemas - Pirassununga"
+      }
+    },
+    "cidade": ""
+  },
+  "313": {
+    "cod_carreira": "313",
+    "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+    "area": "Exatas",
+    "cursos": {
+      "39": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "39",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Astronomia - São Paulo Butantã"
+      },
+      "40": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "40",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Estatística - São Paulo Butantã"
+      },
+      "41": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "41",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Estatística e Ciência de Dados - São Carlos"
+      },
+      "42": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "42",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Física - Integral - São Carlos"
+      },
+      "43": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "43",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Física - Integral - São Paulo Butantã"
+      },
+      "44": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "44",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Física - Noturno - São Paulo Butantã"
+      },
+      "45": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "45",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Física Biomolecular - São Carlos"
+      },
+      "46": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "46",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Física Computacional - São Carlos"
+      },
+      "47": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "47",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Geofísica - São Paulo Butantã"
+      },
+      "48": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "48",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Matemática - São Carlos"
+      },
+      "49": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "49",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Matemática - São Paulo Butantã"
+      },
+      "50": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "50",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Matemática Aplicada - São Paulo Butantã"
+      },
+      "51": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "51",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Matemática Aplicada a Negócios - Ribeirão Preto"
+      },
+      "52": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "52",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Matemática Aplicada e Computação Científica - São Carlos"
+      },
+      "53": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "53",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Matemática Aplicada e Computacional - São Paulo Butantã"
+      },
+      "54": {
+        "area": "Exatas",
+        "cod_carreira": "313",
+        "cod_curso": "54",
+        "nome_carreira": "Física / FísicaComputacional / FísicaBiomolecular / Meteorologia / Geofísica / Astronomia / Estatística / Matemática / MatemáticaAplicada / Matemática Aplicada a Negócios",
+        "nome_curso": "Meteorologia - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "314": {
+    "cod_carreira": "314",
+    "nome_carreira": "Física Médica",
+    "area": "Exatas",
+    "cursos": {
+      "55": {
+        "area": "Exatas",
+        "cod_carreira": "314",
+        "cod_curso": "55",
+        "nome_carreira": "Física Médica",
+        "nome_curso": "Física Médica - Ribeirão Preto"
+      },
+      "56": {
+        "area": "Exatas",
+        "cod_carreira": "314",
+        "cod_curso": "56",
+        "nome_carreira": "Física Médica",
+        "nome_curso": "Física Médica - São Paulo Butantã / Quadrilátero"
+      }
+    },
+    "cidade": ""
+  },
+  "315": {
+    "cod_carreira": "315",
+    "nome_carreira": "Geociências e Educação Ambiental",
+    "area": "Exatas",
+    "cursos": {
+      "57": {
+        "area": "Exatas",
+        "cod_carreira": "315",
+        "cod_curso": "57",
+        "nome_carreira": "Geociências e Educação Ambiental",
+        "nome_curso": "Geociências e Educação Ambiental"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "316": {
+    "cod_carreira": "316",
+    "nome_carreira": "Geologia",
+    "area": "Exatas",
+    "cursos": {
+      "58": {
+        "area": "Exatas",
+        "cod_carreira": "316",
+        "cod_curso": "58",
+        "nome_carreira": "Geologia",
+        "nome_curso": "Geologia"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "317": {
+    "cod_carreira": "317",
+    "nome_carreira": "Informática Biomédica",
+    "area": "Exatas",
+    "cursos": {
+      "59": {
+        "area": "Exatas",
+        "cod_carreira": "317",
+        "cod_curso": "59",
+        "nome_carreira": "Informática Biomédica",
+        "nome_curso": "Informática Biomédica"
+      }
+    },
+    "cidade": "Ribeirão Preto"
+  },
+  "318": {
+    "cod_carreira": "318",
+    "nome_carreira": "Licenciatura em Matemática / Física",
+    "area": "Exatas",
+    "cursos": {
+      "60": {
+        "area": "Exatas",
+        "cod_carreira": "318",
+        "cod_curso": "60",
+        "nome_carreira": "Licenciatura em Matemática / Física",
+        "nome_curso": "Física - Integral - São Paulo Butantã"
+      },
+      "61": {
+        "area": "Exatas",
+        "cod_carreira": "318",
+        "cod_curso": "61",
+        "nome_carreira": "Licenciatura em Matemática / Física",
+        "nome_curso": "Física - Noturno - São Paulo Butantã"
+      },
+      "62": {
+        "area": "Exatas",
+        "cod_carreira": "318",
+        "cod_curso": "62",
+        "nome_carreira": "Licenciatura em Matemática / Física",
+        "nome_curso": "Matemática - Matutino - São Paulo Butantã"
+      },
+      "63": {
+        "area": "Exatas",
+        "cod_carreira": "318",
+        "cod_curso": "63",
+        "nome_carreira": "Licenciatura em Matemática / Física",
+        "nome_curso": "Matemática - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "319": {
+    "cod_carreira": "319",
+    "nome_carreira": "Oceanografia",
+    "area": "Exatas",
+    "cursos": {
+      "64": {
+        "area": "Exatas",
+        "cod_carreira": "319",
+        "cod_curso": "64",
+        "nome_carreira": "Oceanografia",
+        "nome_curso": "Oceanografia"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "320": {
+    "cod_carreira": "320",
+    "nome_carreira": "Química",
+    "area": "Exatas",
+    "cursos": {
+      "65": {
+        "area": "Exatas",
+        "cod_carreira": "320",
+        "cod_curso": "65",
+        "nome_carreira": "Química",
+        "nome_curso": "Química - Integral - Ribeirão Preto"
+      },
+      "66": {
+        "area": "Exatas",
+        "cod_carreira": "320",
+        "cod_curso": "66",
+        "nome_carreira": "Química",
+        "nome_curso": "Química - Noturno - Ribeirão Preto"
+      }
+    },
+    "cidade": ""
+  },
+  "321": {
+    "cod_carreira": "321",
+    "nome_carreira": "Química",
+    "area": "Exatas",
+    "cursos": {
+      "67": {
+        "area": "Exatas",
+        "cod_carreira": "321",
+        "cod_curso": "67",
+        "nome_carreira": "Química",
+        "nome_curso": "Química - Integral - São Paulo Butantã"
+      },
+      "68": {
+        "area": "Exatas",
+        "cod_carreira": "321",
+        "cod_curso": "68",
+        "nome_carreira": "Química",
+        "nome_curso": "Química - Noturno - São Paulo Butantã"
+      },
+      "69": {
+        "area": "Exatas",
+        "cod_carreira": "321",
+        "cod_curso": "69",
+        "nome_carreira": "Química",
+        "nome_curso": "Química – Habilitação Fundamental ou Habilitação Tecnológica com Ênfases em: Alimentos; Ambiental; Gestão de Qualidade e Materiais - São Carlos"
+      }
+    },
+    "cidade": ""
+  },
+  "322": {
+    "cod_carreira": "322",
+    "nome_carreira": "Sistemas de Informação",
+    "area": "Exatas",
+    "cursos": {
+      "70": {
+        "area": "Exatas",
+        "cod_carreira": "322",
+        "cod_curso": "70",
+        "nome_carreira": "Sistemas de Informação",
+        "nome_curso": "Sistemas de Informação"
+      }
+    },
+    "cidade": "São Carlos"
+  },
+  "501": {
+    "cod_carreira": "501",
+    "nome_carreira": "Administração, Ciências Contábeis, Ciências Econômicas, Finanças e Negócios",
+    "area": "Humanas",
+    "cursos": {
+      "01": {
+        "area": "Humanas",
+        "cod_carreira": "501",
+        "cod_curso": "01",
+        "nome_carreira": "Administração, Ciências Contábeis, Ciências Econômicas, Finanças e Negócios",
+        "nome_curso": "Administração - Matutino - Ribeirão Preto"
+      },
+      "02": {
+        "area": "Humanas",
+        "cod_carreira": "501",
+        "cod_curso": "02",
+        "nome_carreira": "Administração, Ciências Contábeis, Ciências Econômicas, Finanças e Negócios",
+        "nome_curso": "Administração - Noturno - Ribeirão Preto"
+      },
+      "03": {
+        "area": "Humanas",
+        "cod_carreira": "501",
+        "cod_curso": "03",
+        "nome_carreira": "Administração, Ciências Contábeis, Ciências Econômicas, Finanças e Negócios",
+        "nome_curso": "Ciências Contábeis - Ribeirão Preto"
+      },
+      "04": {
+        "area": "Humanas",
+        "cod_carreira": "501",
+        "cod_curso": "04",
+        "nome_carreira": "Administração, Ciências Contábeis, Ciências Econômicas, Finanças e Negócios",
+        "nome_curso": "Ciências Econômicas - Ribeirão Preto"
+      },
+      "05": {
+        "area": "Humanas",
+        "cod_carreira": "501",
+        "cod_curso": "05",
+        "nome_carreira": "Administração, Ciências Contábeis, Ciências Econômicas, Finanças e Negócios",
+        "nome_curso": "Finanças e Negócios - Ribeirão Preto"
+      }
+    },
+    "cidade": ""
+  },
+  "502": {
+    "cod_carreira": "502",
+    "nome_carreira": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+    "area": "Humanas",
+    "cursos": {
+      "06": {
+        "area": "Humanas",
+        "cod_carreira": "502",
+        "cod_curso": "06",
+        "nome_carreira": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+        "nome_curso": "Administração - Integral - São Paulo Butantã"
+      },
+      "07": {
+        "area": "Humanas",
+        "cod_carreira": "502",
+        "cod_curso": "07",
+        "nome_carreira": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+        "nome_curso": "Administração - Noturno - São Paulo Butantã"
+      },
+      "08": {
+        "area": "Humanas",
+        "cod_carreira": "502",
+        "cod_curso": "08",
+        "nome_carreira": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+        "nome_curso": "Ciências Atuariais - São Paulo Butantã"
+      },
+      "09": {
+        "area": "Humanas",
+        "cod_carreira": "502",
+        "cod_curso": "09",
+        "nome_carreira": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+        "nome_curso": "Ciências Contábeis - São Paulo Butantã"
+      },
+      "10": {
+        "area": "Humanas",
+        "cod_carreira": "502",
+        "cod_curso": "10",
+        "nome_carreira": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+        "nome_curso": "Ciências Econômicas - Integral - São Paulo Butantã"
+      },
+      "11": {
+        "area": "Humanas",
+        "cod_carreira": "502",
+        "cod_curso": "11",
+        "nome_carreira": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+        "nome_curso": "Ciências Econômicas - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "503": {
+    "cod_carreira": "503",
+    "nome_carreira": "Ciências Econômicas e Administração",
+    "area": "Humanas",
+    "cursos": {
+      "12": {
+        "area": "Humanas",
+        "cod_carreira": "503",
+        "cod_curso": "12",
+        "nome_carreira": "Ciências Econômicas e Administração",
+        "nome_curso": "Administração - Integral - Piracicaba"
+      },
+      "13": {
+        "area": "Humanas",
+        "cod_carreira": "503",
+        "cod_curso": "13",
+        "nome_carreira": "Ciências Econômicas e Administração",
+        "nome_curso": "Ciências Econômicas - Integral - Piracicaba"
+      }
+    },
+    "cidade": ""
+  },
+  "504": {
+    "cod_carreira": "504",
+    "nome_carreira": "Arquitetura",
+    "area": "Humanas",
+    "cursos": {
+      "14": {
+        "area": "Humanas",
+        "cod_carreira": "504",
+        "cod_curso": "14",
+        "nome_carreira": "Arquitetura",
+        "nome_curso": "Arquitetura e Urbanismo"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "505": {
+    "cod_carreira": "505",
+    "nome_carreira": "Arquitetura",
+    "area": "Humanas",
+    "cursos": {
+      "15": {
+        "area": "Humanas",
+        "cod_carreira": "505",
+        "cod_curso": "15",
+        "nome_carreira": "Arquitetura",
+        "nome_curso": "Arquitetura e Urbanismo"
+      }
+    },
+    "cidade": "São Carlos"
+  },
+  "506": {
+    "cod_carreira": "506",
+    "nome_carreira": "Artes Cênicas",
+    "area": "Humanas",
+    "cursos": {
+      "16": {
+        "area": "Humanas",
+        "cod_carreira": "506",
+        "cod_curso": "16",
+        "nome_carreira": "Artes Cênicas",
+        "nome_curso": "Artes Cênicas"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "507": {
+    "cod_carreira": "507",
+    "nome_carreira": "Artes Visuais",
+    "area": "Humanas",
+    "cursos": {
+      "17": {
+        "area": "Humanas",
+        "cod_carreira": "507",
+        "cod_curso": "17",
+        "nome_carreira": "Artes Visuais",
+        "nome_curso": "Artes Visuais"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "508": {
+    "cod_carreira": "508",
+    "nome_carreira": "Audiovisual",
+    "area": "Humanas",
+    "cursos": {
+      "18": {
+        "area": "Humanas",
+        "cod_carreira": "508",
+        "cod_curso": "18",
+        "nome_carreira": "Audiovisual",
+        "nome_curso": "Audiovisual"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "509": {
+    "cod_carreira": "509",
+    "nome_carreira": "Biblioteconomia e Ciência da Informação",
+    "area": "Humanas",
+    "cursos": {
+      "19": {
+        "area": "Humanas",
+        "cod_carreira": "509",
+        "cod_curso": "19",
+        "nome_carreira": "Biblioteconomia e Ciência da Informação",
+        "nome_curso": "Biblioteconomiae Ciência da Informação - Matutino - São Paulo Butantã"
+      },
+      "20": {
+        "area": "Humanas",
+        "cod_carreira": "509",
+        "cod_curso": "20",
+        "nome_carreira": "Biblioteconomia e Ciência da Informação",
+        "nome_curso": "Biblioteconomiae Ciência da Informação - Noturno - São Paulo Butantã"
+      },
+      "21": {
+        "area": "Humanas",
+        "cod_carreira": "509",
+        "cod_curso": "21",
+        "nome_carreira": "Biblioteconomia e Ciência da Informação",
+        "nome_curso": "Biblioteconomiae Ciência da Informação - Noturno - Ribeirão Preto"
+      }
+    },
+    "cidade": ""
+  },
+  "510": {
+    "cod_carreira": "510",
+    "nome_carreira": "Ciências Sociais",
+    "area": "Humanas",
+    "cursos": {
+      "22": {
+        "area": "Humanas",
+        "cod_carreira": "510",
+        "cod_curso": "22",
+        "nome_carreira": "Ciências Sociais",
+        "nome_curso": "Ciências Sociais - Noturno - São Paulo Butantã"
+      },
+      "23": {
+        "area": "Humanas",
+        "cod_carreira": "510",
+        "cod_curso": "23",
+        "nome_carreira": "Ciências Sociais",
+        "nome_curso": "Ciências Sociais - Vespertino - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "511": {
+    "cod_carreira": "511",
+    "nome_carreira": "Design",
+    "area": "Humanas",
+    "cursos": {
+      "24": {
+        "area": "Humanas",
+        "cod_carreira": "511",
+        "cod_curso": "24",
+        "nome_carreira": "Design",
+        "nome_curso": "Design"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "512": {
+    "cod_carreira": "512",
+    "nome_carreira": "Direito",
+    "area": "Humanas",
+    "cursos": {
+      "25": {
+        "area": "Humanas",
+        "cod_carreira": "512",
+        "cod_curso": "25",
+        "nome_carreira": "Direito",
+        "nome_curso": "Direito - Matutino - São Paulo Quadrilátero"
+      },
+      "26": {
+        "area": "Humanas",
+        "cod_carreira": "512",
+        "cod_curso": "26",
+        "nome_carreira": "Direito",
+        "nome_curso": "Direito - Noturno - São Paulo Quadrilátero"
+      },
+      "27": {
+        "area": "Humanas",
+        "cod_carreira": "512",
+        "cod_curso": "27",
+        "nome_carreira": "Direito",
+        "nome_curso": "Direito - Integral - Ribeirão Preto"
+      }
+    },
+    "cidade": ""
+  },
+  "513": {
+    "cod_carreira": "513",
+    "nome_carreira": "Editoração",
+    "area": "Humanas",
+    "cursos": {
+      "28": {
+        "area": "Humanas",
+        "cod_carreira": "513",
+        "cod_curso": "28",
+        "nome_carreira": "Editoração",
+        "nome_curso": "Comunicação Social: Habilitação em Editoração"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "514": {
+    "cod_carreira": "514",
+    "nome_carreira": "Educomunicação",
+    "area": "Humanas",
+    "cursos": {
+      "29": {
+        "area": "Humanas",
+        "cod_carreira": "514",
+        "cod_curso": "29",
+        "nome_carreira": "Educomunicação",
+        "nome_curso": "Educomunicação"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "515": {
+    "cod_carreira": "515",
+    "nome_carreira": "Filosofia",
+    "area": "Humanas",
+    "cursos": {
+      "30": {
+        "area": "Humanas",
+        "cod_carreira": "515",
+        "cod_curso": "30",
+        "nome_carreira": "Filosofia",
+        "nome_curso": "Filosofia - Noturno - São Paulo Butantã"
+      },
+      "31": {
+        "area": "Humanas",
+        "cod_carreira": "515",
+        "cod_curso": "31",
+        "nome_carreira": "Filosofia",
+        "nome_curso": "Filosofia - Vespertino - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "516": {
+    "cod_carreira": "516",
+    "nome_carreira": "Geografia",
+    "area": "Humanas",
+    "cursos": {
+      "32": {
+        "area": "Humanas",
+        "cod_carreira": "516",
+        "cod_curso": "32",
+        "nome_carreira": "Geografia",
+        "nome_curso": "Geografia - Noturno - São Paulo Butantã"
+      },
+      "33": {
+        "area": "Humanas",
+        "cod_carreira": "516",
+        "cod_curso": "33",
+        "nome_carreira": "Geografia",
+        "nome_curso": "Geografia - Vespertino - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "517": {
+    "cod_carreira": "517",
+    "nome_carreira": "Gestão Ambiental",
+    "area": "Humanas",
+    "cursos": {
+      "34": {
+        "area": "Humanas",
+        "cod_carreira": "517",
+        "cod_curso": "34",
+        "nome_carreira": "Gestão Ambiental",
+        "nome_curso": "Gestão Ambiental - Matutino - São Paulo Leste"
+      },
+      "35": {
+        "area": "Humanas",
+        "cod_carreira": "517",
+        "cod_curso": "35",
+        "nome_carreira": "Gestão Ambiental",
+        "nome_curso": "Gestão Ambiental - Noturno - São Paulo Leste"
+      },
+      "36": {
+        "area": "Humanas",
+        "cod_carreira": "517",
+        "cod_curso": "36",
+        "nome_carreira": "Gestão Ambiental",
+        "nome_curso": "Gestão Ambiental - Noturno - Piracicaba"
+      }
+    },
+    "cidade": ""
+  },
+  "518": {
+    "cod_carreira": "518",
+    "nome_carreira": "Gestão de Políticas Públicas",
+    "area": "Humanas",
+    "cursos": {
+      "37": {
+        "area": "Humanas",
+        "cod_carreira": "518",
+        "cod_curso": "37",
+        "nome_carreira": "Gestão de Políticas Públicas",
+        "nome_curso": "Gestão de Políticas Públicas - Matutino - São Paulo Leste"
+      },
+      "38": {
+        "area": "Humanas",
+        "cod_carreira": "518",
+        "cod_curso": "38",
+        "nome_carreira": "Gestão de Políticas Públicas",
+        "nome_curso": "Gestão de Políticas Públicas - Noturno - São Paulo Leste"
+      }
+    },
+    "cidade": ""
+  },
+  "519": {
+    "cod_carreira": "519",
+    "nome_carreira": "História",
+    "area": "Humanas",
+    "cursos": {
+      "39": {
+        "area": "Humanas",
+        "cod_carreira": "519",
+        "cod_curso": "39",
+        "nome_carreira": "História",
+        "nome_curso": "História - Noturno - São Paulo Butantã"
+      },
+      "40": {
+        "area": "Humanas",
+        "cod_carreira": "519",
+        "cod_curso": "40",
+        "nome_carreira": "História",
+        "nome_curso": "História - Vespertino - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "520": {
+    "cod_carreira": "520",
+    "nome_carreira": "Jornalismo",
+    "area": "Humanas",
+    "cursos": {
+      "41": {
+        "area": "Humanas",
+        "cod_carreira": "520",
+        "cod_curso": "41",
+        "nome_carreira": "Jornalismo",
+        "nome_curso": "Jornalismo - Matutino - São Paulo Butantã"
+      },
+      "42": {
+        "area": "Humanas",
+        "cod_carreira": "520",
+        "cod_curso": "42",
+        "nome_carreira": "Jornalismo",
+        "nome_curso": "Jornalismo - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "521": {
+    "cod_carreira": "521",
+    "nome_carreira": "Letras",
+    "area": "Humanas",
+    "cursos": {
+      "43": {
+        "area": "Humanas",
+        "cod_carreira": "521",
+        "cod_curso": "43",
+        "nome_carreira": "Letras",
+        "nome_curso": "Letras - Matutino - São Paulo Butantã"
+      },
+      "44": {
+        "area": "Humanas",
+        "cod_carreira": "521",
+        "cod_curso": "44",
+        "nome_carreira": "Letras",
+        "nome_curso": "Letras - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "522": {
+    "cod_carreira": "522",
+    "nome_carreira": "Marketing",
+    "area": "Humanas",
+    "cursos": {
+      "45": {
+        "area": "Humanas",
+        "cod_carreira": "522",
+        "cod_curso": "45",
+        "nome_carreira": "Marketing",
+        "nome_curso": "Marketing - Noturno - São Paulo Leste"
+      },
+      "46": {
+        "area": "Humanas",
+        "cod_carreira": "522",
+        "cod_curso": "46",
+        "nome_carreira": "Marketing",
+        "nome_curso": "Marketing - Matutino - São Paulo Leste"
+      }
+    },
+    "cidade": ""
+  },
+  "523": {
+    "cod_carreira": "523",
+    "nome_carreira": "Música",
+    "area": "Humanas",
+    "cursos": {
+      "47": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "47",
+        "nome_carreira": "Música",
+        "nome_curso": "Música - São Paulo Butantã"
+      },
+      "48": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "48",
+        "nome_carreira": "Música",
+        "nome_curso": "Música: Habilitação em Canto e Arte Lírica - São Paulo Butantã"
+      },
+      "49": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "49",
+        "nome_carreira": "Música",
+        "nome_curso": "Música: Habilitação em Composição ou Habilitação em Regência - São Paulo Butantã"
+      },
+      "50": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "50",
+        "nome_carreira": "Música",
+        "nome_curso": "Música: Habilitação em Instrumento de Cordas (viola, violino ou violoncelo) - São Paulo Butantã"
+      },
+      "51": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "51",
+        "nome_carreira": "Música",
+        "nome_curso": "Música: Habilitação em Instrumento de Cordas Dedilhadas (violão ou viola brasileira) - São Paulo Butantã"
+      },
+      "52": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "52",
+        "nome_carreira": "Música",
+        "nome_curso": "Música: Habilitação em Instrumento de Sopro (flauta, oboé, clarinete, clarone, fagote, trompa, trompete, trombone ou tuba) - São Paulo Butantã"
+      },
+      "53": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "53",
+        "nome_carreira": "Música",
+        "nome_curso": "Música: Habilitação em Instrumento de Teclado (piano) - São Paulo Butantã"
+      },
+      "54": {
+        "area": "Humanas",
+        "cod_carreira": "523",
+        "cod_curso": "54",
+        "nome_carreira": "Música",
+        "nome_curso": "Música: Habilitação em Instrumento Percussão - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "524": {
+    "cod_carreira": "524",
+    "nome_carreira": "Música",
+    "area": "Humanas",
+    "cursos": {
+      "55": {
+        "area": "Humanas",
+        "cod_carreira": "524",
+        "cod_curso": "55",
+        "nome_carreira": "Música",
+        "nome_curso": "Música"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "525": {
+    "cod_carreira": "525",
+    "nome_carreira": "Pedagogia",
+    "area": "Humanas",
+    "cursos": {
+      "56": {
+        "area": "Humanas",
+        "cod_carreira": "525",
+        "cod_curso": "56",
+        "nome_carreira": "Pedagogia",
+        "nome_curso": "Pedagogia - Noturno - São Paulo Butantã"
+      },
+      "57": {
+        "area": "Humanas",
+        "cod_carreira": "525",
+        "cod_curso": "57",
+        "nome_carreira": "Pedagogia",
+        "nome_curso": "Pedagogia - Vespertino - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "526": {
+    "cod_carreira": "526",
+    "nome_carreira": "Pedagogia",
+    "area": "Humanas",
+    "cursos": {
+      "58": {
+        "area": "Humanas",
+        "cod_carreira": "526",
+        "cod_curso": "58",
+        "nome_carreira": "Pedagogia",
+        "nome_curso": "Pedagogia"
+      }
+    },
+    "cidade": "Ribeirão Preto"
+  },
+  "527": {
+    "cod_carreira": "527",
+    "nome_carreira": "Publicidade e Propaganda",
+    "area": "Humanas",
+    "cursos": {
+      "59": {
+        "area": "Humanas",
+        "cod_carreira": "527",
+        "cod_curso": "59",
+        "nome_carreira": "Publicidade e Propaganda",
+        "nome_curso": "Comunicação Social: Habilitação em Publicidade e Propaganda - Matutino - São Paulo Butantã"
+      },
+      "60": {
+        "area": "Humanas",
+        "cod_carreira": "527",
+        "cod_curso": "60",
+        "nome_carreira": "Publicidade e Propaganda",
+        "nome_curso": "Comunicação Social: Habilitação em Publicidade e Propaganda - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "528": {
+    "cod_carreira": "528",
+    "nome_carreira": "Relações Internacionais",
+    "area": "Humanas",
+    "cursos": {
+      "61": {
+        "area": "Humanas",
+        "cod_carreira": "528",
+        "cod_curso": "61",
+        "nome_carreira": "Relações Internacionais",
+        "nome_curso": "Relações Internacionais - Noturno - São Paulo Butantã"
+      },
+      "62": {
+        "area": "Humanas",
+        "cod_carreira": "528",
+        "cod_curso": "62",
+        "nome_carreira": "Relações Internacionais",
+        "nome_curso": "Relações Internacionais - Vespertino - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "529": {
+    "cod_carreira": "529",
+    "nome_carreira": "Relações Públicas",
+    "area": "Humanas",
+    "cursos": {
+      "63": {
+        "area": "Humanas",
+        "cod_carreira": "529",
+        "cod_curso": "63",
+        "nome_carreira": "Relações Públicas",
+        "nome_curso": "Relações Públicas - Matutino - São Paulo Butantã"
+      },
+      "64": {
+        "area": "Humanas",
+        "cod_carreira": "529",
+        "cod_curso": "64",
+        "nome_carreira": "Relações Públicas",
+        "nome_curso": "Relações Públicas - Noturno - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  },
+  "530": {
+    "cod_carreira": "530",
+    "nome_carreira": "Têxtil e Moda",
+    "area": "Humanas",
+    "cursos": {
+      "65": {
+        "area": "Humanas",
+        "cod_carreira": "530",
+        "cod_curso": "65",
+        "nome_carreira": "Têxtil e Moda",
+        "nome_curso": "Têxtil e Moda"
+      }
+    },
+    "cidade": "São Paulo"
+  },
+  "531": {
+    "cod_carreira": "531",
+    "nome_carreira": "Turismo",
+    "area": "Humanas",
+    "cursos": {
+      "66": {
+        "area": "Humanas",
+        "cod_carreira": "531",
+        "cod_curso": "66",
+        "nome_carreira": "Turismo",
+        "nome_curso": "Lazer e Turismo - Vespertino - São Paulo Leste"
+      },
+      "67": {
+        "area": "Humanas",
+        "cod_carreira": "531",
+        "cod_curso": "67",
+        "nome_carreira": "Turismo",
+        "nome_curso": "Lazer e Turismo - Noturno - São Paulo Leste"
+      },
+      "68": {
+        "area": "Humanas",
+        "cod_carreira": "531",
+        "cod_curso": "68",
+        "nome_carreira": "Turismo",
+        "nome_curso": "Turismo - São Paulo Butantã"
+      }
+    },
+    "cidade": ""
+  }
+}
