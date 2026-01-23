@@ -333,7 +333,7 @@ function gerar_menu_cursos(codcarreira) {
   if (codcarreira === "?") return ""
   // esperar os códigos baixarem
   if (!codigos) {
-    alert("os códigos de carreira e curso ainda estão baixando. espere!");
+    alert("Erro temporário -- recarregue e espere alguns segundos na guia.");
     location.reload();
   }
   // começar com a opção de "qualquer curso"
