@@ -1,5 +1,13 @@
 [
   {
+    "ano": 2026,
+    "ordinal": 1,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "chamada",
+    "arquivo": "2026_1.txt"
+  },
+  {
     "ano": 2024,
     "ordinal": 1,
     "tipo": "pdf",
@@ -180,7 +188,7 @@
     "ordinal": 3,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2020_3.txt"
   },
   {
@@ -188,7 +196,7 @@
     "ordinal": 2,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2020_2.txt"
   },
   {
@@ -196,7 +204,7 @@
     "ordinal": 1,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2020_1.txt"
   },
   {
@@ -204,7 +212,7 @@
     "ordinal": 4,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "lista de espera",
+    "natureza": "lista de espera",
     "arquivo": "2019_e4.txt"
   },
   {
@@ -212,7 +220,7 @@
     "ordinal": 3,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "lista de espera",
+    "natureza": "lista de espera",
     "arquivo": "2019_e3.txt"
   },
   {
@@ -220,7 +228,7 @@
     "ordinal": 2,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "lista de espera",
+    "natureza": "lista de espera",
     "arquivo": "2019_e2.txt"
   },
   {
@@ -228,7 +236,7 @@
     "ordinal": 1,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "lista de espera",
+    "natureza": "lista de espera",
     "arquivo": "2019_e1.txt"
   },
   {
@@ -236,7 +244,7 @@
     "ordinal": 5,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2019_5.txt"
   },
   {
@@ -244,7 +252,7 @@
     "ordinal": 4,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2019_4.txt"
   },
   {
@@ -252,7 +260,7 @@
     "ordinal": 3,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2019_3.txt"
   },
   {
@@ -260,7 +268,7 @@
     "ordinal": 2,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2019_2.txt"
   },
   {
@@ -268,15 +276,15 @@
     "ordinal": 1,
     "tipo": "pdf",
     "cuc": true,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2019_1.txt"
   },
   {
     "ano": 2018,
     "ordinal": 8,
-		"tipo": "pdf",
+    "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_8.txt"
   },
   {
@@ -284,7 +292,7 @@
     "ordinal": 7,
     "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_7.txt"
   },
   {
@@ -292,7 +300,7 @@
     "ordinal": 6,
     "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_6.txt"
   },
   {
@@ -300,7 +308,7 @@
     "ordinal": 5,
     "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_5.txt"
   },
   {
@@ -308,7 +316,7 @@
     "ordinal": 4,
     "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_4.txt"
   },
   {
@@ -316,7 +324,7 @@
     "ordinal": 3,
     "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_3.txt"
   },
   {
@@ -324,7 +332,7 @@
     "ordinal": 2,
     "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_2.txt"
   },
   {
@@ -332,7 +340,7 @@
     "ordinal": 1,
     "tipo": "pdf",
     "cuc": false,
-		"natureza": "chamada",
+    "natureza": "chamada",
     "arquivo": "2018_1.txt"
   }
 ]
