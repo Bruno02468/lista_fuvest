@@ -1,6 +1,22 @@
 [
   {
     "ano": 2026,
+    "ordinal": 3,
+    "tipo": "pdf_cringe",
+    "cuc": false,
+    "natureza": "chamada",
+    "arquivo": "2026_3.txt"
+  },
+  {
+    "ano": 2026,
+    "ordinal": 2,
+    "tipo": "pdf",
+    "cuc": false,
+    "natureza": "chamada",
+    "arquivo": "2026_2.txt"
+  },
+  {
+    "ano": 2026,
     "ordinal": 1,
     "tipo": "pdf",
     "cuc": false,
